@@ -1,61 +1,58 @@
-from flask import Flask, render_template, request, send_file
-from Bio import Entrez
+from flask import Flask, render_template, request
 import pandas as pd
+import openpyxl
 import os
+from Bio import Entrez
 
 app = Flask(__name__)
-app.secret_key = 'supersecretkey'
 
-# Set your email for PubMed API
-Entrez.email = "your_email@example.com"
+# Set up Entrez email
+Entrez.email = "your-email@example.com"
 
-@app.route('/')
+@app.route("/")
 def index():
-    return render_template('index.html')
+    return render_template("index.html")
 
-@app.route('/search', methods=['POST'])
+@app.route("/search", methods=["POST"])
 def search():
-    # Get the department query from the form
-    query = request.form.get('query')
-
-    # Fetch data from PubMed
-    handle = Entrez.esearch(db="pubmed", term=query, retmax=50, sort="pub_date")
-    record = Entrez.read(handle)
-    handle.close()
-
-    ids = record["IdList"]
+    query = request.form.get("query")
     results = []
 
-    for pub_id in ids:
-        summary_handle = Entrez.esummary(db="pubmed", id=pub_id)
-        summary = Entrez.read(summary_handle)
-        summary_handle.close()
+    if query:
+        # Search PubMed using Entrez
+        handle = Entrez.esearch(db="pubmed", term=query, retmax=10)
+        record = Entrez.read(handle)
+        handle.close()
 
-        for doc in summary:
-            results.append({
-                "DOI": doc.get("DOI", "N/A"),
-                "PMID": doc["Id"],
-                "Title": doc["Title"],
-                "Journal": doc["Source"],
-                "Year": doc["PubDate"].split(" ")[0] if doc.get("PubDate") else "N/A"
-            })
+        id_list = record.get("IdList", [])
+        for pubmed_id in id_list:
+            # Fetch details for each PubMed ID
+            handle = Entrez.esummary(db="pubmed", id=pubmed_id)
+            summary = Entrez.read(handle)
+            handle.close()
 
-    # Convert to DataFrame
+            if summary and "DocumentSummarySet" in summary:
+                doc = summary["DocumentSummarySet"]["DocumentSummary"][0]
+                results.append({
+                    "DOI": doc.get("ELocationID", ""),
+                    "PMID": pubmed_id,
+                    "Title": doc.get("Title", ""),
+                    "Journal": doc.get("Source", ""),
+                    "Year": doc.get("PubDate", "").split(" ")[0]
+                })
+
+    # Convert results to a DataFrame
     df = pd.DataFrame(results)
 
-    # Save as CSV
-    output_csv = "results.csv"
-    df.to_csv(output_csv, index=False)
+    # Save to CSV and Excel
+    csv_file = "results.csv"
+    excel_file = "results.xlsx"
+    df.to_csv(csv_file, index=False)
+    df.to_excel(excel_file, index=False, engine="openpyxl")
 
-    # Save as text
-    output_text = "results.txt"
-    df.to_string(open(output_text, "w"), index=False)
+    return render_template("results.html", results=results)
 
-    return render_template('results.html', results=results, csv=output_csv, text=output_text)
-
-@app.route('/download/<filename>')
-def download(filename):
-    return send_file(filename, as_attachment=True)
-
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    # Bind to 0.0.0.0 and use the PORT environment variable
+    port = int(os.environ.get("PORT", 5000))  # Default to port 5000 if not set
+    app.run(host="0.0.0.0", port=port)
