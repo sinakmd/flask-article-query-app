@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+    />
+    <style>
+        body {
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .box {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 450px;
+        }
+        .btn-csv, .btn-text {
+            border-radius: 0.375rem !important; /* Standard Bootstrap roundness */
+            text-align: center;
+            width: 100%; /* Full-width buttons */
+        }
+        .btn-csv {
+            background-color: #007bff;
+            color: white;
+        }
+        .btn-csv:hover {
+            background-color: #0056b3;
+            color: white;
+        }
+        .btn-text {
+            background-color: #28a745;
+            color: white;
+        }
+        .btn-text:hover {
+            background-color: #1e7e34;
+            color: white;
+        }
+        .result-header {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .btn-group {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h2 class="text-center">Search Results</h2>
+        <p class="text-center">
+            <strong>Total files created:</strong> {{ total_files }}
+        </p>
+        <div class="result-header">Download combined files:</div>
+        <div class="btn-group">
+            <a href="/download/combined_results.csv" class="btn btn-csv">Download Combined CSV</a>
+            <a href="/download/combined_results.txt" class="btn btn-text">Download Combined Text</a>
+        </div>
+        <div class="result-header">Download individual files:</div>
+        <div class="btn-group">
+            {% for file in individual_files %}
+                {% if "csv" in file %}
+                <a href="/download/{{ file }}" class="btn btn-csv">{{ file }}</a>
+                {% elif "txt" in file %}
+                <a href="/download/{{ file }}" class="btn btn-text">{{ file }}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

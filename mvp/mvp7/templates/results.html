@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa; /* Matches the index.html background color */
+        }
+        .results-container {
+            max-width: 700px;
+            margin: 50px auto;
+            background-color: #ffffff; /* Matches the box color in index.html */
+            border-radius: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Matches the shadow in index.html */
+            padding: 20px;
+        }
+        .btn {
+            border-radius: 6px; /* Ensures consistent round corners for all buttons */
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background-color: #0056b3 !important; /* Darker hover effect instead of white */
+            color: #ffffff !important;
+        }
+        .section-title {
+            font-size: 1rem; /* Smaller size for "Download Combined Files" and "Download Individual Files" */
+            font-weight: normal; /* Removes bold styling */
+        }
+    </style>
+</head>
+<body>
+    <div class="results-container">
+        <h2 class="text-center">Search Results</h2>
+        <p>Total files created: {{ total_files }}</p>
+        
+        <h4 class="section-title">Download combined files:</h4>
+        <a href="{{ combined_csv_url }}" class="btn btn-success btn-block mb-2">Download Combined CSV</a>
+        <a href="{{ combined_txt_url }}" class="btn btn-secondary btn-block mb-4">Download Combined Text</a>
+        
+        <h4 class="section-title">Download individual files:</h4>
+        <div class="d-flex flex-wrap justify-content-start">
+            {% for file in individual_files %}
+                {% if "csv" in file %}
+                    <a href="{{ file }}" class="btn btn-success mr-2 mb-2">{{ file }}</a>
+                {% elif "txt" in file %}
+                    <a href="{{ file }}" class="btn btn-secondary mr-2 mb-2">{{ file }}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

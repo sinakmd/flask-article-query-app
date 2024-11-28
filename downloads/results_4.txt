@@ -1,0 +1,233 @@
+PMID	Title	Source	PubDate
+20017694	Development of a calcium-chelating hydrogel for treatment of superficial burns and scalds.	Regen Med	2010 Jan
+19807765	Advanced laser techniques for filler-induced complications.	Dermatol Surg	2009 Oct
+19807755	Host tissue interaction, fate, and risks of degradable and nondegradable gel fillers.	Dermatol Surg	2009 Oct
+19903303	Development of a new chitosan hydrogel for wound dressing.	Wound Repair Regen	2009 Nov-Dec
+19864695	Acellular bovine-derived matrix used on a traumatic crush injury of the hand: a case study.	Ostomy Wound Manage	2009 Oct 15
+19791514	Induction of metalloproteinase 9 secretion from human keratinocytes by pleuran (beta-glucan from Pleurotus ostreatus).	Z Naturforsch C J Biosci	2009 Jul-Aug
+19786824	Acrylamide, acrylic acid and N-isopropylacrylamide hydrogels as osmotic tissue expanders.	Skin Pharmacol Physiol	2009
+19775748	Hydrogel blends of chitin/chitosan, fucoidan and alginate as healing-impaired wound dressings.	Biomaterials	2010 Jan
+19701911	Biomimetic PEG hydrogels crosslinked with minimal plasmin-sensitive tri-amino acid peptides.	J Biomed Mater Res A	2010 Jun 1
+19660048	A serum amyloid P-binding hydrogel speeds healing of partial thickness wounds in pigs.	Wound Repair Regen	2009 May-Jun
+19554098	Wound care in the geriatric client.	Clin Interv Aging	2009
+19533306	Composite hydrogel formulations of stratifin to control MMP-1 expression in dermal fibroblasts.	Pharm Res	2009 Aug
+19496703	Noninvasive and high-resolution optical monitoring of healing of diabetic dermal excisional wounds implanted with biodegradable in situ gelable hydrogels.	Tissue Eng Part C Methods	2010 Apr
+19478568	Pressure ulcers in pediatric patients with spinal cord injury: a review of assessment, prevention, and topical management.	Adv Skin Wound Care	2009 Jun
+19452469	An alginate hydrogel matrix for the localised delivery of a fibroblast/keratinocyte co-culture.	Biotechnol J	2009 May
+19438858	Ibuprofen and hydrogel-released ibuprofen in the reduction of inflammation-induced migration in melanoma cells.	Br J Dermatol	2009 Jul
+19250163	Revisiting biothermal effects on erythematous hypertrophic scars during pregnancy.	J Cosmet Dermatol	2009 Mar
+19248424	The practicing physicians' guide to pressure ulcers in 2008.	Med Health R I	2009 Jan
+19247233	Using a novel wound model to investigate the healing properties of products for superficial wounds.	J Wound Care	2009 Mar
+19247232	Clinical experience with a glucose oxidase-containing dressing on recalcitrant wounds.	J Wound Care	2009 Mar
+19199780	Functional bilayered skin substitute constructed by tissue-engineered extracellular matrix and microsphere-incorporated gelatin hydrogel for wound repair.	Tissue Eng Part A	2009 Sep
+19155821	Nursing interventions to reduce the risk of catheter-associated urinary tract infection. Part 1: Catheter selection.	J Wound Ostomy Continence Nurs	2009 Jan-Feb
+19117976	Treatment in an outpatient setting for a patient with an infected, surgical wound with hypergranulation tissue.	Int J Low Extrem Wounds	2009 Mar
+23074533	Management of chronic pressure ulcers: an evidence-based analysis.	Ont Health Technol Assess Ser	2009
+21718576	Burns (minor thermal).	BMJ Clin Evid	2009 Oct 27
+20663482	Engineered tropoelastin and elastin-based biomaterials.	Adv Protein Chem Struct Biol	2009
+19108884	Multi-layered culture of human skin fibroblasts and keratinocytes through three-dimensional freeform fabrication.	Biomaterials	2009 Mar
+19043221	Preparation of fucoidan-chitosan hydrogel and its application as burn healing accelerator on rabbits.	Biol Pharm Bull	2008 Dec
+19043213	Development of clindamycin-loaded wound dressing with polyvinyl alcohol and sodium alginate.	Biol Pharm Bull	2008 Dec
+19041705	Wound healing properties of Carica papaya latex: in vivo evaluation in mice burn model.	J Ethnopharmacol	2009 Jan 21
+19037138	Acoustic pressure wound therapy in the treatment of stage II pressure ulcers.	Ostomy Wound Manage	2008 Nov
+19030138	Occlusive dressings and the healing of standardized abrasions.	J Athl Train	2008 Oct-Dec
+18837444	The effect of a self-assembling peptide nanofiber scaffold (peptide) when used as a wound dressing for the treatment of deep second degree burns in rats.	J Biomed Mater Res B Appl Biomater	2009 May
+18822733	[Study on treating residual cavity of body surface after abscess drainage by sodium hyaluronate hydrogel].	Zhongguo Xiu Fu Chong Jian Wai Ke Za Zhi	2008 Sep
+18678403	In vitro and in vivo suppression of cellular activity by guanidinoethyl disulfide released from hydrogel microspheres composed of partially oxidized hyaluronan and gelatin.	Biomaterials	2008 Nov
+18666721	RCT on gentian violet versus a hydrogel dressing for radiotherapy-induced moist skin desquamation.	J Wound Care	2008 Jun
+18666717	Bacteriological changes in sloughy venous leg ulcers treated with manuka honey or hydrogel: an RCT.	J Wound Care	2008 Jun
+18642392	Solid emulsion gel as a vehicle for delivery of polyunsaturated fatty acids: implications for tissue repair, dermal angiogenesis and wound healing.	J Tissue Eng Regen Med	2008 Oct
+18639926	Non-cytotoxic, in situ gelable hydrogels composed of N-carboxyethyl chitosan and oxidized dextran.	Biomaterials	2008 Oct
+18598077	Biocompatible wound dressings based on chemically degradable triblock copolymer hydrogels.	Biomacromolecules	2008 Aug
+18594367	Aquamid: where is the reality?	Plast Reconstr Surg	2008 Jul
+21991115	Skin ph variations from the acute phase to re-epithelialization in burn patients treated with new materials (burnshield®, semipermeable adhesive film, dermasilk®, and hyalomatrix®). Non-invasive preliminary experimental clinical trial.	Ann Burns Fire Disasters	2008 Jun 30
+18554291	Surgery guided by confocal laser scanning microscopy for foreign filler granulomas.	Dermatol Surg	2008 Sep
+18544016	Fibrin: a versatile scaffold for tissue engineering applications.	Tissue Eng Part B Rev	2008 Jun
+18464065	Bisphosphonate-containing supramolecular hydrogels for topical decorporation of uranium-contaminated wounds in mice.	Int J Radiat Biol	2008 May
+18442185	A systematic review of the effectiveness of interventions to enhance the healing of chronic ulcers of the foot in diabetes.	Diabetes Metab Res Rev	2008 May-Jun
+18384601	Perioral granulomatous reaction to Dermalive.	Dermatol Surg	2008 Jul
+18378399	Anti-inflammatory properties of a liposomal hydrogel with povidone-iodine (Repithel) for wound healing in vitro.	Burns	2008 Sep
+18374944	Nitric oxide donor improves healing if applied on inflammatory and proliferative phase.	J Surg Res	2008 Sep
+18241915	Attenuation of protease activity in chronic wound fluid with bisphosphonate-functionalised hydrogels.	Biomaterials	2008 Apr
+18222318	Treating the chronic wound: A practical approach to the care of nonhealing wounds and wound care dressings.	J Am Acad Dermatol	2008 Feb
+18211584	Controlled delivery of bFGF to recipient bed enhances the vascularization and viability of an ischemic skin flap.	Wound Repair Regen	2008 Jan-Feb
+18211407	Delayed immune-mediated adverse effects related to hyaluronic acid and acrylic hydrogel dermal fillers: clinical findings, long-term follow-up and review of the literature.	J Eur Acad Dermatol Venereol	2008 Feb
+18201219	Efficacy and cosmetic results of contact gel cooling of the skin during non-ablative laser procedures.	J Dtsch Dermatol Ges	2008 Aug
+18162494	Comparison of negative pressure wound therapy using vacuum-assisted closure with advanced moist wound therapy in the treatment of diabetic foot ulcers: a multicenter randomized controlled trial.	Diabetes Care	2008 Apr
+18047073	Preparation and properties of collagen/modified hyaluronic acid hydrogel for biomedical application.	J Nanosci Nanotechnol	2007 Nov
+18032897	Dew point effect of cooled hydrogel pads on human stratum corneum biosurface.	Dermatology	2008
+18028772	Randomized controlled trial of the absorbency of four dressings and their effects on the evaporation of burn wounds.	Chin Med J (Engl)	2007 Oct 20
+18026014	A focus on ActiFormCool in the reduction of pain in wounds.	Br J Community Nurs	2007 Sep
+17986971	Hydrogel dressings in the treatment of wounds with skin defect complications.	Ortop Traumatol Rehabil	2001 Jan-Mar
+17963217	Wound healing dressings and drug delivery systems: a review.	J Pharm Sci	2008 Aug
+17958852	Eradication of methicillin-resistant Staphylococcus aureus in a chronic wound by a new polyhexanide hydrogel.	J Eur Acad Dermatol Venereol	2007 Nov
+17938343	Consensus panel recommendations for chronic and acute wound dressings.	Arch Dermatol	2007 Oct
+17869678	Ultrathin hydrocolloid dressing in skin damaged from alternating radiotherapy and chemotherapy plus cetuximab in advanced head and neck cancer (G.O.N.O. AlteRCC Italian Trial): in regard to Macmillan et al. (Int J Radiat Oncol Biol Phys 2007;68:864-872).	Int J Radiat Oncol Biol Phys	2007 Oct 1
+17618478	Crosslinked hyaluronan with a protein-like polymer: novel bioresorbable films for biomedical applications.	J Biomed Mater Res A	2008 Feb
+17538258	So what if you are blue? Oral colloidal silver and argyria are out: safe dressings are in.	Adv Skin Wound Care	2007 Jun
+17530632	Tissue response in the rat and the mouse to degradable dextran hydrogels.	J Biomed Mater Res A	2007 Nov
+17522962	Biomedical evaluation of polyvinyl alcohol-gelatin esterified hydrogel for wound dressing.	J Mater Sci Mater Med	2007 Sep
+17487127	Evaluation of dermal irritancy potential of Carboxymethyl-chitosan hydrogel and poly-(acrylic acid) chitin hydrogel.	J Med Assoc Thai	2007 Apr
+17482258	The use of physical hydrogels of chitosan for skin regeneration following third-degree burns.	Biomaterials	2007 Aug
+17475411	The effect of chitosan hydrogel containing DMEM/F12 medium on full-thickness skin defects after deep dermal burn.	Burns	2007 Aug
+17455216	Biocompatibility evaluation of crosslinked chitosan hydrogels after subcutaneous and intraperitoneal implantation in the rat.	J Biomed Mater Res A	2007 Nov
+17415028	The use of a novel oxygenating hydrogel dressing in the treatment of different chronic wounds.	Adv Skin Wound Care	2007 Apr
+17406344	Thermosensitive hydrogel PEG-PLGA-PEG enhances engraftment of muscle-derived stem cells and promotes healing in diabetic wound.	Mol Ther	2007 Jun
+17395988	Evaluating the use of hydrogel sheet dressings in comprehensive burn wound care.	Ostomy Wound Manage	2007 Mar
+17385591	Clinical performance of a hydrogel dressing in chronic wounds: a prospective observational study.	J Wound Care	2007 Mar
+17370081	Semisolid formulations containing dimethyl sulfoxide and alpha-tocopherol for the treatment of extravasation of antiblastic agents.	Arch Dermatol Res	2007 Jul
+17363185	Randomized comparison of dry dressings versus hydrogel in management of radiation-induced moist desquamation.	Int J Radiat Oncol Biol Phys	2007 Jul 1
+17352757	Release of basic fibroblast growth factor from a crosslinked glycosaminoglycan hydrogel promotes wound healing.	Wound Repair Regen	2007 Mar-Apr
+17308650	D-glucosamine-based supramolecular hydrogels to improve wound healing.	Chem Commun (Camb)	2007 Feb 28
+17240459	"Tissue engineered cartilage ""bioshell"" protective layer for subcutaneous implants."	Int J Pediatr Otorhinolaryngol	2007 Apr
+17236219	Vascular endothelial growth factor and dexamethasone release from nonfouling sensor coatings affect the foreign body response.	J Biomed Mater Res A	2007 Jun 15
+17223784	Immobilizing Cu,Zn-superoxide dismutase in hydrogels of carboxymethylcellulose improves its stability and wound healing properties.	Biochemistry (Mosc)	2006 Dec
+17199768	Inflammatory inert poly(ethylene glycol)--protein wound dressing improves healing responses in partial- and full-thickness wounds.	Int Wound J	2006 Dec
+17106898	An active wound dressing for controlled convective mass transfer with the wound bed.	J Biomed Mater Res B Appl Biomater	2007 Jul
+17070552	Stimulation of steroid-suppressed cutaneous healing by repeated topical application of IGF-I: different mechanisms of action based upon the mode of IGF-I delivery.	J Surg Res	2007 May 15
+17022681	Microengineered surface topography facilitates cell grafting from a prototype hydrogel wound dressing with antibacterial capability.	Biotechnol Prog	2006 Sep-Oct
+17004191	[Efficacy of treatment with Repithel and Jelonet in comparison to treatment with Jelonet alone - a randomized clinical trial in patients receiving meshed skin grafts].	Zentralbl Chir	2006 Aug
+16936539	An overview of permanent and semipermanent fillers.	Plast Reconstr Surg	2006 Sep
+16913237	A protocol for the use of amorphous hydrogel to support wound healing in neonatal patients: an adjunct to nursing skin care.	Neonatal Netw	2006 Jul-Aug
+16902876	Prediction of and risk factors for surgical wound infection in the saphenous vein harvesting leg in patients undergoing coronary artery bypass.	Thorac Cardiovasc Surg	2006 Aug
+16869198	An in vitro study of antimicrobial activity and efficacy of iodine-generating hydrogel dressings.	J Wound Care	2006 Jul
+16837138	PVP-iodine in hydrosomes and hydrogel--a novel concept in wound therapy leads to enhanced epithelialization and reduced loss of skin grafts.	Burns	2006 Sep
+16835565	Use of a hydrogel dressing for management of a painful leg ulcer.	Br J Community Nurs	2006 Jun
+16768278	[Local wound care: evidence-based treatments and dressings].	Ned Tijdschr Geneeskd	2006 May 27
+16638409	Management of skin ulcers in a patient with mycosis fungoides.	Dermatol Online J	2006 Feb 28
+16625084	Facial granulomas secondary to Dermalive microimplants: Report of a case with histopathologic differential diagnosis among the granulomas secondary to different injectable permanent filler materials.	Am J Dermatopathol	2006 Apr
+16621321	A polyurethane dressing is beneficial for split-thickness skin-graft donor wound healing.	Burns	2006 Jun
+16579693	Fibronectin functional domains coupled to hyaluronan stimulate adult human dermal fibroblast responses critical for wound healing.	Tissue Eng	2006 Mar
+16546828	Synthesis and evaluation of long-acting D-penicillamine derivatives.	Connect Tissue Res	2005
+16545711	Foreign body reaction due to skin filler: a case report.	Oral Surg Oral Med Oral Pathol Oral Radiol Endod	2006 Apr
+16544309	Medium (DMEM/F12)-containing chitosan hydrogel as adhesive and dressing in autologous skin grafts and accelerator in the healing process.	J Biomed Mater Res B Appl Biomater	2006 Oct
+16494288	Hydrogels.	Nurs Times	2006 Feb 7-13
+16490991	Effect of polyvinylpyrrolidone-iodine liposomal hydrogel on wound microcirculation in SKH1-hr hairless mice.	Eur Surg Res	2006
+16490979	Repithel: removing the barriers to wound healing.	Dermatology	2006
+16464989	A discussion of silver as an antimicrobial agent: alleviating the confusion.	Ostomy Wound Manage	2006 Jan
+16441618	A novel method of comparing the healing properties of two hydrogels in chronic leg ulcers.	J Eur Acad Dermatol Venereol	2006 Feb
+16418161	Cutaneous burns treated with hydrogel (Burnshield) and a semipermeable adhesive film.	Arch Surg	2006 Jan
+16411486	Understanding the principles of wound management.	J Wound Care	2006 Jan
+16401014	[Cost effectiveness of treating skin grafts with a special hydrogel formulation].	MMW Fortschr Med	2005 Dec 8
+16380216	Evaluation of a bi-layer wound dressing for burn care I. Cooling and wound healing properties.	Burns	2006 Feb
+16234576	Preliminary use of a hydrogel containing enzymes in the treatment of stage II and stage III pressure ulcers.	Ostomy Wound Manage	2005 Aug
+16146648	Evaluation of the effect of incorporation of dibutyryl cyclic adenosine monophosphate in an in situ-forming hydrogel wound dressing based on oxidized alginate and gelatin.	Biomaterials	2006 Mar
+16141823	Effect of viscous injectable pure alginate sol on cultured fibroblasts.	Plast Reconstr Surg	2005 Sep
+16128295	Effects of bFGF incorporated into a gelatin sheet on wound healing.	J Biomater Sci Polym Ed	2005
+16081240	Hydrophilic polymers--biocompatibility testing in vitro.	Toxicol In Vitro	2005 Oct
+16035423	So, what do I put on this wound? Making sense of the wound dressing puzzle: part II.	Dermatol Nurs	2005 Jun
+16020410	Prevention of and therapies for nipple pain: a systematic review.	J Obstet Gynecol Neonatal Nurs	2005 Jul-Aug
+16008728	Acceleration of wound healing in healing-impaired db/db mice with a photocrosslinkable chitosan hydrogel containing fibroblast growth factor-2.	Wound Repair Regen	2005 Jul-Aug
+15977772	A small study in healing rates and symptom control using a new sheet hydrogel dressing.	J Wound Care	2004 Jul
+15962270	Radiation synthesis of poly(N-vinyl-2-pyrrolidone)-kappa-carrageenan hydrogels and their use in wound dressing applications. I. Preliminary laboratory tests.	J Biomed Mater Res A	2005 Aug 1
+15953047	Experimental ischemic wounds: correlation of cell proliferation and insulin-like growth factor I expression and its modification by different local IGF-I release systems.	Wound Repair Regen	2005 May-Jun
+15919113	Evaluation of an in situ forming hydrogel wound dressing based on oxidized alginate and gelatin.	Biomaterials	2005 Nov
+15918527	Advanced formulation and pharmacological activity of hydrogel of the titrated extract of C. asiatica.	Arch Pharm Res	2005 Apr
+15869433	Sustained in vivo gene delivery from agarose hydrogel prolongs nonviral gene expression in skin.	Tissue Eng	2005 Mar-Apr
+15867744	Abdominal wound with a fistula and large amount of drainage status after incarcerated hernia repair.	J Wound Ostomy Continence Nurs	2004 May-Jun
+15837009	Ballistic skin simulant.	Forensic Sci Int	2005 May 28
+15665932	Effects of new wound dressings on healing of thermal burns of the skin in acute radiation disease.	Bull Exp Biol Med	2004 Sep
+15656468	The effectiveness of a hydrogel dressing compared with standard management of pressure ulcers.	J Wound Care	2005 Jan
+15622279	Medical alert: facial wrinkles--injectable filler materials.	Plast Reconstr Surg	2005 Jan
+15621258	Keratinocyte-fibroblast paracrine interaction: the effects of substrate and culture condition.	Biomaterials	2005 Jun
+15606826	Complications from injectable polyacrylamide gel, a new nonbiodegradable soft tissue filler.	Dermatol Surg	2004 Dec
+15550141	Localized granulomatous reaction to a semi-permanent hyaluronic acid and acrylic hydrogel cosmetic filler.	Clin Exp Dermatol	2004 Nov
+15542162	Does aqueous or sucralfate cream affect the severity of erythematous radiation skin reactions? A randomised controlled trial.	Radiother Oncol	2004 Nov
+15476132	Management of infiltration injury in neonates using duoderm hydroactive gel.	Am J Perinatol	2004 Oct
+15386397	An in vivo study of hydrogels based on physiologically clotted fibrin-gelatin composites as wound-dressing materials.	J Biomed Mater Res B Appl Biomater	2004 Nov 15
+15342099	Ameroid rings for gradual chronic constriction of the sciatic nerve in rats: contribution of different nerves to neuropathic pain.	Brain Res Bull	2004 Aug 30
+15306987	Wound dressings in diabetic foot disease.	Clin Infect Dis	2004 Aug 1
+15258509	[Becaplermin gel (Regranex gel)].	Ann Dermatol Venereol	2004 Apr
+15127484	Addressing wounds.	Nurs Manage	2000 Sep
+15115221	Four case studies of the action of TIELLE* Plus dressings.	Br J Community Nurs	2003
+15115220	Clinical evaluation of TIELLE* Plus dressing in the management of exuding chronic wounds.	Br J Community Nurs	2003
+15115219	TIELLE* hydropolymer dressings: wound responsive technology.	Br J Community Nurs	2003
+15062754	Platelet gel for healing cutaneous chronic wounds.	Transfus Apher Sci	2004 Apr
+15042764	[Wound and dressings note. 6--Carbon and silver films].	Soins	2004 Mar
+15017440	Prevention and treatment of acute radiation dermatitis: a literature review.	Oncol Nurs Forum	2004 Mar-Apr
+15014807	[Autologous tissue engineered skin for full thickness skin replacement].	Shanghai Kou Qiang Yi Xue	2000 Sep
+14738008	[Note on wounds and dressings. 5--Hydrogels].	Soins	2003 Dec
+14725365	Thermosensitive hydrogel as a Tgf-beta1 gene delivery vehicle enhances diabetic wound healing.	Pharm Res	2003 Dec
+14652415	Cost-effectiveness of becaplermin for nonhealing neuropathic diabetic foot ulcers.	Ostomy Wound Manage	2003 Nov
+14508172	Treatment of refractory fever in the neurosciences critical care unit using a novel, water-circulating cooling device. A single-center pilot experience.	J Neurosurg Anesthesiol	2003 Oct
+12972935	Promoting healing with recombinant human platelet-derived growth factor--BB in a previously irradiated problem wound.	Laryngoscope	2003 Sep
+12946717	Comparative effect of oral administration and topical application of alcoholic extract of Terminalia arjuna bark on incision and excision wounds in rats.	Fitoterapia	2003 Sep
+12903698	Comparing the use of hydrogel dressings to lanolin ointment with lactating mothers.	J Obstet Gynecol Neonatal Nurs	2003 Jul-Aug
+12835547	Comparative testing of liposomal and aqueous formulations of povidone-iodine for their angioirritative potential at the chorioallantoic membrane of ex ovo cultivated chick embryos.	Dermatology	2003
+12817892	Controlled gene delivery system based on thermosensitive biodegradable hydrogel.	Pharm Res	2003 Jun
+12809772	Photocrosslinkable chitosan hydrogel containing fibroblast growth factor-2 stimulates wound healing in healing-impaired db/db mice.	Biomaterials	2003 Sep
+12785089	Intrasite Gel and Intrasite Conformable: the hydrogel range.	Br J Nurs	2000 Sep 14-27
+12769329	The cost and efficacy of two wound treatments.	AORN J	2003 May
+12752201	Biocompatibility study of polymeric biomaterials.	Artif Organs	2003 May
+12581423	Thymosin beta 4 and a synthetic peptide containing its actin-binding domain promote dermal wound repair in db/db diabetic mice and in aged mice.	Wound Repair Regen	2003 Jan-Feb
+12406164	Effects of nitric oxide releasing poly(vinyl alcohol) hydrogel dressings on dermal wound healing in diabetic mice.	Wound Repair Regen	2002 Sep-Oct
+12362156	Debridement of necrotic tissue and eschar using a capillary dressing and semi-permeable film dressing.	Br J Community Nurs	2002 Sep
+12271188	Transorbent hydrocellular wound dressing from Maersk Medical.	Br J Nurs	2000 Nov 9-22
+12094343	Effects of 25% propylene glycol hydrogel (Solugel) on second intention wound healing in horses.	Vet Surg	2002 Jul-Aug
+11971832	The effect of gel burns dressings on skin temperature.	Emerg Med J	2002 May
+11963421	When and how to use hydrogels.	Nurs Times	2000 Jun 8
+11954493	Leg ulceration in rheumatoid arthritis.	Nurs Times	2001 Jun 14-20
+11905452	Management of a diabetic foot ulcer.	Adv Skin Wound Care	2001 Jan-Feb
+11896994	Acceleration of wound contraction and healing with a photocrosslinkable chitosan hydrogel.	Wound Repair Regen	2001 Nov-Dec
+11870788	Evaluating the efficacy of using a short-pulsed erbium:YAG laser for intraoperative resurfacing of surgical wounds.	Lasers Surg Med	2002
+11862176	Optimizing wound healing in the face after laser abrasion.	J Am Acad Dermatol	2002 Mar
+11771703	Photocrosslinkable chitosan as a dressing for wound occlusion and accelerator in healing process.	Biomaterials	2002 Feb
+11520761	Quantification of the ultraviolet radiation (UVR) field in the human eye in vivo using novel instrumentation and the potential benefits of UVR blocking hydrogel contact lens.	Br J Ophthalmol	2001 Sep
+11350649	Polyvinyl pyrrolidone-iodine liposome hydrogel improves epithelialization by combining moisture and antisepis. A new concept in wound therapy.	Wound Repair Regen	2001 Mar-Apr
+11123415	Hydrogel barrier/repair creams and contact dermatitis.	Am J Contact Dermat	2000 Dec
+11096195	An innovative topical drug formulation for wound healing and infection treatment: in vitro and in vivo investigations of a povidone-iodine liposome hydrogel.	Dermatology	2000
+11061711	When to use hydrogel dressings.	Adv Skin Wound Care	2000 Jan-Feb
+10897697	Phase 1 studies: the development of new dressing technology.	Br J Nurs	1999 Sep 23-Oct 13
+10848938	Review of closed dressings after laser resurfacing.	Dermatol Surg	2000 Jun
+10818896	Allergic reactions to dressings.	J Wound Care	1999 Oct
+10788187	Update on wound care.	Rehab Manag	1999 Oct-Nov
+10640641	Biodegradable amphiphilic multiblock copolymers and their implications for biomedical applications.	J Control Release	2000 Feb 14
+10638331	Matrix metalloproteinases (MMPs) are required for re-epithelialization of cutaneous wounds.	Arch Dermatol Res	1999 Nov
+10524057	[Management of infections in chronic wounds. Hydroactive dressings instead of antiseptics?].	Krankenpfl J	1999 Mar
+10469078	Histological comparison of postoperative wound care regimens for laser resurfacing in a porcine model.	Dermatol Surg	1999 May
+34644927	Improvement and retardation of wound healing: effects of pharmacological agents in laboratory animal studies.	Vet Dermatol	1999 Jun
+10326372	Hydrogel dressings: their role in dry and sloughy wounds.	Community Nurse	1998 Oct
+10191699	[Differentiated local therapy of chronic wounds with modern wound dressings].	Vasa	1999 Feb
+9887735	Exudate management in fungating wounds.	J Wound Care	1998 Oct
+9791362	Controlling bleeding in fragile fungating tumours.	J Wound Care	1998 Jul
+9677108	Closed dressings after laser skin resurfacing.	Arch Otolaryngol Head Neck Surg	1998 Jul
+9543975	A comparison of two amorphous hydrogels in the debridement of pressure sores.	J Wound Care	1998 Feb
+9510821	Hydrogels and hydrocolloids: an objective product comparison.	Ostomy Wound Manage	1998 Jan
+9491114	Care before and after laser skin resurfacing. A survey and review of the literature.	Dermatol Surg	1998 Feb
+9382717	Dermabrasion. Is it an option?	Aust Fam Physician	1997 Sep
+9325828	A study to compare two film dressings used as secondary dressings.	J Wound Care	1997 Jul
+9240832	Ultraviolet radiation revisited.	CLAO J	1997 Jul
+9403264	Povidone-iodine liposomes--an overview.	Dermatology	1997
+9063511	Cytokine mRNA changes during the treatment of hypertrophic scars with silicone and nonsilicone gel dressings.	Dermatol Surg	1996 Nov
+8868031	Synthetic wound dressings--evaluation of interactions with epithelial and dermal cells in vitro.	Skin Pharmacol	1996
+8569588	[Treatment of ulcus cruris. What is the role of wound dressings?].	Med Monatsschr Pharm	1995 Dec
+7575984	"A brief review of the pathophysiology and treatment of cutaneous T-cell lymphoma ""mycosis fungoides""."	Ostomy Wound Manage	1995 Oct
+7574165	Effects of three occlusive dressing materials on healing of full-thickness skin wounds in dogs.	Am J Vet Res	1995 Jul
+7885030	The enhancement in wound healing by transforming growth factor-beta 1 (TGF-beta 1) depends on the topical delivery system.	J Surg Res	1995 Mar
+7777948	[Modern dressings. Hydrogels].	Rozhl Chir	1995 Feb
+7871713	The effect of occlusive and semi-occlusive dressings on the healing of acute full-thickness skin wounds on the forelimbs of dogs.	Vet Surg	1994 Nov-Dec
+8047605	Collagenase during burn wound healing: influence of a hydrogel dressing and pulsed electrical stimulation.	Plast Reconstr Surg	1994 Sep
+8067228	Comparative histopathology of epidural hydrogel and silicone elastomer catheters following 30 and 180 days implant in the ewe.	Acta Anaesthesiol Scand	1994 May
+8180934	Occlusive dressings and wound healing.	Clin Dermatol	1994 Jan-Mar
+8286020	A comparative study of wound dressings on full-thickness wounds in micropigs.	Decubitus	1993 Sep
+8343554	Collaborative nurse management of multifactorial moist desquamation in a patient undergoing radiotherapy.	J ET Nurs	1993 Jul-Aug
+10146446	A new biodegradable matrix as part of a cell seeded skin substitute for the treatment of deep skin defects: a physico-chemical characterisation.	Clin Mater	1993
+1388627	A jejunal fistula in a granulating wound and jejunal refeeding.	Ostomy Wound Manage	1992 Jul-Aug
+1410926	[The physicochemical characterization and therapeutic evaluation of Cicatrol].	Rev Med Chir Soc Med Nat Iasi	1992 Jan-Jun
+1881139	Inert wound dressing is not desirable.	J Surg Res	1991 Sep
+2275767	Laboratory evaluation of a new hydrogel-type skin substitute.	Burns	1990 Oct
+2275766	Preclinical evaluation of skin substitutes.	Burns	1990 Oct
+2328933	[Wound management with split skin flaps--donor sites. Covering with the moist gel Geliperm].	Fortschr Med	1990 Feb 20
+2294837	Epidermal growth factor binding and action on tympanic membranes.	Ann Otol Rhinol Laryngol	1990 Jan
+2637073	[Control of the re-epithelialization of skin defects and burns].	Dtsch Z Mund Kiefer Gesichtschir	1989 Jul-Aug
+3264140	Acceleration of tensile strength of incisions treated with EGF and TGF-beta.	Ann Surg	1988 Dec
+3268831	[Local treatment of burn injuries and traumatic wounds with a hydrogel Geliperm dressing].	Polim Med	1988
+3268830	[Experimental testing of the hydrogel dressing Geliperm].	Polim Med	1988
+3630299	[Telethermographic aspects of dermabrasion including the management of postoperative wounds].	Z Hautkr	1987 Jul 1
+3514062	Biologic dressings and skin substitutes.	Clin Plast Surg	1986 Jan
+3973143	Experiences with biosynthetic dressings.	J Am Acad Dermatol	1985 Feb
+6151801	[Clinical experiences with a new gel-like wound dressing after skin transplantation].	Aktuelle Traumatol	1984 Dec
+6085934	A study of microangioneogenesis in wounds healing by secondary intention.	Microcirc Endothelium Lymphatics	1984 Dec
+6084688	Experimental infection and hydrogel dressings.	J Hosp Infect	1984 Dec
+6521584	[Experimental study on the surgical treatment of tracheal wall defects].	Laryngol Rhinol Otol (Stuttg)	1984 Nov
+6469314	Clinical experience with a new hydrogel wound dressing.	Injury	1984 Jul

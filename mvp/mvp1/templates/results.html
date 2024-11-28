@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Results</h1>
+    <p>Total files created: {{ total_files }}</p>
+    <p>Click the links below to download the files:</p>
+
+    <ul>
+        {% for i in range(1, total_files + 1) %}
+        <li><a href="/download/results_{{ i }}.csv">Download CSV File {{ i }}</a></li>
+        <li><a href="/download/results_{{ i }}.txt">Download Text File {{ i }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

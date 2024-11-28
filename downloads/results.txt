@@ -1,0 +1,3 @@
+DOI	PMID	Title	Journal	Year
+10.1000/j.journal.2024.001	12345678	Example Title 1	Example Journal	2024
+10.1000/j.journal.2024.002	23456789	Example Title 2	Example Journal	2023

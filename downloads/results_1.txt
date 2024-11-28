@@ -1,0 +1,1001 @@
+PMID	Title	Source	PubDate
+39601342	Histone Deacetylase 7-Derived 7-Amino Acid Peptide Increases Skin Wound Healing via Regulating Epidermal Fibroblast Proliferation and Migration.	J Cell Mol Med	2024 Nov
+39598765	Enhancing Skin Wound Healing in Diabetic Mice Using SIKVAV-Modified Chitosan Hydrogels.	Molecules	2024 Nov 14
+39598561	Cord Blood Platelet Lysate-Loaded Thermo-Sensitive Hydrogels for Potential Treatment of Chronic Skin Wounds.	Pharmaceutics	2024 Nov 11
+39598552	Injectable Photocrosslinked Hydrogel Dressing Encapsulating Quercetin-Loaded Zeolitic Imidazolate Framework-8 for Skin Wound Healing.	Pharmaceutics	2024 Nov 10
+39598423	The Role of Freeze-Drying as a Multifunctional Process in Improving the Properties of Hydrogels for Medical Use.	Pharmaceuticals (Basel)	2024 Nov 10
+39590109	Poly(Vinyl Alcohol) Drug and PVA-Drug-Surfactant Complex Organogel with Dimethyl Sulfoxide as a Drug Delivery System.	Gels	2024 Nov 20
+39590106	Wound Healing Potential of Herbal Hydrogel Formulations of Cedrus brevifolia Extracts in Mice.	Gels	2024 Nov 19
+39590080	Activated Charcoal-Alginate Platform for Simultaneous Local Delivery of Bioactive Agents: At the Nexus of Antimicrobial and Cytotoxic Activity of Zn(2+) Ions.	Gels	2024 Nov 8
+39590035	Arginine-Biofunctionalized Ternary Hydrogel Scaffolds of Carboxymethyl Cellulose-Chitosan-Polyvinyl Alcohol to Deliver Cell Therapy for Wound Healing.	Gels	2024 Oct 23
+39588917	Microneedles Constructed by Swellable Hydrogels Loaded with Celastrol for Efficient Treatment of Skin Infections Induced by Drug-Resistant Bacterial Strains.	Langmuir	2024 Nov 26
+39579810	A gelatin/acrylamide-based hydrogel for smart drug release monitoring and radiation-induced wound repair in breast cancer.	Int J Biol Macromol	2024 Nov 22
+39577507	Asymmetric natural wound dressing based on porous chitosan-alginate hydrogel/electrospun PCL-silk sericin loaded by 10-HDA for skin wound healing: In vitro and in vivo studies.	Int J Pharm	2024 Nov 20
+39577481	Construction of piezoelectric, conductive and injectable hydrogels to promote wound healing through electrical stimulation.	Acta Biomater	2024 Nov 20
+39575827	Innovative Hydrogel Design: Tailoring Immunomodulation for Optimal Chronic Wound Recovery.	Adv Sci (Weinh)	2024 Nov 22
+39570390	A Versatile Composite Hydrogel with Spatiotemporal Drug Delivery of Mesoporous ZnO and Recombinant Human Collagen for Diabetic Infected Wound Healing.	Biomacromolecules	2024 Nov 21
+39567156	Electro-responsive hyaluronic acid-based click-hydrogels for wound healing.	Carbohydr Polym	2025 Jan 15
+39567134	Self-assembled near-infrared-photothermal antibacterial Hericium erinaceus β-glucan/tannic acid/Fe (III) hydrogel for accelerating infected wound healing.	Carbohydr Polym	2025 Jan 15
+39566777	Microenvironment-responsive Bletilla polysaccharide hydrogel with photothermal antibacterial and macrophage polarization-regulating properties for diabetic wound healing.	Int J Biol Macromol	2024 Nov 19
+39562133	Co-delivery of antimicrobial peptide and Prussian blue nanoparticles by chitosan/polyvinyl alcohol hydrogels.	Carbohydr Polym	2025 Jan 15
+39562129	Injectable self-healing alginate/PEG hydrogels cross-linked via thiol-Michael addition bonds for hemostasis and wound healing.	Carbohydr Polym	2025 Jan 15
+39562061	Zinc-induced photocrosslinked konjac glucomannan/glycyrrhizic acid hydrogel promotes skin wound healing in diabetic mice through immune regulation.	Carbohydr Polym	2025 Jan 15
+39561845	Bioadhesive supramolecular polymer/hyaluronic acid hydrogel with zinc ion and dexamethasone slow release for diabetic wound healing.	Int J Biol Macromol	2024 Nov 17
+39556952	Novel in situ and rapid self-gelation recombinant collagen-like protein hydrogel for wound regeneration: mediated by metal coordination crosslinking and reinforced by electro-oxidized tea polyphenols.	Biofabrication	2024 Nov 18
+39556244	Therapeutic Properties of M2 Macrophages in Chronic Wounds: An Innovative Area of Biomaterial-Assisted M2 Macrophage Targeted Therapy.	Stem Cell Rev Rep	2024 Nov 18
+39556003	Multi-responsive shape memory and self-healing hydrogels with gold and silver nanoparticles.	J Mater Chem B	2024 Nov 18
+39554841	Multifunctional hydrogel based on polyvinyl alcohol/chitosan/metal polyphenols for facilitating acute and infected wound healing.	Mater Today Bio	2024 Dec
+39552255	3D Printing-Based Hydrogel Dressings for Wound Healing.	Adv Sci (Weinh)	2024 Nov 18
+39551312	Construction of multifunctional hydrogel containing pH-responsive gold nanozyme for bacteria-infected wound healing.	Int J Biol Macromol	2024 Nov 16
+39550986	Self-healing Ppy-hydrogel promotes diabetic skin wound healing through enhanced sterilization and macrophage orchestration triggered by NIR.	Biomaterials	2024 Nov 12
+39549347	An integrally formed Janus supramolecular bio-gel with intelligent adhesion for multifunctional healthcare.	J Colloid Interface Sci	2024 Nov 10
+39547617	Regulation of physicochemical properties of alginate-based hydrogels and preliminary applications in wound healing.	Int J Biol Macromol	2024 Nov 14
+39547609	Self-powered chitosan/graphene oxide hydrogel band-aids with bioadhesion for promoting infected wounds healing.	Int J Biol Macromol	2024 Nov 14
+39540762	Adhesive, Stretchable, and Photothermal Antibacterial Hydrogel Dressings for Wound Healing of Infected Skin Burn at Joints.	Biomacromolecules	2024 Nov 14
+39539691	The role of neuropeptides in cutaneous wound healing: a focus on mechanisms and neuropeptide-derived treatments.	Front Bioeng Biotechnol	2024
+39537053	Antibacterial carboxymethyl chitosan hydrogel loaded with antioxidant cascade enzymatic system for immunoregulating the diabetic wound microenvironment.	Int J Biol Macromol	2024 Nov 12
+39537051	Rapidly in situ forming antibiotic-free injectable hydrogel wound dressing for eradicating drug-resistant bacterial infections in human skin organoids.	Int J Biol Macromol	2024 Nov 12
+39534378	Controlled Nitric Oxide-Releasing Nanovehicles for Enhanced Infected Wound Healing: A Study on PDA@BNN6 Encapsulated in GelMA Hydrogel.	Int J Nanomedicine	2024
+39533478	Naturally Inspired Tree-Ring Structured Dressing Provides Sustained Wound Tightening and Accelerates Closure.	Adv Mater	2024 Nov 12
+39532166	Multi-functional Gleditsia sinensis galactomannan-based hydrogel with highly stretchable, adhesive, and antibacterial properties as wound dressing for accelerating wound healing.	Int J Biol Macromol	2024 Nov 10
+39531904	Hypoxic culture enhances the antimicrobial activity of amnion-derived mesenchymal stem cells, thereby reducing bacterial load and promoting wound healing in diabetic mice.	Biochem Biophys Res Commun	2024 Dec 20
+39530205	Antimicrobial Peptide SAAP-148-Functionalized Hydrogels from Photocrosslinkable Polymers with Broad Antibacterial Activity.	Macromol Rapid Commun	2024 Nov 12
+39528175	Licochalcone A loaded multifunctional chitosan hyaluronic acid hydrogel with antibacterial and inflammatory regulating effects to promote wound healing.	Int J Biol Macromol	2024 Nov 9
+39522628	Decellularized porcine dermal hydrogel enhances implant-based wound healing in the setting of irradiation.	Acta Biomater	2024 Nov 8
+39512738	In situ forming Hydrogel with adding ZnO Nano-particle for effectively methicillin-resistant Staphylococcus aureus infected frostbite injury.	Regen Ther	2024 Jun
+39512002	Pyroligneous extract, a biomaterial derived from pyrolytic palm kernel shell wood vinegar, as a novel diabetic wound healing aid: An animal study.	Drug Dev Ind Pharm	2024 Nov 7
+39509859	Procoagulant, antibacterial and antioxidant high-strength porous hydrogel adhesives in situ formed via self-gelling hemostatic microsheets for emergency hemostasis and wound repair.	Biomaterials	2024 Oct 30
+39501731	Comparative evaluation of hyaluronic acid-based dressing versus hydrocolloid dressing in rat dermal wound healing.	Arch Craniofac Surg	2024 Oct
+39500517	A Dry Patch with In Situ Solid-to-Gel Transformation for All-in-One Skin Wound Care.	ACS Appl Mater Interfaces	2024 Nov 20
+39500150	Development and in vitro assessment of injectable, adhesive, and self-healing chitosan-based hydrogels for treatment of spinal cord injury.	Biomater Adv	2024 Oct 29
+39500101	Supramolecular nanofiber network hydrogel dressing for promoting wound healing with low swelling and mechanical stability properties.	Colloids Surf B Biointerfaces	2024 Oct 28
+39499499	Reconfiguring the endogenous electric field of a wound through a conductive hydrogel for effective exudate management to enhance skin wound healing.	J Mater Chem B	2024 Nov 13
+39498666	Hypericum Perforatum Callus Extract-Loaded Composite Hydrogel with Diverse Bioactivities for Enhanced Wound Healing and Fibrosis Prevention.	Small	2024 Nov 5
+39493006	Multifunctional poloxamer-based thermo-responsive hydrogel loaded with human lactoferricin niosomes: In vitro study on anti-bacterial activity, accelerate wound healing, and anti-inflammation.	Int J Pharm X	2024 Dec
+39491860	Nanostructured fibrin-agarose hydrogels loaded with allogeneic fibroblasts as bio-dressings for acute treatment of massive burns.	Biomed Pharmacother	2023 Oct 27
+39491139	A uniform-unsaturated crosslinking strategy to construct injectable alginate hydrogel.	Int J Biol Macromol	2023 Oct 27
+39490880	Gellan gum-based multifunctional hydrogel with enduring sterilization and ROS scavenging for infected wound healing.	Int J Biol Macromol	2024 Oct 25
+39489242	Fabrication of porcine acellular dermal matrix and oxidized hyaluronic acid conductive composite hydrogels for accelerating skin wound healing under electrical stimulation.	Int J Biol Macromol	2024 Nov 1
+39484021	On-demand imidazolidinyl urea-based tissue-like, self-healable, and antibacterial hydrogels for infectious wound care.	Bioact Mater	2025 Feb
+39487007	"Corrigendum to ""Chitosan/rutin multifunctional hydrogel with tunable adhesion, anti-inflammatory and antibacterial properties for skin wound healing"" [Carbohydr. Polym. 343 (2024) 122492."	Carbohydr Polym	2025 Jan 1
+39486988	"""Bamboo-like"" strong and tough sodium alginate/polyacrylate hydrogel fiber with directional controlled release for wound healing promotion."	Carbohydr Polym	2025 Jan 1
+39486961	All-natural hydrogel composed of carboxymethyl chitosan and oxidized dextran for promoting wound healing by immune-microenvironment regulation.	Carbohydr Polym	2025 Jan 1
+39486779	An advanced hydrogel dressing system with progressive delivery and layer-to-layer response for diabetic wound healing.	Acta Biomater	2024 Oct 31
+39486699	Biomimetic poly(thioctic acid)-based bioadhesive hydrogels for wet adhesion, expeditious hemostasis and enhanced wound healing.	Int J Biol Macromol	2024 Oct 30
+39478872	Topical hADSCs-HA Gel Promotes Skin Regeneration and Angiogenesis in Pressure Ulcers by Paracrine Activating PPARβ/δ Pathway.	Drug Des Devel Ther	2024
+39476886	Natural polysaccharides combined with mussel-inspired adhesion for multifunctional hydrogels in wound hemostasis and healing: A review.	Int J Biol Macromol	2024 Oct 28
+39476684	Pyrogallol-rich supramolecular hydrogels with enzyme-sensitive microdomains for controlled topical delivery of hydrophobic drugs.	Biomater Adv	2025 Jan
+39476070	Melatonin associated with bacterial cellulose-based hydrogel improves healing of skin wounds in diabetic rats.	Acta Cir Bras	2024
+39473310	Exos-Loaded Gox-Modified Smart-Response Self-Healing Hydrogel Improves the Microenvironment and Promotes Wound Healing in Diabetic Wounds.	Adv Healthc Mater	2024 Oct 30
+39469550	Natural biopolymer-based hydrogels: an advanced material for diabetic wound healing.	Diabetol Int	2024 Oct
+39460410	Programmable Artificial Skins Accomplish Antiscar Healing with Multiple Appendage Regeneration.	Adv Mater	2024 Oct 25
+39459039	Hydrogel Containing Propolis: Physical Characterization and Evaluation of Biological Activities for Potential Use in the Treatment of Skin Lesions.	Pharmaceuticals (Basel)	2024 Oct 20
+39458704	Fabrication and Properties of Hydrogel Dressings Based on Genipin Crosslinked Chondroitin Sulfate and Chitosan.	Polymers (Basel)	2024 Oct 11
+39458638	Immortelle Essential-Oil-Enriched Hydrogel for Diabetic Wound Repair: Development, Characterization, and In Vivo Efficacy Assessment.	Pharmaceutics	2024 Oct 8
+39458583	Topical Application of Centella asiatica in Wound Healing: Recent Insights into Mechanisms and Clinical Efficacy.	Pharmaceutics	2024 Sep 26
+39458576	Using Hybrid MnO(2)-Au Nanoflowers to Accelerate ROS Scavenging and Wound Healing in Diabetes.	Pharmaceutics	2024 Sep 25
+39457528	The Wound-Healing Effect of a Novel Fibroblasts-Impregnated Hydroxyethylcellulose Gel in a Rat Full-Thickness Burn Model: A Preclinical Study.	Biomedicines	2024 Sep 28
+39454093	Evaluation effect of alginate hydrogel containing losartan on wound healing and gene expression.	J Biomater Appl	2024 Oct 25
+39452585	Antibacterial Biocomposite Based on Chitosan/Pluronic/Agarose Noncovalent Hydrogel: Controlled Drug Delivery by Alginate/Tetracycline Beads System.	J Funct Biomater	2024 Sep 28
+39451274	A Paintable Small-Molecule Hydrogel with Antimicrobial and ROS Scavenging Activities for Burn Wound Healing.	Gels	2024 Sep 26
+39449544	Platelet Extracellular Vesicles Loaded Gelatine Hydrogels for Wound Care.	Adv Healthc Mater	2024 Oct 25
+39439502	Curcumin-Loaded Nanocomposite Hydrogel Dressings for Promoting Infected Wound Healing and Tissue Regeneration.	Int J Nanomedicine	2024
+39437940	Microenvironmental pH modulating oxygen self-boosting microalgal prodrug carboxymethyl chitosan/hyaluronic acid/puerarin hydrogel for accelerating wound healing in diabetic rats.	Int J Biol Macromol	2024 Oct 20
+39431566	Construction and Performance Study of an Injectable Dual-Network Hydrogel Dressing with Inherent Drainage Function.	ACS Appl Mater Interfaces	2024 Oct 30
+39422136	Ionically assembled hemostatic powders with rapid self-gelation, strong acid resistance, and on-demand removability for upper gastrointestinal bleeding.	Mater Horiz	2024 Nov 25
+39420797	Asymmetric porous hydrogel encapsulating vulcanized molecular brushes with anti-bacterial adhesion, anti-infection, and pro-healing properties towards infected wound treatment.	Nanoscale	2024 Nov 13
+39420416	Advancing wound healing by hydrogel-based dressings loaded with cell-conditioned medium: a systematic review.	Stem Cell Res Ther	2024 Oct 17
+39419688	Drug loaded marine polysaccharides-based hydrogel dressings for treating skin burns.	Int J Biol Macromol	2024 Nov
+39419158	Advances and impact of human amniotic membrane and human amniotic-based materials in wound healing application.	Int J Biol Macromol	2024 Nov
+39417974	Designing injectable dermal matrix hydrogel combined with silver nanoparticles for methicillin-resistant Staphylococcus aureus infected wounds healing.	Nano Converg	2024 Oct 17
+39414221	Protocatechuic acid grafted chitosan/oxidized glucomannan hydrogel with antimicrobial and anti-inflammatory effects for enhancing wound repair.	Int J Biol Macromol	2024 Nov
+39414214	Spatially controllable fluid hydrogel with in-situ electrospinning PCL/chitosan fiber for treating irregular wounds.	Int J Biol Macromol	2024 Nov
+39414208	Preparation and characterization of an antibacterial CMC/PCL hydrogel films containing CIP/Cur: In vitro and in vivo evaluation of wound healing activity.	Int J Biol Macromol	2024 Oct 15
+39413652	In situ photocrosslinkable hydrogel treats radiation-induced skin injury by ROS elimination and inflammation regulation.	Biomaterials	2025 Mar
+39410276	Design and Characterization of an Antimicrobial Biocomposite for Wound Dressings.	Materials (Basel)	2024 Sep 25
+39408893	Hydrogel Dressing Biomaterial Enriched with Vitamin C: Synthesis and Characterization.	Int J Mol Sci	2024 Sep 30
+39408888	Preparation, Characterization, and Wound Healing Promotion of Hydrogels Containing Glucosyloxybenzyl 2-Isobutylmalates Extract from Bletilla striata (Thunb.) Reichb.f.	Int J Mol Sci	2024 Sep 30
+39408528	Advances in Smart-Response Hydrogels for Skin Wound Repair.	Polymers (Basel)	2024 Oct 5
+39407579	From Bioink to Tissue: Exploring Chitosan-Agarose Composite in the Context of Printability and Cellular Behaviour.	Molecules	2024 Sep 30
+39406324	Photo-crosslinked hyaluronic acid hydrogels designed for simultaneous delivery of mesenchymal stem cells and tannic acid: Advancing towards scarless wound healing.	Int J Biol Macromol	2024 Nov
+39402924	Enhanced wound healing with biogenic zinc oxide nanoparticle-incorporated carboxymethyl cellulose/polyvinylpyrrolidone nanocomposite hydrogels.	Biomater Sci	2024 Oct 15
+39400478	Sprayable Nanocomposites Hydrogel for Wound Healing and Skin Regeneration.	Adv Healthc Mater	2024 Oct 14
+39396587	Strontium ranelate-loaded human hair keratin-hyaluronic acid hydrogel accelerates wound repair with anti-inflammatory and antioxidant properties.	Int J Biol Macromol	2024 Nov
+39393328	Carnosic acid ameliorates postinflammatory hyperpigmentation by inhibiting inflammatory reaction and melanin deposition.	Biomed Pharmacother	2024 Nov
+39388623	Semi-Interpenetrating Hydrogel with Long-Term Intrinsic Antibacterial Properties Promotes Healing of Infected Wounds In Vivo.	ACS Appl Bio Mater	2024 Oct 21
+39388509	Collaborative Enhancement of Diabetic Wound Healing and Skin Regeneration by Recombinant Human Collagen Hydrogel and hADSCs.	Adv Healthc Mater	2024 Nov
+39383062	Targeting hypoxia and thrombospondin-2 in diabetic wound healing.	FASEB J	2024 Oct 15
+39382540	Investigating the Effect of Polypyrrole-Gelatin/Silk Fibroin Hydrogel Mediated Pulsed Electrical Stimulation for Skin Regeneration.	ACS Appl Mater Interfaces	2024 Oct 23
+39381970	An injectable hydrogel of porcine cholecyst extracellular matrix for accelerated wound healing.	J Biomed Mater Res A	2024 Oct 9
+39381263	Amorphous zinc phosphate nanoclusters loaded polycarbonate thermosensitive hydrogel: An innovative strategy for promoting wound healing.	Mater Today Bio	2024 Dec
+39380409	Immunomodulatory Hydrogel for Electrostatically Capturing Pro-inflammatory Factors and Chemically Scavenging Reactive Oxygen Species in Chronic Diabetic Wound Remodeling.	Adv Healthc Mater	2024 Oct 9
+39378666	The interplay of skin architecture and cellular dynamics in wound healing: Insights and innovations in care strategies.	Tissue Cell	2024 Sep 30
+39374716	Exploring the potential of chitosan polyherbal hydrogel loaded with AgNPs to enhance wound healing A triangular study.	Int J Biol Macromol	2024 Nov
+39373076	Acellular dermal matrix hydrogels promote healing of radiation-induced skin injury in a rat model.	J Mater Chem B	2024 Nov 6
+39370083	Bacterial cellulose nanofiber reinforced self-healing hydrogel to construct a theranostic platform of antibacterial and enhanced wound healing.	Int J Biol Macromol	2024 Nov
+39370062	Methacrylated hyaluronic acid/laponite photosensitive, sustained-release hydrogel loaded with bilobalide for enhancing random flap survival through mitigation of endoplasmic reticulum stress.	Int J Biol Macromol	2024 Nov
+39369014	3D bioprinting of fish skin-based gelatin methacryloyl (GelMA) bio-ink for use as a potential skin substitute.	Sci Rep	2024 Oct 5
+39363875	Skin organoid transplantation promotes tissue repair with scarless in frostbite.	Protein Cell	2024 Oct 4
+39362446	Three-dimensional printed polyelectrolyte construct containing mupirocin-loaded quaternized chitosan nanoparticles for skin repair.	Int J Biol Macromol	2024 Nov
+39360811	Mechanical Force on Hydrogel Implication on Enhanced Drug Release, Antibacterial, and M2 Macrophage Polarization: New Insights Alleviate Diabetic Wound Healing.	ACS Appl Mater Interfaces	2024 Oct 3
+39360182	A Janus Adhesive Hydrogel with Integrated Attack and Defense for Bacteria Killing and Antifouling.	BME Front	2024
+39359135	Injectable Hydrogel With Glycyrrhizic Acid and Asiaticoside-Loaded Liposomes for Wound Healing.	J Cosmet Dermatol	2024 Oct 2
+39355893	DOTAGEL: a hydrogen and amide bonded, gelatin based, tunable, antibacterial, and high strength adhesive synthesized in an unoxidized environment.	J Mater Chem B	2024 Oct 30
+39354172	Advancements in wound management: integrating nanotechnology and smart materials for enhanced therapeutic interventions.	Discov Nano	2024 Oct 2
+39351417	Cutting-edge biomaterials for advanced biomedical uses: self-gelation of l-arginine-loaded chitosan/PVA/vanillin hydrogel for accelerating topical wound healing and skin regeneration.	RSC Adv	2024 Sep 24
+39350400	Photoresponsive Hydrogel Dressing Containing Nanoparticles with Excellent Synergetic Photodynamic, Photothermal, and Chemodynamic Therapies for Effective Infected Wound Healing.	ACS Appl Bio Mater	2024 Oct 21
+39343273	Silkworm cocoon bionic design in wound dressings: A novel hydrogel with self-healing and antimicrobial properties.	Int J Biol Macromol	2024 Nov
+39343255	Three-dimensional bioprinted cell-adaptive hydrogel with anisotropic micropores for enhancing skin wound healing.	Int J Biol Macromol	2024 Nov
+39340818	A New Strategy to Inhibit Scar Formation by Accelerating Normal Healing Using Silicate Bioactive Materials.	Adv Sci (Weinh)	2024 Nov
+39339269	Exploring Cationic Guar Gum: Innovative Hydrogels and Films for Enhanced Wound Healing.	Pharmaceutics	2024 Sep 22
+39339083	Insulin-Loaded Chitosan-Cellulose-Derivative Hydrogels: In Vitro Permeation of Hormone through Strat-M(®) Membrane and Rheological and Textural Analysis.	Polymers (Basel)	2024 Sep 16
+39337764	Optimizing Flexible Microelectrode Designs for Enhanced Efficacy in Electrical Stimulation Therapy.	Micromachines (Basel)	2024 Aug 30
+39337474	The Influence of N-Acetylcysteine-Enriched Hydrogels on Wound Healing in a Murine Model of Type II Diabetes Mellitus.	Int J Mol Sci	2024 Sep 16
+39337435	Photo-Crosslinked Pro-Angiogenic Hydrogel Dressing for Wound Healing.	Int J Mol Sci	2024 Sep 15
+39335542	The Impact of Temperature and the Duration of Freezing on a Hydrogel Used for a 3D-Bioprinted In Vitro Skin Model.	Biomedicines	2024 Sep 5
+39332055	Liposomal nano-encapsulation of bFGF combined with injectable BSA hydrogel for efficient burn wound healing.	Colloids Surf B Biointerfaces	2024 Sep 25
+39330309	Synthesis and Characterization of a Novel Chitosan-Based Nanoparticle-Hydrogel Composite System Promising for Skin Wound Drug Delivery.	Mar Drugs	2024 Sep 21
+39330200	Computational Designed and Optimized Liposomal Curcumin-Embedded Bifunctional Cross-Linked Hydrogels for Wound Healing.	Gels	2024 Sep 18
+39330147	Topical Probiotic Hydrogels for Burn Wound Healing.	Gels	2024 Aug 23
+39327995	Rapid miRNA detection in skin interstitial fluid using a hydrogel microneedle patch integrated with DNA probes and graphene oxide.	Lab Chip	2024 Oct 22
+39326614	4D printing of biological macromolecules employing handheld bioprinters for in situ wound healing applications.	Int J Biol Macromol	2024 Sep 24
+39326590	Polyvinyl alcohol-chitosan-polyethylene glycol-glycerol incorporated with Peganum harmala loaded in lipid nanocapsules as an elastic nanocomposite surgical sealant to control bleeding.	Int J Biol Macromol	2024 Nov
+39323743	Combined therapeutic strategy based on blocking the deleterious effects of AGEs for accelerating diabetic wound healing.	Regen Biomater	2024
+39322165	Encapsulation of Mentha aquatica methanol extract in alginate hydrogel promotes wound healing in a murine model of Pseudomonas aeruginosa burn infection.	Int J Biol Macromol	2024 Sep 23
+39321519	Skin-like dual-network gelatin/chitosan/emodin organohydrogel sensors mediated by Hofmeister effect and Schiff base reaction.	Int J Biol Macromol	2024 Nov
+39319463	Rapidly Gelled Lipoic Acid-Based Supramolecular Hydrogel for 3D Printing of Adhesive Bandage.	ACS Appl Mater Interfaces	2024 Oct 9
+39318637	A supramolecular hydrogel leveraging hierarchical multi-strength hydrogen-bonds hinged strategy achieving a striking adhesive-mechanical balance.	Bioact Mater	2025 Jan
+39317293	A review of polysaccharide hydrogels as materials for skin repair and wound dressing: Construction, functionalization and challenges.	Int J Biol Macromol	2024 Sep 22
+39317283	Chitosan-based hydrogel dressings with antibacterial and antioxidant for wound healing.	Int J Biol Macromol	2024 Nov
+39312211	Advanced approaches in skin wound healing - a review on the multifunctional properties of MXenes in therapy and sensing.	Nanoscale	2024 Oct 17
+39311841	PF-PEG@ASIV-EXO Hydrogel Accelerates Diabetic Wound Healing by Ferroptosis Resistance and Promoting Angiogenesis.	ACS Biomater Sci Eng	2024 Oct 14
+39308359	Reversible Schiff Base Chemistry in Arginine-Grafted Regenerated Cellulose Hydrogel: Integration of Chitosan and Zinc Ions for Enhanced Hemostasis, Antibacterial Action, and Accelerated Wound Healing.	ACS Appl Bio Mater	2024 Oct 21
+39304047	ECM-mimetic glucomannan hydrogel promotes pressure ulcer healing by scavenging ROS, promoting angiogenesis and regulating macrophages.	Int J Biol Macromol	2024 Nov
+39303388	A novel hydrogel with inherent antibacterial and hemostatic properties for burn wound healing.	Colloids Surf B Biointerfaces	2024 Sep 16
+39300806	The Effect of Polynucleotide-Hyaluronic Acid Hydrogel in the Recovery After Mechanical Skin Barrier Disruption.	Skin Res Technol	2024 Sep
+39303206	Carbon Dots Crosslinked Egg White Hydrogel for Tissue Engineering.	Adv Sci (Weinh)	2024 Nov
+39300534	Multifunctional carbomer based ferulic acid hydrogel promotes wound healing in radiation-induced skin injury by inactivating NLRP3 inflammasome.	J Nanobiotechnology	2024 Sep 19
+39293622	Carboxymethyl chitosan/polyacrylamide double network hydrogels based on hydrogen bond cross-linking as potential wound dressings for skin repair.	Int J Biol Macromol	2024 Nov
+39288550	Bacterial-responsive biodegradable silver nanoclusters composite hydrogel for infected wound therapy.	Colloids Surf B Biointerfaces	2024 Sep 6
+39285910	An immunotherapeutic hydrogel booster inhibits tumor recurrence and promotes wound healing for postoperative management of melanoma.	Bioact Mater	2024 Dec
+39285803	Radial Egg White Hydrogel Releasing Extracellular Vesicles for Cell Fate Guidance and Accelerated Diabetic Skin Regeneration.	Adv Healthc Mater	2024 Sep 17
+39283032	A Skin Stress Shielding Platform Based on Body Temperature-Induced Shrinking of Hydrogel for Promoting Scar-Less Wound Healing.	Adv Sci (Weinh)	2024 Nov
+39280578	Dissolvable microneedle-based wound dressing transdermally and continuously delivers anti-inflammatory and pro-angiogenic exosomes for diabetic wound treatment.	Bioact Mater	2024 Dec
+39279759	Flexible and antibacterial conductive hydrogels based on silk fibroin/polyaniline/AgNPs for motion sensing and wound healing promotion under electrical stimulation.	J Mater Chem B	2024 Oct 17
+39279699	Trends in the Treatment of Chronic Wounds.	Curr Med Chem	2024 Sep 13
+39278437	Polysaccharide- and protein-based hydrogel dressings that enhance wound healing: A review.	Int J Biol Macromol	2024 Sep 13
+39278037	Construction of chitosan/carboxylated polyvinyl alcohol/poly(N-isopropylacrylamide) composite antibacterial hydrogel for rapid wound healing.	Biomater Adv	2025 Jan
+39274158	Wound Dressing with Electrospun Core-Shell Nanofibers: From Material Selection to Synthesis.	Polymers (Basel)	2024 Sep 5
+39273706	Correction: Piola et al. 3D Bioprinting of Gelatin-Xanthan Gum Composite Hydrogels for Growth of Human Skin Cells. Int. J. Mol. Sci. 2022, 23, 539.	Int J Mol Sci	2024 Aug 29
+39271646	3D Bilayered Hydrogel and Nanofiber Multifunctional Sponge Dressing: An Efficacious Healing Agent for Chronic Wound Healing.	ACS Appl Bio Mater	2024 Oct 21
+39270904	Preparation of sulfated arabinogalactan-loaded hydrogel for wound healing in mouse burn model.	Int J Biol Macromol	2024 Nov
+39269914	Near-Infrared Stimuli-Responsive Hydrogel Promotes Cell Migration for Accelerated Diabetic Wound Healing.	ACS Appl Mater Interfaces	2024 Sep 25
+39269428	Nanocomposite Hydrogel for Real-Time Wound Status Monitoring and Comprehensive Treatment.	Adv Sci (Weinh)	2024 Nov
+39267793	Energy level as a theranostic factor for successful therapy of tissue injuries with polyphosphate: the triad metabolic energy - mechanical energy - heat.	Theranostics	2024
+39267781	Processed microalgae: green gold for tissue regeneration and repair.	Theranostics	2024
+39265907	Hydrogel microspheres encapsulating lysozyme/MXene for photothermally enhanced antibacterial activity and infected wound healing.	Int J Biol Macromol	2024 Nov
+39265900	Highly biocompatible, antioxidant and antibacterial gelatin methacrylate/alginate - Tannin hydrogels for wound healing.	Int J Biol Macromol	2024 Nov
+39263836	A gold nanoparticle-based photothermal hydrogel assisted by an N-halamine polymer for bacteria-infected skin wound healing.	Nanoscale	2024 Oct 10
+39263787	An Environmentally Stable, Biocompatible, and Multilayered Wound Dressing Film with Reversible and Strong Adhesion.	Adv Healthc Mater	2024 Sep 12
+39263695	On-Demand Removable Chitosan Based Self-Healing and Antibacterial Hydrogel for Delivery of Tetracycline and Curcumin As Potential Wound Dressing Material.	ACS Appl Bio Mater	2024 Oct 21
+39257958	Arginine-solubilized lipoic acid-induced β-sheets of silk fibroin-strengthened hydrogel for postoperative rehabilitation of breast cancer.	Bioact Mater	2024 Oct
+39256120	Self-assembled ROS-triggered Bletilla striata polysaccharide-releasing hydrogel dressing for inflammation-regulation and enhanced tissue-healing.	Int J Biol Macromol	2024 Oct
+39256119	Blood-responsive mussel-inspired hydrogels for hemostasis, antibacterial action, and wound healing.	Int J Biol Macromol	2024 Oct
+39255828	A low-swelling alginate hydrogel with antibacterial hemostatic and radical scavenging properties for open wound healing.	Biomed Mater	2024 Sep 19
+39255530	Functional-hydrogel-based electronic-skin patch for accelerated healing and monitoring of skin wounds.	Biomaterials	2025 Mar
+39255049	Advanced Wound Healing and Scar Reduction Using an Innovative Anti-ROS Polysaccharide Hydrogel with Recombinant Human Collagen Type III.	ACS Appl Mater Interfaces	2024 Sep 25
+39251004	Rapidly molded sodium alginate/soy protein adhesive hydrogel with 808-nm laser inhibition of infected wounds.	Int J Biol Macromol	2024 Nov
+39246293	Benefits of In Situ Foamed and Printed Porous Scaffolds in Wound Healing.	Adv Healthc Mater	2024 Sep 9
+39245504	Ionically-crosslinked carboxymethyl chitosan scaffolds by additive manufacturing for antimicrobial wound dressing applications.	Carbohydr Polym	2024 Dec 15
+39245118	Recent advances in the development of chitosan/hyaluronic acid-based hybrid materials for skin protection, regeneration, and healing: A review.	Int J Biol Macromol	2024 Nov
+39245113	A multifunctional polyacrylonitrile fibers/alginate-based hydrogel loaded with chamomile extract and silver sulfadiazine for full-thickness wound healing.	Int J Biol Macromol	2024 Nov
+39245102	Polysaccharide-based chondroitin sulfate macromolecule loaded hydrogel/scaffolds in wound healing- A comprehensive review on possibilities, research gaps, and safety assessment.	Int J Biol Macromol	2024 Nov
+39244132	Hericium erinaceus β-glucan/tannic acid hydrogels based on physical cross-linking and hydrogen bonding strategies for accelerating wound healing.	Int J Biol Macromol	2024 Nov
+39243057	GelMA loaded with exosomes from human minor salivary gland organoids enhances wound healing by inducing macrophage polarization.	J Nanobiotechnology	2024 Sep 6
+39238258	Hydrogel Microneedle Patches Loaded with Stem Cell Mitochondria-Enriched Microvesicles Boost the Chronic Wound Healing.	ACS Nano	2024 Oct 1
+39233392	Hydrogel-Based Dressings and Multidisciplinary Care in Severe Pediatric Burns: A Case Report of Successful Healing and Hypertrophic Scar Prevention.	Am J Case Rep	2024 Sep 5
+39233162	Etamsylate-loaded hydrogel composed of carboxymethyl chitosan and oxidized tannic acid for improved wound healing.	Int J Biol Macromol	2024 Nov
+39233148	Alginate-based injectable probiotic/squid ink composite hydrogels for accelerated wound healing of MRSA infected abscess through photothermally synergized probiotic therapy.	Int J Biol Macromol	2024 Nov
+39228757	α-Terpineol loaded, electron beam crosslinked polyvinyl alcohol/tapioca starch hydrogel sheets; fabrication, characterization and evaluation of wound healing potential on a full thickness acid burn wound.	RSC Adv	2024 Aug 29
+39226118	Liquid-liquid phase transition as a basis for novel materials for skin repair and regeneration.	J Mater Chem B	2024 Oct 2
+39222704	3D printed multi-coupled bioinspired skin-electronic interfaces with enhanced adhesion for monitoring and treatment.	Acta Biomater	2024 Oct 1
+39214222	Antibacterial and antioxidative hydrogel dressings based on tannic acid-gelatin/oxidized sodium alginate loaded with zinc oxide nanoparticles for promoting wound healing.	Int J Biol Macromol	2024 Nov
+39214218	Self-healing hydrogel from poly(aspartic acid) and dextran with antibacterial property for burn wound healing.	Int J Biol Macromol	2024 Nov
+39213956	Fiber/hydrogel hybrid wound dressing based on eggshell membrane containing postbiotic ingredients.	Biomater Adv	2024 Dec
+39212214	A 3D bioprinted antibacterial hydrogel dressing of gelatin/sodium alginate loaded with ciprofloxacin hydrochloride.	Biotechnol J	2024 Aug
+39209132	Stimuli-responsive drug delivery systems for inflammatory skin conditions.	Acta Biomater	2024 Oct 1
+39208842	Functional poly(e-caprolactone)/SerMA hybrid dressings with dimethyloxalylglycine-releasing property improve cutaneous wound healing.	Biomed Mater	2024 Sep 19
+39204335	Advances and Challenges in Immune-Modulatory Biomaterials for Wound Healing Applications.	Pharmaceutics	2024 Jul 26
+39203101	The Application of Regenerated Silk Fibroin in Tissue Repair.	Materials (Basel)	2024 Aug 7
+39199762	An Exosome-Laden Hydrogel Wound Dressing That Can Be Point-of-Need Manufactured in Austere and Operational Environments.	Bioengineering (Basel)	2024 Aug 8
+39198630	Effect of 3-hydrazinylquinoxaline-2-thiol hydrogel on skin wound healing process in diabetic rats.	Sci Rep	2024 Aug 28
+39195022	Biohybrids for Combined Therapies of Skin Wounds: Agglomerates of Mesenchymal Stem Cells with Gelatin Hydrogel Beads Delivering Phages and Basic Fibroblast Growth Factor.	Gels	2024 Jul 25
+39194462	Particulate 3D Hydrogels of Silk Fibroin-Pluronic to Deliver Curcumin for Infection-Free Wound Healing.	Biomimetics (Basel)	2024 Aug 10
+39193631	Hyaluronic Acid/Gelatin-Based Multifunctional Bioadhesive Hydrogel Loaded with a Broad-Spectrum Bacteriocin for Enhancing Diabetic Wound Healing.	ACS Appl Mater Interfaces	2024 Sep 11
+39186039	Co-Delivery of Valsartan and Metformin from a Thermosensitive Hydrogel-Nanoparticle System Promotes Collagen Production in Proliferating and Senescent Primary Human Dermal Fibroblasts.	Biomacromolecules	2024 Sep 9
+39185045	Acceleration of wound healing using adipose mesenchymal stem cell secretome hydrogel on partial-thickness cutaneous thermal burn wounds: An in vivo study in rats.	Vet World	2024 Jul
+39184835	Light-Responsive and Antibacterial Graphenic Materials as a Holistic Approach to Tissue Engineering.	ACS Nanosci Au	2024 Aug 21
+39182897	Multiple strategies approach: A novel crosslinked hydrogel forming chitosan-based microneedles chemowrap patch loaded with 5-fluorouracil liposomes for chronic wound cancer treatment.	Int J Biol Macromol	2024 Nov
+39182260	"Corrigendum to ""Printable hyaluronic acid hydrogel functionalized with yeast-derived peptide for skin wound healing"" [Int. J. Biol. Macromol. (2023) 123348]."	Int J Biol Macromol	2024 Oct
+39180451	Bi(2)Se(3)/PAAS Hydrogels with Photothermal and Antioxidant Properties for Bacterial Infection Wound Therapy by Improving Vascular Function and Regulating Glycolipid Metabolism.	Adv Healthc Mater	2024 Aug 24
+39179087	Arginine-loaded globular BSAMA/fibrous GelMA biohybrid cryogels with multifunctional features and enhanced healing for soft gingival tissue regeneration.	Int J Biol Macromol	2024 Oct
+39174142	Chitosan/rutin multifunctional hydrogel with tunable adhesion, anti-inflammatory and antibacterial properties for skin wound healing.	Carbohydr Polym	2024 Nov 1
+39174115	Tunicate cellulose nanocrystals strengthened injectable stretchable hydrogel as multi-responsive enhanced antibacterial wound dressing for promoting diabetic wound healing.	Carbohydr Polym	2024 Nov 1
+39171732	An Injectable Thermosensitive Hydrogel with Antibacterial and Antioxidation Properties for Accelerating Wound Healing.	ACS Appl Mater Interfaces	2024 Sep 4
+39168206	Multi-responsive sodium hyaluronate/tannic acid hydrogels with ROS scavenging ability promote the healing of diabetic wounds.	Int J Biol Macromol	2024 Oct
+39167033	Development of alginate/chitosan hydrogel loaded with obestatin and evaluation of collagen type I, III, VEGF and TGF-β(1) gene expression for skin repair in a rat model (in vitro and in vitro study).	Skin Res Technol	2024 Aug
+39162387	Observation of the Therapeutic Effect of Hydrogel Combined with Alginate Dressings for a Patient with Grade 4 Acute Radiation Dermatitis: A Case Report.	Adv Skin Wound Care	2024 Sep 1
+39161350	Therapeutic application of mesenchymal stem cell-derived exosomes in skin wound healing.	Front Bioeng Biotechnol	2024
+39160838	Novel Thermoreversible Reverse-Phase-Shift Foam With Deployment System for Treatment of Penetrating Globe Trauma in a Newly Described Porcine Model.	Mil Med	2024 Aug 19
+39157075	One-Step Physical and Chemical Dual-Reinforcement with Hydrophobic Drug Delivery in Gelatin Hydrogels for Antibacterial Wound Healing.	ACS Omega	2024 Aug 13
+39156898	Protection of stromal cell-derived factor-1 SDF-1/CXCL12 against proteases yields improved skin wound healing.	Front Immunol	2024
+39156755	Topical application of a hyaluronic acid-based hydrogel integrated with secretome of human mesenchymal stromal cells for diabetic ulcer repair.	Regen Ther	2024 Jun
+39149597	Injectable immunoregulatory hydrogels sequentially drive phenotypic polarization of macrophages for infected wound healing.	Bioact Mater	2024 Nov
+39144923	Polysaccharide hydrogels for skin wound healing.	Heliyon	2024 Aug 15
+39137704	Copper-MOF and tannic acid-empowered composite cryogel as a skin substitute for accelerated deep wound healing.	Biomater Adv	2024 Nov
+39134289	Gelatin/Dopamine/Zinc-Doped Ceria/Curcumin nanocomposite hydrogels for repair of chronic refractory wounds.	Int J Pharm	2024 Sep 30
+39133155	Graft take outcomes of burn patients transplanted with CEA derived from a modified composite culture technique: A case series.	J Burn Care Res	2024 Aug 12
+39128759	Robust, superabsorbent and antibacterial polysaccharide-based hybrid-network hydrogels for wound repair.	Int J Biol Macromol	2024 Nov
+39126708	Correction to: Amnion membrane hydrogel and amnion membrane powder accelerate wound healing in a full thickness porcine skin wound model.	Stem Cells Transl Med	2024 Aug 10
+39122702	Hydrogel crosslinking modulates macrophages, fibroblasts, and their communication, during wound healing.	Nat Commun	2024 Aug 9
+39122663	Promoting the healing of infected diabetic wound by nanozyme-containing hydrogel with anti-bacterial inflammation suppressing, ROS-scavenging and oxygen-generating properties.	J Biomed Mater Res B Appl Biomater	2024 Aug
+39122080	Self-crosslinking hyaluronic acid-based hydrogel with promoting vascularization and ROS scavenging for wound healing.	Int J Biol Macromol	2024 Oct
+39122064	Biological macromolecule-based hydrogels with antibacterial and antioxidant activities for wound dressing: A review.	Int J Biol Macromol	2024 Nov
+39121832	Chitosan-based self-healing hydrogel dressing for wound healing.	Adv Colloid Interface Sci	2024 Oct
+39114907	(+)4-cholesten-3-one/sodium alginate/gelatin hydrogel for full-thickness wound repair and skin regeneration.	Biomed Mater	2024 Aug 8
+39114139	A tilapia skin-derived gelatin hydrogel combined with the adipose-derived stromal vascular fraction for full-thickness wound healing.	Nanoscale Adv	2024 Aug 6
+39112598	GelMA loaded with platelet lysate promotes skin regeneration and angiogenesis in pressure ulcers by activating STAT3.	Sci Rep	2024 Aug 7
+39111486	Cuttlefish ink-derived melanin nanoparticle-embedded tremella fuciformis polysaccharide hydrogels for the treatment of MRSA-infected diabetic wounds.	Int J Biol Macromol	2024 Oct
+39111482	Tunicate cellulose nanocrystal reinforced multifunctional hydrogel with super flexible, fatigue resistant, antifouling and self-adhesive capability for effective wound healing.	Int J Biol Macromol	2024 Oct
+39111468	Chitosan/agarose hydrogel dressing: pH response real-time monitoring and chemo-/photodynamic therapy synergistic treatment of infected wounds.	Int J Biol Macromol	2024 Oct
+39110944	Polygalacturonic acid partially inhibits matrix metalloproteinases and dehydration in wounds.	Wounds	2024 Jul
+39110752	Composite hydrogels fabricated from CMC-PVA-GG incorporated with ZiF-8 for wound healing applications.	J Biomater Sci Polym Ed	2024 Dec
+39108405	Antibiotic Nanoparticles-Loaded Wound Dressings Against Pseudomonas aeruginosa's Skin Infection: A Systematic Review.	Int J Nanomedicine	2024
+39102924	Rhein-chitosan in situ hydrogel promotes wound healing in diabetic mice.	Int J Biol Macromol	2024 Oct
+39101879	Fabrication and characterization of calcium peroxide and berberine loaded cryogels for enhanced wound healing.	J Mater Chem B	2024 Aug 28
+39101027	Barnacle inspired strategy combined with solvent exchange for enhancing wet adhesion of hydrogels to promote seawater-immersed wound healing.	Bioact Mater	2024 Nov
+39100297	Novel Biomaterials for Wound Healing and Tissue Regeneration.	ACS Omega	2024 Jul 30
+39098677	LSPR-enhanced photoresponsive antibacterial efficiency of Bi/MoS(2)-loaded fibrin gel for management of diabetic wounds.	Int J Biol Macromol	2024 Oct
+39097068	Engineering bi-layered skin-like nanopads with electrospun nanofibers and chitosan films for promoting fibroblast infiltration in tissue regeneration and wound healing.	Int J Biol Macromol	2024 Oct
+39096587	Injectable antibacterial hydrogels based on oligolysines for wound healing.	Biomater Adv	2024 Nov
+39094367	Dermal derived matrix hydrogel loaded with curcumin improved wound healing in a diabetic rat model.	Tissue Cell	2024 Oct
+39073303	Construction and Performance Study of a Dual-Network Hydrogel Dressing Mimicking Skin Pore Drainage for Photothermal Exudate Removal and On-Demand Dissolution.	Adv Sci (Weinh)	2024 Sep
+39073224	Smart wireless flexible bandage containing drug loaded polycaprolactone microparticles for real-time monitoring and treatment of chronic wounds.	J Biomed Mater Res B Appl Biomater	2024 Aug
+39073182	Amniotic miracle: Investigating the unique development and applications of amniotic membrane in wound healing.	Skin Res Technol	2024 Jul
+39070099	Synergistic potential of gellan gum methacrylate and keratin hydrogel for visceral hemostasis and skin tissue regeneration.	Mater Today Bio	2024 Aug
+39069056	Study the effect of different concentrations of polydopamine as a secure and bioactive crosslinker on dual crosslinking of oxidized alginate and gelatin wound dressings.	Int J Biol Macromol	2024 Oct
+39068733	Approaches to scarless burn wound healing: application of 3D printed skin substitutes with dual properties of anti-infection and balancing wound hydration levels.	EBioMedicine	2024 Aug
+39064904	Self-Assembly of Rhein and Matrine Nanoparticles for Enhanced Wound Healing.	Molecules	2024 Jul 15
+39061925	Thermal-Responsive Antibacterial Hydrogel with Photothermal Therapy and Improving Wound Microenvironment for Promote Healing.	Antioxidants (Basel)	2024 Jul 17
+39061089	Extracellular matrix hydrogels with fibroblast growth factor 2 containing exosomes for reconstructing skin microstructures.	J Nanobiotechnology	2024 Jul 26
+39061033	"Fast fabrication of ""all-in-one"" injectable hydrogels as antibiotic alternatives for enhanced bacterial inhibition and accelerating wound healing."	J Nanobiotechnology	2024 Jul 26
+39059528	Preparation and characterization of amidated pectin-gelatin-oxidized tannic acid hydrogel films supplemented with in-situ reduced silver nanoparticles for wound-dressing applications.	Int J Biol Macromol	2024 Oct
+39057462	Streamlining Skin Regeneration: A Ready-To-Use Silk Bilayer Wound Dressing.	Gels	2024 Jun 30
+39057447	Antimicrobial Hydrogels Based on Cationic Curdlan Derivatives for Biomedical Applications.	Gels	2024 Jun 27
+39055866	Injectable multifunctional hydrogel containing Sphingosine 1-phosphate and human acellular amniotic membrane for skin wound healing.	Iran J Basic Med Sci	2024
+39053828	Nano hydrogel with bacterial nanocellulose and bitter almond oil nanoemulsions for enhanced wound healing: In-vivo and in-vitro characterization.	Int J Biol Macromol	2024 Oct
+39049504	Development of carboxymethyl cellulose/gelatin hydrogel loaded with Omega-3 for skin regeneration.	J Biomater Appl	2024 Oct
+39048229	Biocompatible hydrogels based on quaternary ammonium salts of chitosan with high antimicrobial activity as biocidal agents for disinfection.	Carbohydr Polym	2024 Oct 15
+39048222	Polyphenol-mediated hyaluronic acid/tannic acid hydrogel with short gelation time and high adhesion strength for accelerating wound healing.	Carbohydr Polym	2024 Oct 15
+39048214	Multifunctional chitosan-based hydrogels loaded with iridium nanoenzymes for skin wound repair.	Carbohydr Polym	2024 Oct 15
+39047998	A bioactive xyloglucan polysaccharide hydrogel mechanically enhanced by Pluronic F127 micelles for promoting chronic wound healing.	Int J Biol Macromol	2024 Oct
+39033942	Topical amlodipine-loaded solid lipid nanoparticles for enhanced burn wound healing: A repurposed approach.	Int J Pharm	2024 Sep 5
+39024469	Integration of Melt Electrowritten Polymeric Scaffolds and Bioprinting for Epithelial Healing via Localized Periostin Delivery.	ACS Macro Lett	2024 Aug 20
+39019482	Doxycycline-loaded carboxymethyl cellulose/sodium alginate/gelatin hydrogel: An approach for enhancing pressure ulcer healing in a rat model.	J Biomed Mater Res A	2024 Dec
+39016358	Bacterial nanocellulose/calcium alginate hydrogel for the treatment of burns.	Acta Cir Bras	2024
+39016069	Multifunctional Glycopeptide-Based Hydrogel via Dual-Modulation for the Prevention and Repair of Radiation-Induced Skin Injury.	ACS Biomater Sci Eng	2024 Aug 12
+39013511	Deferiprone and Gallium-Protoporphyrin Chitogel as an antimicrobial treatment: Preclinical studies demonstrating antimicrobial activity for S. aureus infected cutaneous wounds.	Int J Biol Macromol	2024 Sep
+39011810	A Multifunctional Nanocomposite Hydrogel Delivery System Based on Dual-Loaded Liposomes for Scarless Wound Healing.	Adv Healthc Mater	2024 Nov
+39011805	Enhanced Tissue Regeneration Through Immunomodulatory Extracellular Vesicles Encapsulated in Diversified Silk-Based Injectable Hydrogels.	Adv Healthc Mater	2024 Nov
+39011795	Rapid Synthesis of Functions-Integrated Hydrogel as a Self-Powered Wound Dressing for Real-Time Drug Release and Health Monitoring.	Adv Healthc Mater	2024 Nov
+39007721	Preparation of Multifunctional Hydrogels with In Situ Dual Network Structure and Promotion of Wound Healing.	Biomacromolecules	2024 Aug 12
+39000792	Principles and Design of Bionic Hydrogel Adhesives for Skin Wound Treatment.	Polymers (Basel)	2024 Jul 6
+38987992	Integrating Bioactive Graded Hydrogel with Radially Aligned Nanofibers to Dynamically Manipulate Wound Healing Process.	ACS Appl Mater Interfaces	2024 Jul 24
+38986968	Development of pH-Sensitive hydrogel for advanced wound Healing: Graft copolymerization of locust bean gum with acrylamide and acrylic acid.	Int J Pharm	2024 Aug 15
+38986604	Fast Self-Healing Hyaluronic Acid Hydrogel with a Double-Dynamic Network for Skin Wound Repair.	ACS Appl Mater Interfaces	2024 Jul 24
+38972659	Exploring the antimicrobial and antioxidant potential of bacterial cellulose-cerium oxide nanoparticles hydrogel: Design, characterization and biomedical properties.	Int J Biol Macromol	2024 Sep
+38972524	Quaternized oxidized sodium alginate injectable hydrogel with high antimicrobial and hemostatic efficacy promotes diabetic wound healing.	Int J Pharm	2024 Aug 15
+38969423	An antifouling electrochemical biosensor based on oxidized bacterial cellulose and quaternized chitosan for reliable detection of involucrin in wound exudate.	Anal Chim Acta	2024 Aug 8
+38965546	Injective hydrogel loaded with liposomes-encapsulated MY-1 promotes wound healing and increases tensile strength by accelerating fibroblast migration via the PI3K/AKT-Rac1 signaling pathway.	J Nanobiotechnology	2024 Jul 5
+38962912	Indole-3-carbinol loaded-nanocapsules modulated inflammatory and oxidative damages and increase skin wound healing in rats.	Free Radic Res	2024 May-Jun
+38960235	Development and characterization of curcumin nanosuspension-embedded genipin-crosslinked chitosan/polyvinylpyrrolidone hydrogel patch for effective wound healing.	Int J Biol Macromol	2024 Aug
+38959608	Design and evaluation of a bilayered dermal/hypodermal 3D model using a biomimetic hydrogel formulation.	Biomed Pharmacother	2024 Aug
+38959069	A comprehensive exploration of hydrogel applications in multi-stage skin wound healing.	Biomater Sci	2024 Jul 23
+38956415	Neutrophil extracellular traps-inspired DNA hydrogel for wound hemostatic adjuvant.	Nat Commun	2024 Jul 2
+38955296	Photocrosslinked carboxymethylcellulose-based hydrogels: Synthesis, characterization for curcumin delivery and wound healing.	Int J Biol Macromol	2024 Aug
+38955240	Novel theranostic wounds dressing based on pH responsive alginate hydrogel/graphene oxide/levofloxacin modified silk.	Int J Pharm	2024 Aug 15
+38954940	A carrier-free, injectable, and self-assembling hydrogel based on carvacrol and glycyrrhizin exhibits high antibacterial activity and enhances healing of MRSA-infected wounds.	Colloids Surf B Biointerfaces	2024 Sep
+38953692	Self-Adapting Biomass Hydrogel Embodied with miRNA Immunoregulation and Long-Term Bacterial Eradiation for Synergistic Chronic Wound Therapy.	ACS Nano	2024 Jul 16
+38950152	Portable Photoacoustic Analytical System Combined with Wearable Hydrogel Patch for pH Monitoring in Chronic Wounds.	Anal Chem	2024 Jul 16
+38946815	Enhancing pressure ulcer healing and tissue regeneration by using N-acetyl-cysteine loaded carboxymethyl cellulose/gelatin/sodium alginate hydrogel.	Biomed Eng Lett	2024 Jul
+38945346	Chlorogenic acid/carboxymethyl chitosan nanoparticle-assisted biomultifunctional hyaluronic acid-based hydrogel scaffolds for burn skin repair.	Int J Biol Macromol	2024 Aug
+38945331	Polydopamine-armored zeolitic imidazolate framework-8-incorporated zwitterionic hydrogel with multifunctional properties for infected wound healing.	Int J Biol Macromol	2024 Aug
+38945324	Gelatin‑sodium alginate composite hydrogel doped with black phosphorus@ZnO heterojunction for cutaneous wound healing with antibacterial, immunomodulatory, and angiogenic properties.	Int J Biol Macromol	2024 Aug
+38943898	Pluronic F127 composite hydrogel for the repair of contraction suppressed full-thickness skin wounds in a rabbit model.	Curr Res Transl Med	2024 Jun 19
+38942406	Dynamic bond crosslinked maca polysaccharide hydrogels with reactive oxygen species scavenging and antibacterial effects on infected wound healing.	Int J Biol Macromol	2024 Sep
+38942404	Long duration sodium hyaluronate hydrogel with dual functions of both growth prompting and acid-triggered antibacterial activity for bacteria-infected wound healing.	Int J Biol Macromol	2024 Aug
+38942188	Red-light-excited TiO(2)/Bi(2)S(3) heterojunction nanotubes and photoelectric hydrogels mediate epidermal-neural network reconstruction in deep burns.	Acta Biomater	2024 Aug
+38941540	3D Bioprinting of Artificial Skin Substitute with Improved Mechanical Property and Regulated Cell Behavior through Integrating Patterned Nanofibrous Films.	ACS Nano	2024 Jul 16
+38940279	Engineering Titanium-Hydroxyapatite Nanocomposite Hydrogels for Enhanced Antibacterial and Wound Healing Efficacy.	ACS Biomater Sci Eng	2024 Aug 12
+38938680	The diffusion of normal skin wound myofibroblast-derived microvesicles differs according to matrix composition.	J Extracell Biol	2024 Jan
+38936752	Tissue-adhesive, stretchable and compressible physical double-crosslinked microgel-integrated hydrogels for dynamic wound care.	Acta Biomater	2024 Aug
+38936031	A functional hydrogel of dopamine-modified gelatin with photothermal properties for enhancing infected wound healing.	Colloids Surf B Biointerfaces	2024 Sep
+38934374	Multifunctional Molybdenum-Based Nanoclusters Engineered Gelatin Methacryloyl as In Situ Photo-Cross-Linkable Hybrid Hydrogel Dressings for Enhanced Wound Healing.	ACS Appl Mater Interfaces	2024 Jul 10
+38928316	Hydrogel Wound Dressings Accelerating Healing Process of Wounds in Movable Parts.	Int J Mol Sci	2024 Jun 15
+38925610	Prussian Blue-Assisted NIR Triggered In-Situ Polymerized Nanocomposite Hydrogel for Wound Repair.	Chembiochem	2024 Sep 2
+38923269	An Injectable Living Hydrogel with Embedded Probiotics as a Novel Strategy for Combating Multifaceted Pathogen Wound Infections.	Adv Healthc Mater	2024 Oct
+38920958	Eco-Friendly Production of Polyvinyl Alcohol/Carboxymethyl Cellulose Wound Healing Dressing Containing Sericin.	Gels	2024 Jun 20
+38920909	Antibacterial Silver Nanoparticle Containing Polydopamine Hydrogels That Enhance Re-Epithelization.	Gels	2024 May 24
+38920898	Evaluation of the Biological Activity of Manna Exudate, from Fraxinus ornus L., and Its Potential Use as Hydrogel Formulation in Dermatology and Cosmetology.	Gels	2024 May 21
+38917923	Multifunctional sprayable carboxymethyl chitosan/polyphenol hydrogel for wound healing.	Int J Biol Macromol	2024 Aug
+38917335	Remendable Cross-Linked Alginate/Gelatin Hydrogels Incorporating Nanofibers for Wound Repair and Regeneration.	Biomacromolecules	2024 Jul 8
+38911243	An in situ forming gelatin-based hydrogel loaded with soluble amniotic membrane promotes full-thickness wound regeneration in rats.	Iran J Basic Med Sci	2024
+38911060	Identification of a human type XVII collagen fragment with high capacity for maintaining skin health.	Synth Syst Biotechnol	2024 Dec
+38906230	Formulation and dermal delivery of a new active pharmaceutical ingredient in an in vitro wound model for the treatment of chronic ulcers.	Eur J Pharm Biopharm	2024 Sep
+38904166	Composite hydrogels with antioxidant and robust adhesive properties for the prevention of radiation-induced dermatitis.	J Mater Chem B	2024 Jul 17
+38899974	A hydrogel based on Fe(II)-GMP demonstrates tunable emission, self-healing mechanical strength and Fenton chemistry-mediated notable antibacterial properties.	Nanoscale	2024 Jul 11
+38898715	Chitosan based ethanolicAllium Sativumextract hydrogel film: a novel skin tissue regeneration platform for 2nd degree burn wound healing.	Biomed Mater	2024 Jun 20
+38897336	Green synthesis-inspired antibacterial, antioxidant and adhesive hydrogels with ultra-fast gelation and hemostasis for promoting infected skin wound healing.	Acta Biomater	2024 Aug
+38896436	Multifunctional protocatechuic acid-polyacrylic acid hydrogel adhesives for wound dressings.	J Mater Chem B	2024 Jul 10
+38890349	A hybrid structure based on silk fibroin/PVA nanofibers and alginate/gum tragacanth hydrogel embedded with cardamom extract.	Sci Rep	2024 Jun 18
+38885776	Phage therapy combined with Gum Karaya injectable hydrogels for treatment of methicillin-resistant Staphylococcus aureus deep wound infection in a porcine model.	Int J Pharm	2024 Jul 20
+38878926	Multi-dynamic-bond cross-linked antibacterial and adhesive hydrogel based on boronated chitosan derivative and loaded with peptides from Periplaneta americana with on-demand removability.	Int J Biol Macromol	2024 Jul
+38876718	Multifunctional pH-responsive hydrogel dressings based on carboxymethyl chitosan: Synthesis, characterization fostering the wound healing.	Carbohydr Polym	2024 Oct 1
+38876232	Chitosan-taurine nanoparticles cross-linked carboxymethyl chitosan hydrogels facilitate both acute and chronic diabetic wound healing.	Int J Biol Macromol	2024 Jul
+38875445	An Injectable Hydrogel with Ultrahigh Burst Pressure and Innate Antibacterial Activity for Emergency Hemostasis and Wound Repair.	Adv Mater	2024 Aug
+38874272	The Role of Hydrogel Biomaterials in the Intervention of Wound Healing and Skin Regeneration via Exosomes: A Systematic Review and Meta-Analysis of Preclinical Animal Studies.	Adv Wound Care (New Rochelle)	2024 Jul 26
+38866291	On the design of lignin reinforced acrylic acid/hyaluronic acid adhesive hydrogels with conductive PEDOT:HA nanoparticles.	Int J Biol Macromol	2024 Jul
+38865210	Bioactive Metal Ion-Coordinated Dynamic Hydrogel with Antibacterial, Immunomodulatory, and Angiogenic Activities for Infected Wound Repair.	ACS Appl Mater Interfaces	2024 Jun 26
+38862053	Collagen/Curdlan composite sponge for rapid hemostasis and skin wound healing.	Int J Biol Macromol	2024 Jul
+38857996	Efficacy of melanin-loaded lipoic acid-modified chitosan hydrogel in diabetic wound healing.	Carbohydr Polym	2024 Sep 15
+38852926	Pectin-honey hydrogel to prevent laparotomy surgical site infection in horses: A pilot study.	J Equine Vet Sci	2024 Aug
+38852721	A dynamically cross-linked catechol-grafted chitosan/gelatin hydrogel dressing synergised with photothermal therapy and baicalin reduces wound infection and accelerates wound healing.	Int J Biol Macromol	2024 Jul
+38850485	Motion-Accommodating Dual-Layer Hydrogel Dressing to Deliver Adipose-Derived Stem Cells to Wounds.	Tissue Eng Regen Med	2024 Aug
+38849931	Accelerated full-thickness skin wound tissue regeneration by self-crosslinked chitosan hydrogel films reinforced by oxidized CNC-AgNPs stabilized Pickering emulsion for quercetin delivery.	J Nanobiotechnology	2024 Jun 8
+38848491	Self-Healing Conductive Hydrogels with Dynamic Dual Network Structure Accelerate Infected Wound Healing via Photothermal Antimicrobial and Regulating Inflammatory Response.	ACS Appl Mater Interfaces	2024 Jun 19
+38844279	Enhancing diabetic wound healing with a pH/glucose dual-responsive hydrogel for ROS clearance and antibacterial activity.	Int J Biol Macromol	2024 Jun
+38841337	Fabrication and characteristics of multifunctional hydrogel dressings using dopamine modified hyaluronic acid and phenylboronic acid modified chitosan.	Front Chem	2024
+38840405	Niosome-Based Hydrogel of Quince Extract: A Promising Strategy for Expedited Full-thickness Wound Healing in Rat.	Curr Drug Deliv	2024 Jun 4
+38838692	Carboxymethyl chitosan-methacrylic acid gelatin hydrogel for wound healing and vascular regeneration.	Biomed Mater	2024 Jun 18
+38837826	Rapid-Response Water-Shrink Films with High Output Work Density Based on Polyethylene Oxide and α-Cyclodextrin for Autonomous Wound Closure.	Adv Mater	2024 Aug
+38837237	Interventions for postburn pruritus.	Cochrane Database Syst Rev	2024 Jun 5
+38836321	Chitosan-based multifunctional oxygenating antibiotic hydrogel dressings for managing chronic infection in diabetic wounds.	Biomater Sci	2024 Jun 25
+38834664	Tannic acid modified keratin/sodium alginate/carboxymethyl chitosan biocomposite hydrogels with good mechanical properties and swelling behavior.	Sci Rep	2024 Jun 4
+38832934	Extracellular Matrix Mimicking Wound Microenvironment Responsive Amyloid-Heparin@TA(AgNP) Co-Assembled Hydrogel: An Effective Conductive Antibacterial Wound Healing Material.	ACS Appl Mater Interfaces	2024 Jun 19
+38821311	Multifunctional polyvinyl alcohol/poly-dopamine hydrogels loaded with bio-nano composites promote wound healing by repairing endogenous electric fields.	Int J Biol Macromol	2024 Jun
+38819955	Physical Properties and Biochemical Composition of Extracellular Matrix-Derived Hydrogels Dictate Vascularization Potential in an Organ-Dependent Fashion.	ACS Appl Mater Interfaces	2024 Jun 12
+38818510	Microenvironmental dynamics of diabetic wounds and insights for hydrogel-based therapeutics.	J Tissue Eng	2024 Jan-Dec
+38815704	A novel exosome-based multifunctional nanocomposite platform driven by photothermal-controlled release system for repair of skin injury.	J Control Release	2024 Jul
+38815368	Porous gradient hydrogel promotes skin regeneration by angiogenesis.	J Colloid Interface Sci	2024 Oct
+38814614	Hybrid Double-Sided Tape with Asymmetrical Adhesion and Burst Pressure Tolerance for Abdominal Injury Treatment.	ACS Appl Mater Interfaces	2024 Jun 12
+38810855	Multifunctional double-network hydrogel with antibacterial and anti-inflammatory synergistic effects contributes to wound healing of bacterial infection.	Int J Biol Macromol	2024 Jun
+38810432	Bionic double-crosslinked hydrogel of poly (γ-glutamic acid)/poly (N-(2-hydroxyethyl) acrylamide) with ultrafast gelling process and ultrahigh burst pressure for emergency rescue.	Int J Biol Macromol	2024 Jun
+38801600	Photodynamic therapy mediated by methylene blue-loaded PEG accelerates skin mouse wound healing: an immune response.	Lasers Med Sci	2024 May 27
+38799696	An Antibacterial, Conductive Nanocomposite Hydrogel Coupled with Electrical Stimulation for Accelerated Wound Healing.	Int J Nanomedicine	2024
+38797311	Carboxymethyl cellulose/sodium alginate hydrogel with anti-inflammatory capabilities for accelerated wound healing; In vitro and in vivo study.	Eur J Pharmacol	2024 Aug 5
+38795900	Dual cross-linked self-healing hydrogel enhanced by dopamine nanoparticles and raffinose for wound healing.	Int J Biol Macromol	2024 Jun
+38795887	Fabrication and characterization of physically crosslinked alginate/chitosan-based hydrogel loaded with neomycin for the treatment of skin infections caused by Staphylococcus aureus.	Int J Biol Macromol	2024 Jun
+38794145	Characterization, Biocompatibility and Antioxidant Activity of Hydrogels Containing Propolis Extract as an Alternative Treatment in Wound Healing.	Pharmaceuticals (Basel)	2024 Apr 30
+38786263	Incorporation of Resveratrol-Hydroxypropyl-β-Cyclodextrin Complexes into Hydrogel Formulation for Wound Treatment.	Gels	2024 May 18
+38786236	Gelatin-Based Hydrogel Functionalized with Dopamine and Layered Double Hydroxide for Wound Healing.	Gels	2024 May 7
+38777021	Evaluation of living bacterial therapy assisted by pH/reactive oxygen species dual-responsive sodium alginate-based hydrogel for wound infections.	Int J Biol Macromol	2024 Jun
+38772009	Heme-Mimetic Photosensitizer with Iron-Targeting and Internalizing Properties for Enhancing PDT Activity and Promoting Infected Diabetic Wound Healing.	ACS Appl Bio Mater	2024 Jun 17
+38771294	Self-Healing Guar Gum-Based Nanocomposite Hydrogel Promotes Infected Wound Healing through Photothermal Antibacterial Therapy.	Biomacromolecules	2024 Jun 10
+38769034	Laponite/lactoferrin hydrogel loaded with eugenol for methicillin-resistant Staphylococcus aureus-infected chronic skin wound healing.	J Tissue Viability	2024 Aug
+38763255	The bioengineering application of hyaluronic acid in tissue regeneration and repair.	Int J Biol Macromol	2024 Jun
+38750915	Fibroblast alignment and matrix remodeling induced by a stiffness gradient in a skin-derived extracellular matrix hydrogel.	Acta Biomater	2024 Jul 1
+38747238	An adhesion-switchable hydrogel dressing for painless dressing removal without secondary damage.	J Mater Chem B	2024 Jun 12
+38744431	A Living Microecological Hydrogel with Microbiota Remodeling and Immune Reinstatement for Diabetic Wound Healing.	Adv Healthc Mater	2024 Sep
+38732075	Melatonin/Sericin Wound Healing Patches: Implications for Melanoma Therapy.	Int J Mol Sci	2024 Apr 29
+38731569	Application of Cinnamomum burmannii Essential Oil in Promoting Wound Healing.	Molecules	2024 Apr 30
+38729435	Utilizing stem cell-secreted molecules as a versatile toolbox for skin regenerative medicine.	J Control Release	2024 Jun
+38726947	Silk fibroin-based hemostatic powders with instant and robust adhesion performance for sutureless sealing of gastrointestinal defects.	J Mater Chem B	2024 Jun 5
+38726867	Fabrication of a MXene-based shape-memory hydrogel and its application in the wound repair of skin.	Soft Matter	2024 May 22
+38725393	Enhanced Mechanical Strength and Sustained Drug Release in Carrier-Free Silver-Coordinated Anthraquinone Natural Antibacterial Anti-Inflammatory Hydrogel for Infectious Wound Healing.	Adv Healthc Mater	2024 Sep
+38725122	Visible-Light Cross-Linkable Multifunctional Hydrogels Loaded with Exosomes Facilitate Full-Thickness Skin Defect Wound Healing through Participating in the Entire Healing Process.	ACS Appl Mater Interfaces	2024 May 22
+38724255	Fabrication of sulfobutylether-β-cyclodextrin/glabridin inclusion complex for promoting bioactivities.	Arch Pharm (Weinheim)	2024 Aug
+38723874	Nonoperative and Operative Soft-Tissue, Cartilage, and Bony Regeneration and Orthopaedic Biologics of the Elbow and Upper Extremity: An Orthoregeneration Network Foundation Review.	Arthroscopy	2024 Dec
+38723276	Advanced Dressings for Chronic Wound Management.	ACS Appl Bio Mater	2024 May 20
+38719006	Cascade encapsulation of antimicrobial peptides, exosomes and antibiotics in fibrin-gel for first-aid hemostasis and infected wound healing.	Int J Biol Macromol	2024 Jun
+38718714	Enhancing regenerative medicine with self-healing hydrogels: A solution for tissue repair and advanced cyborganic healthcare devices.	Biomater Adv	2024 Jul
+38716615	An injectable hydrogel dressing for controlled release of hydrogen sulfide pleiotropically mediates the wound microenvironment.	J Mater Chem B	2024 Jun 5
+38715922	Potential of gelatin hydrogel nonwoven fabrics (Genocel) as a skin substitute in a diabetic mouse skin defect model.	Regen Ther	2024 Dec
+38706729	NIR-Responsive injectable hydrogel cross-linked by homobifunctional PEG for photo-hyperthermia of melanoma, antibacterial wound healing, and preventing post-operative adhesion.	Mater Today Bio	2024 Jun
+38706446	Bacteriophage-cocktail hydrogel dressing to prevent multiple bacterial infections and heal diabetic ulcers in mice.	J Biomed Mater Res A	2024 Nov
+38704692	A Bioactive Injectable Hydrogel Regulates Tumor Metastasis and Wound Healing for Melanoma via NIR-Light Triggered Hyperthermia.	Adv Sci (Weinh)	2024 Jul
+38701326	A Hydrogel Dressing Comprised of Silk Fibroin, Ag Nanoparticles, and Reduced Graphene Oxide for NIR Photothermal-Enhanced Antibacterial Efficiency and Skin Regeneration.	Adv Healthc Mater	2024 Sep
+38697149	Promoting tissue repair using deferoxamine nanoparticles loaded biomimetic gelatin/HA composite hydrogel.	Biomed Mater	2024 May 21
+38692544	A bacterial cellulose/polyvinyl alcohol/nitro graphene oxide double layer network hydrogel efficiency antibacterial and promotes wound healing.	Int J Biol Macromol	2024 Jun
+38692527	Eggshell membrane powder reinforces adhesive polysaccharide hydrogels for wound repair.	Int J Biol Macromol	2024 Jun
+38692469	Preparation and characterization of a polyurethane-based sponge wound dressing with a superhydrophobic layer and an antimicrobial adherent hydrogel layer.	Acta Biomater	2024 Jun
+38686688	A Multifunctional Herb-Derived Glycopeptide Hydrogel for Chronic Wound Healing.	Small	2024 Sep
+38686374	Hesperidin - loaded PVA/alginate hydrogel: targeting NFκB/iNOS/COX-2/TNF-α inflammatory signaling pathway.	Front Immunol	2024
+38685547	Preparation of nano-silver containing black phosphorus based on quaternized chitosan hydrogel and evaluating its effect on skin wound healing.	Int J Biol Macromol	2024 May
+38685383	Injectable hydrogel harnessing foreskin mesenchymal stem cell-derived extracellular vesicles for treatment of chronic diabetic skin wounds.	J Control Release	2024 Jun
+38683776	Assessing antibacterial efficacy of a polyhexanide hydrogel versus alginate-based wound dressing in burns.	J Wound Care	2024 May 2
+38683036	Glucopeptide Superstructure Hydrogel Promotes Surgical Wound Healing Following Neoadjuvant Radiotherapy by Producing NO and Anticellular Senescence.	Adv Healthc Mater	2024 Aug
+38681961	Rapid eradication of vancomycin and methicillin-resistant Staphylococcus aureus by MDP1 antimicrobial peptide coated on photocrosslinkable chitosan hydrogel: in vitro antibacterial and in silico molecular docking studies.	Front Bioeng Biotechnol	2024
+38679405	Glycopeptide-based multifunctional nanofibrous hydrogel that facilitates the healing of diabetic wounds infected with methicillin-resistant Staphylococcus aureus.	Acta Biomater	2024 Jun
+38677691	Quaternary ammonium carboxymethyl chitosan composite hydrogel with efficient antibacterial and antioxidant properties for promoting wound healing.	Int J Biol Macromol	2024 May
+38676522	Acceleration of Wound Healing in Diabetic Rats through a Novel 3D Organo-Hydrogel Nanocomposite of Polydopamine/TiO2 Nanoparticles and Cu (PDA-TiO2@Cu).	Endocr Metab Immune Disord Drug Targets	2024 Apr 26
+38675577	Wondrous Yellow Molecule: Are Hydrogels a Successful Strategy to Overcome the Limitations of Curcumin?	Molecules	2024 Apr 12
+38675185	Progress in the Use of Hydrogels for Antioxidant Delivery in Skin Wounds.	Pharmaceutics	2024 Apr 10
+38675000	Enhancing Alginate Hydrogels as Possible Wound-Healing Patches: The Synergistic Impact of Reduced Graphene Oxide and Tannins on Mechanical and Adhesive Properties.	Polymers (Basel)	2024 Apr 12
+38674119	Bactericidal Chitosan Derivatives and Their Superabsorbent Blends with ĸ-Carrageenan.	Int J Mol Sci	2024 Apr 20
+38672102	The Role and Prospects of Mesenchymal Stem Cells in Skin Repair and Regeneration.	Biomedicines	2024 Mar 27
+38670773	Injectable nanoparticle-crosslinked xyloglucan/ε-poly-l-lysine composite hydrogel with hemostatic, antimicrobial, and angiogenic properties for infected wound healing.	Carbohydr Polym	2024 Jul 15
+38670756	Protamine-grafted carboxymethyl chitosan based hydrogel with adhesive and long-term antibacterial properties for hemostasis and skin wound healing.	Carbohydr Polym	2024 Jul 15
+38667646	Chitosan-Oxidized Pullulan Hydrogels Loaded with Essential Clove Oil: Synthesis, Characterization, Antioxidant and Antimicrobial Properties.	Gels	2024 Mar 26
+38664026	[Effects of gelatin methacrylate anhydride hydrogel loaded with small extracellular vesicles derived from human umbilical cord mesenchymal stem cells in the treatment of full-thickness skin defect wounds in mice].	Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi	2024 Apr 20
+38663278	Mechanical biomimetic silk nano fiber-magnesium ion complex/hydroxyethylcellulose/glycerol hydrogel dressing with angiogenic capacity for accelerating scarless diabetic wound healing.	J Colloid Interface Sci	2024 Aug
+38657627	Ultrafast gelling bioadhesive based on blood plasma and gelatin for wound closure and healing.	Biomed Mater	2024 May 7
+38655586	Micro-environment triple-responsive hyaluronic acid hydrogel dressings to promote antibacterial activity, collagen deposition, and angiogenesis for diabetic wound healing.	J Mater Chem B	2024 May 15
+38651528	Light-degradable nanocomposite hydrogels for antibacterial wound dressing applications.	J Mater Chem B	2024 May 15
+38648955	Healing with precision: A multi-functional hydrogel-bioactive glass dressing boosts infected wound recovery and enhances neurogenesis in the wound bed.	J Control Release	2024 Jun
+38645584	Study of mechanical property and biocompatibility of graphene oxide/MEO(2)MA hydrogel scaffold for wound healing application.	Biomed Eng Lett	2024 May
+38645281	Recombinant human annexin A5 accelerates diabetic wounds healing by regulating skin inflammation.	Regen Ther	2024 Dec
+38643919	Poly (vinyl alcohol)/sodium alginate/carboxymethyl chitosan multifunctional hydrogel loading HKUST-1 nanoenzymes for diabetic wound healing.	Int J Biol Macromol	2024 May
+38643918	Hydrogel-based immunoregulation of macrophages for tissue repair and regeneration.	Int J Biol Macromol	2024 May
+38642687	A review of biomacromolecule-based 3D bioprinting strategies for structure-function integrated repair of skin tissues.	Int J Biol Macromol	2024 May
+38642619	Luteolin-incorporated fish collagen hydrogel scaffold: An effective drug delivery strategy for wound healing.	Int J Pharm	2024 May 25
+38642517	Rapid formed temperature-sensitive hydrogel for the multi-effective wound healing of deep second-degree burn with shikonin based scar prevention.	Biomater Adv	2024 Jun
+38641283	Antioxidant and antibacterial hydrogel formed by protocatechualdehyde-ferric iron complex and aminopolysaccharide for infected wound healing.	Int J Biol Macromol	2024 May
+38640710	Hydrogels containing KYNA promote angiogenesis and inhibit inflammation to improve the survival rate of multi-territory perforator flaps.	Biomed Pharmacother	2024 May
+38632231	Intelligent perceptual textiles based on ionic-conductive and strong silk fibers.	Nat Commun	2024 Apr 17
+38631590	Fe(3+)-induced coordination cross-linking gallic acid-carboxymethyl cellulose self-healing hydrogel.	Int J Biol Macromol	2024 May
+38626838	Polyvinyl alcohol/chitosan quaternary ammonium salt composite hydrogel with directional macroporous structure for photothermal synergistic antibacterial and wound healing promotion.	Int J Biol Macromol	2024 May
+38626344	Multihydrogen Bond Modulated Polyzwitterionic Removable Adhesive Hydrogel with Antibacterial and Hemostatic Function for Wound Healing.	ACS Appl Mater Interfaces	2024 May 1
+38623028	Collagen-polyurethane-dextran hydrogels enhance wound healing by inhibiting inflammation and promoting collagen fibrillogenesis.	J Biomed Mater Res A	2024 Oct
+38622128	Tetrahedral framework nucleic acids/hyaluronic acid-methacrylic anhydride hybrid hydrogel with antimicrobial and anti-inflammatory properties for infected wound healing.	Int J Oral Sci	2024 Apr 16
+38613795	Therapeutic effect of ZnO NPs-polyhexanide-hydrogel on Staphylococcus aureus-induced skin wound infection in mice.	J Biomater Sci Polym Ed	2024 Jul
+38612660	Advancements in Regenerative Hydrogels in Skin Wound Treatment: A Comprehensive Review.	Int J Mol Sci	2024 Mar 29
+38612513	Bioengineering Skin Substitutes for Wound Management-Perspectives and Challenges.	Int J Mol Sci	2024 Mar 26
+38602041	Sunflower pollen-derived microcapsules adsorb light and bacteria for enhanced antimicrobial photothermal therapy.	Nanoscale	2024 May 2
+38596825	Metal-ion-controlled hydrogel dressing with enhanced adhesive and antibacterial properties for accelerated wound healing.	Mater Today Bio	2024 Jun
+38596410	A Multifunctional Nanozyme Integrating Antioxidant, Antimicrobial and Pro-Vascularity for Skin Wound Management.	Int J Nanomedicine	2024
+38593320	Copper Ion-Inspired Dual Controllable Drug Release Hydrogels for Wound Management: Driven by Hydrogen Bonds.	Small	2024 Aug
+38567543	Conductive Hyaluronic Acid/Deep Eutectic Solvent Composite Hydrogel as a Wound Dressing for Promoting Skin Burn Healing Under Electrical Stimulation.	Adv Healthc Mater	2024 Jul
+38562272	Chitosan-Based Biomaterial in Wound Healing: A Review.	Cureus	2024 Feb
+38558255	pH-Responsive Calcium Ions and Crocetin Releasing Hydrogel for Accelerating Skin Wound Healing.	Chem Asian J	2024 May 17
+38554919	Hyaluronic acid hydrogels with excellent self-healing capacity and photo-enhanced mechanical properties for wound healing.	Int J Biol Macromol	2024 May
+38554918	A photocrosslinkable and hemostatic bilayer wound dressing based on gelatin methacrylate hydrogel and polyvinyl alcohol foam for skin regeneration.	Int J Biol Macromol	2024 May
+38554906	Injectable plant-derived polysaccharide hydrogels with intrinsic antioxidant bioactivity accelerate wound healing by promoting epithelialization and angiogenesis.	Int J Biol Macromol	2024 May
+38554642	From hemostasis to proliferation: Accelerating the infected wound healing through a comprehensive repair strategy based on GA/OKGM hydrogel loaded with MXene@TiO(2) nanosheets.	Biomaterials	2024 Jul
+38553247	A nano-composite hyaluronic acid-based hydrogel efficiently antibacterial and scavenges ROS for promoting infected diabetic wound healing.	Carbohydr Polym	2024 Jun 15
+38553241	Insect chitosan/pullulan/gallium photo-crosslinking hydrogels with multiple bioactivities promote MRSA-infected wound healing.	Carbohydr Polym	2024 Jun 15
+38553219	In situ fabricated ZnO nanostructures within carboxymethyl cellulose-based ternary hydrogels for wound healing applications.	Carbohydr Polym	2024 Jun 15
+38553214	Bioinspired wet adhesive carboxymethyl cellulose-based hydrogel with rapid shape adaptability and antioxidant activity for diabetic wound repair.	Carbohydr Polym	2024 Jun 15
+38553212	A tough and bioadhesive injectable hydrogel formed with maleimidyl alginate and pristine gelatin.	Carbohydr Polym	2024 Jun 15
+38553198	Chondroitin sulfate/silk fibroin hydrogel incorporating graphene oxide quantum dots with photothermal-effect promotes type H vessel-related wound healing.	Carbohydr Polym	2024 Jun 15
+38552698	Multifunctional fish-skin collagen-based hydrogel sealant with dual-dynamic-bond cross-linked for rapid hemostasis and accelerated wound healing.	Int J Biol Macromol	2024 May
+38552161	Flexible Conformally Bioadhesive MXene Hydrogel Electronics for Machine Learning-Facilitated Human-Interactive Sensing.	Adv Mater	2024 Aug
+38549454	A Viscous-Biofluid Self-Pumping Organohydrogel Dressing to Accelerate Diabetic Wound Healing.	Adv Mater	2024 Jun
+38547953	Vanillin/fungal-derived carboxy methyl chitosan/polyvinyl alcohol hydrogels prepared by freeze-thawing for wound dressing applications.	Int J Biol Macromol	2024 May
+38543489	Plant-Based Films and Hydrogels for Wound Healing.	Microorganisms	2024 Feb 21
+38543266	Gelatin-/Alginate-Based Hydrogel Scaffolds Reinforced with TiO(2) Nanoparticles for Simultaneous Release of Allantoin, Caffeic Acid, and Quercetin as Multi-Target Wound Therapy Platform.	Pharmaceutics	2024 Mar 7
+38542321	Topical Neuropeptide Y for Ischemic Skin Wounds.	Int J Mol Sci	2024 Mar 15
+38542191	Intradermal Injection of Hybrid Complexes of High- and Low-Molecular-Weight Hyaluronan: Where Do We Stand and Where Are We Headed in Regenerative Medicine?	Int J Mol Sci	2024 Mar 12
+38540123	Antiadhesive Hyaluronic Acid-Based Wound Dressings Promote Wound Healing by Preventing Re-Injury: An In Vivo Investigation.	Biomedicines	2024 Feb 23
+38534606	Hydrogels in Cutaneous Wound Healing: Insights into Characterization, Properties, Formulation and Therapeutic Potential.	Gels	2024 Mar 8
+38534593	Recent Advances of Chitosan-Based Hydrogels for Skin-Wound Dressings.	Gels	2024 Feb 29
+38534574	Functional Hydrogels for Delivery of the Proteolytic Enzyme Serratiopeptidase.	Gels	2024 Feb 20
+38514930	Hyaluronic Acid-Dopamine-NCSN Hydrogel Combined With Extracellular Matrix Promotes Wound Healing.	Macromol Biosci	2024 Jun
+38513911	Fast skin healing chitosan/PEO hydrogels: In vitro and in vivo studies.	Int J Biol Macromol	2024 Apr
+38507269	Localized Surface Plasmon Resonance-Enhanced Photocatalytic Antibacterial of In Situ Sprayed 0D/2D Heterojunction Composite Hydrogel for Treating Diabetic Wound.	Adv Healthc Mater	2024 Nov
+38506587	The Management of Chronic Graft-Versus-Host Disease Skin Ulcers after Hematopoietic Stem Cell Transplantation: A Case Report.	Adv Skin Wound Care	2024 Apr 1
+38501704	Janus Polyurethane Adhesive Patch with Antibacterial Properties for Wound Healing.	ACS Appl Mater Interfaces	2024 Apr 3
+38499125	Platelet rich fibrin and simvastatin-loaded pectin-based 3D printed-electrospun bilayer scaffold for skin tissue regeneration.	Int J Biol Macromol	2024 Apr
+38494792	Cryogel wound dressings based on natural polysaccharides perfectly adhere to irregular wounds for rapid haemostasis and easy disassembly.	Wound Repair Regen	2024 Jul-Aug
+38494240	A rapid interactive chitosan-based medium with antioxidant and pro-vascularization properties for infected burn wound healing.	Carbohydr Polym	2024 Jun 1
+38494226	Antibacterial adhesive based on oxidized tannic acid-chitosan for rapid hemostasis.	Carbohydr Polym	2024 Jun 1
+38492691	KGRT peptide incorporated hydrogel with antibacterial activity for wound healing by optimizing cellular functions via ERK/eNOS signaling.	Int J Biol Macromol	2024 Apr
+38490740	Robust Gradient Hydrogel-Loaded Nanofiber Fleshy Artificial Skin Via A Coupled Microfluidic Electrospinning-Reactive Coating Strategy.	Adv Healthc Mater	2024 Jul
+38486937	Design and Self-Assembly of Peptide-Copolymer Conjugates into Nanoparticle Hydrogel for Wound Healing in Diabetes.	Int J Nanomedicine	2024
+38484819	Recombinant human collagen I/carboxymethyl chitosan hydrogel loaded with long-term released hUCMSCs derived exosomes promotes skin wound repair.	Int J Biol Macromol	2024 Apr
+38481054	Scalable and Versatile Metal Ion Solidificated Alginate Hydrogel for Skin Wound Infection Therapy.	Adv Healthc Mater	2024 Jul
+38479658	Recent advances and biomedical application of 3D printed nanocellulose-based adhesive hydrogels: A review.	Int J Biol Macromol	2024 Apr
+38475375	Compound Microalgae-Type Biofunctional Hydrogel for Wound Repair during Full-Thickness Skin Injuries.	Polymers (Basel)	2024 Mar 3
+38471606	A dual network cross-linked hydrogel with multifunctional Bletilla striata polysaccharide/gelatin/tea polyphenol for wound healing promotion.	Int J Biol Macromol	2024 Apr
+38468975	Sanchi-mediated inactivation of IL1B accelerates wound healing through the NFκB pathway deficit.	Heliyon	2024 Mar 15
+38468689	Amnion-derived hydrogels as a versatile platform for regenerative therapy: from lab to market.	Front Bioeng Biotechnol	2024
+38462109	Silver-infused lysine crosslinked hydrogel with oxidized regenerated cellulose for prospective advanced wound dressings.	Int J Biol Macromol	2024 Apr
+38462042	Microenvironment-responsive smart hydrogels with antibacterial activity and immune regulation for accelerating chronic wound healing.	J Control Release	2024 Apr
+38461682	The essential oil of Melaleuca alternifolia incorporated into hydrogel induces antimicrobial and anti-inflammatory effects on infected wounds by Staphylococcus aureus.	Biomed Pharmacother	2024 Apr
+38457661	Multifunctional Hydrogel Enhances Inflammatory Control, Antimicrobial Activity, and Oxygenation to Promote Healing in Infectious Wounds.	Biomacromolecules	2024 Apr 8
+38453252	Assessing the efficacy of curcumin-loaded alginate hydrogel on skin wound healing: A gene expression analysis.	J Biomater Appl	2024 Apr
+38447843	3D printed arrowroot starch-gellan scaffolds for wound healing applications.	Int J Biol Macromol	2024 Apr
+38447811	Telodendrimer functionalized hydrogel platform for sustained antibiotics release in infection control.	Acta Biomater	2024 Apr 1
+38446137	Injectable and In Situ Formed Dual-Network Hydrogel Reinforced by Mesoporous Silica Nanoparticles and Loaded with BMP-4 for the Closure and Repair of Skull Defects.	ACS Biomater Sci Eng	2024 Apr 8
+38445959	Enhancing Skin Injury Repair: Combined Application of PF-127 Hydrogel and hADSC-Exos Containing miR-148a-3p.	ACS Biomater Sci Eng	2024 Apr 8
+38435666	Construction methods and biomedical applications of PVA-based hydrogels.	Front Chem	2024
+38434762	H(2)S donor S-propargyl-cysteine for skin wound healing improvement via smart transdermal delivery.	MedComm (2020)	2024 Mar
+38432468	Dandelion-derived vesicles-laden hydrogel dressings capable of neutralizing Staphylococcus aureus exotoxins for the care of invasive wounds.	J Control Release	2024 Apr
+38432268	Carboxymethyl cellulose-agarose hydrogel in poly(3-hydroxybutyrate-co-3-hydroxyvalerate) nanofibers: A novel tissue engineered skin graft.	Int J Biol Macromol	2024 Apr
+38431415	Multifunctional polysaccharide/metal/polyphenol double-crosslinked hydrogel for infected wound.	Carbohydr Polym	2024 May 15
+38431010	Facile fabrication of a novel, photodetachable salecan-based hydrogel dressing with self-healing, injectable, and antibacterial properties based on metal coordination.	Int J Biol Macromol	2024 Apr
+38428784	Antimicrobial carbon dots/pectin-based hydrogel for promoting healing processes in multidrug-resistant bacteria-infected wounds.	Int J Biol Macromol	2024 Apr
+38423475	Cellulase-assisted platelet-rich plasma release from nanofibrillated cellulose hydrogel enhances wound healing.	J Control Release	2024 Apr
+38418174	[Effects of cerium oxide nanoenzyme-gelatin methacrylate anhydride hydrogel in the repair of infected full-thickness skin defect wounds in mice].	Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi	2024 Feb 20
+38417214	Modulation of macrophages by a phillyrin-loaded thermosensitive hydrogel promotes skin wound healing in mice.	Cytokine	2024 May
+38417147	Oxidized alginate-gelatin (ADA-GEL)/silk fibroin/Cu-Ag doped mesoporous bioactive glass nanoparticle-based hydrogels for potential wound care treatments.	Biomed Mater	2024 Mar 20
+38416676	Herbal Products-Powered Thermosensitive Hydrogel with Phototherapy and Microenvironment Reconstruction for Accelerating Multidrug-Resistant Bacteria-Infected Wound Healing.	Adv Healthc Mater	2024 Jun
+38413625	Biological study of skin wound treated with Alginate/Carboxymethyl cellulose/chorion membrane, diopside nanoparticles, and Botox A.	NPJ Regen Med	2024 Feb 27
+38412873	A Novel Food Bore Protein Hydrogel with Silver Ions for Promoting Burn Wound Healing.	Macromol Biosci	2024 Jun
+38411945	Exosomes from adipose-derived stem cells activate sebocytes through the PI3K/AKT/SREBP-1 pathway to accelerate wound healing.	Cell Tissue Res	2024 Jun
+38404642	Selenomethionine in gelatin methacryloyl hydrogels: Modulating ferroptosis to attenuate skin aging.	Bioact Mater	2024 May
+38400898	Bakuchiol nanoemulsion loaded electrospun nanofibers for the treatment of burn wounds.	Naunyn Schmiedebergs Arch Pharmacol	2024 Aug
+38399862	PVA-Based Films with Strontium Titanate Nanoparticles Dedicated to Wound Dressing Application.	Polymers (Basel)	2024 Feb 9
+38396661	Hydrogel-Based Skin Regeneration.	Int J Mol Sci	2024 Feb 6
+38395280	Regenerated silk fibroin coating stable liquid metal nanoparticles enhance photothermal antimicrobial activity of hydrogel for wound infection repair.	Int J Biol Macromol	2024 Apr
+38394042	A Nanocomposite Dynamic Covalent Cross-Linked Hydrogel Loaded with Fusidic Acid for Treating Antibiotic-Resistant Infected Wounds.	ACS Appl Bio Mater	2024 Mar 18
+38391479	Hydrogel of Thyme-Oil-PLGA Nanoparticles Designed for Skin Inflammation Treatment.	Gels	2024 Feb 18
+38391477	Recent Developments in 3D-(Bio)printed Hydrogels as Wound Dressings.	Gels	2024 Feb 14
+38391475	Polydopamine Blending Increases Human Cell Proliferation in Gelatin-Xanthan Gum 3D-Printed Hydrogel.	Gels	2024 Feb 14
+38391467	Collagen-Based Scaffolds for Chronic Skin Wound Treatment.	Gels	2024 Feb 8
+38389873	Carbopol 940-based hydrogels loading synergistic combination of quercetin and luteolin from the herb Euphorbia humifusa to promote Staphylococcus aureus infected wound healing.	RSC Med Chem	2024 Feb 21
+38389845	Metal nanoparticle hybrid hydrogels: the state-of-the-art of combining hard and soft materials to promote wound healing.	Theranostics	2024
+38388059	Chitosan-based hydrogel dressings for diabetic wound healing via promoting M2 macrophage-polarization.	Carbohydr Polym	2024 May 1
+38386291	A Spatiotemporal Controllable Biomimetic Skin for Accelerating Wound Repair.	Small	2024 Jun
+38383251	Mussel-inspired near-infrared light-responsive gelatin-based hydrogels for enhancing MRSA-infected wound healing.	Int J Biol Macromol	2024 Apr
+38382792	A review on natural biopolymers in external drug delivery systems for wound healing and atopic dermatitis.	Int J Biol Macromol	2024 Apr
+38381140	Heparinized Acellular Hydrogels for Magnetically Induced Wound Healing Applications.	ACS Appl Mater Interfaces	2024 Feb 28
+38378566	Topical rhubarb charcoal-crosslinked chitosan/silk fibroin sponge scaffold for the repair of diabetic ulcers improves hepatic lipid deposition in db/db mice via the AMPK signalling pathway.	Lipids Health Dis	2024 Feb 20
+38375548	Efficient healing of diabetic wounds by MSC-EV-7A composite hydrogel via suppression of inflammation and enhancement of angiogenesis.	Biomater Sci	2024 Mar 26
+38372031	Gelatine-collagen photo-crosslinkable 3D matrixes for skin regeneration.	Biomater Sci	2024 Mar 26
+38368995	A Poloxamer 407/chitosan-based thermosensitive hydrogel dressing for diabetic wound healing via oxygen production and dihydromyricetin release.	Int J Biol Macromol	2024 Apr
+38355074	Modulating the release of bioactive molecules of human mesenchymal stromal cell secretome: Heparinization of hyaluronic acid-based hydrogels.	Int J Pharm	2024 Mar 25
+38352052	Impact of Using Processed Urinary Bladder Submucosa and Hydrogel Fabricated from Tendon on Skin Healing Process in Rabbits.	Vet Med Int	2024
+38350130	Analysis of bioprinting strategies for skin diseases and injuries through structural and temporal dynamics: historical perspectives, research hotspots, and emerging trends.	Biofabrication	2024 Feb 22
+38348505	Aloe vera-based biomaterial ink for 3D bioprinting of wound dressing constructs.	J Biomed Mater Res B Appl Biomater	2024 Feb
+38345178	Neutrophil Granulopoiesis Optimized Through Ex Vivo Expansion of Hematopoietic Progenitors in Engineered 3D Gelatin Methacrylate Hydrogels.	Adv Healthc Mater	2024 Jun
+38341585	Hydrogel-mediated extracellular vesicles for enhanced wound healing: the latest progress, and their prospects for 3D bioprinting.	J Nanobiotechnology	2024 Feb 10
+38337233	Application of Chitosan-Based Hydrogel in Promoting Wound Healing: A Review.	Polymers (Basel)	2024 Jan 26
+38332741	An Antioxidative and Active Shrinkage Hydrogel Integratedly Promotes Re-Epithelization and Skin Constriction for Enhancing Wound Closure.	Adv Mater	2024 May
+38332581	Accelerating the remodeling of collagen in cutaneous full-thickness wound using FIR soldering technology with bio-targeting nanocomposites hydrogel.	J Biophotonics	2024 May
+38332511	Temperature-sensitive hydrogel releasing pectolinarin facilitate scarless wound healing.	J Cell Mol Med	2024 Feb
+38331398	Multifunctional Cu(2)Se/F127 Hydrogel with SOD-Like Enzyme Activity for Efficient Wound Healing.	Adv Healthc Mater	2024 Jun
+38326079	A Cyclical Magneto-Responsive Massage Dressing for Wound Healing.	Small	2024 Jul
+38323909	An injectable photocuring silk fibroin-based hydrogel for constructing an antioxidant microenvironment for skin repair.	J Mater Chem B	2024 Feb 28
+38323142	Plasma-Derived Fibrin Hydrogels Containing Graphene Oxide for Infections Treatment.	ACS Mater Lett	2023 Apr 3
+38322790	Recent advances in fabrication of dECM-based composite materials for skin tissue engineering.	Front Bioeng Biotechnol	2024
+38319146	Chitosan Hydrogel Dressing Loaded with Adipose Mesenchymal Stem Cell-Derived Exosomes Promotes Skin Full-Thickness Wound Repair.	ACS Appl Bio Mater	2024 Feb 19
+38296244	[Effects of immune responses mediated by topological structures of three-dimensional bioprinted scaffolds on hair follicle cycle in mice].	Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi	2024 Jan 20
+38315254	Development of collagenous scaffolds for wound healing: characterization and in vivo analysis.	J Mater Sci Mater Med	2024 Feb 5
+38313508	In Situ Formation of Hydrogel Wound Dressing Based on Carboxymethyl Chitin/Tannic Acid for Promoting Skin Wound Healing.	ACS Omega	2024 Jan 30
+38313474	Carbomer Hydrogel Composed of Cu(2)O and Hematoporphyrin Monomethyl Ether Promotes the Healing of Infected Wounds.	ACS Omega	2024 Jan 30
+38306618	Injectable and Thermosensitive Hydrogel with Platelet-Rich Plasma for Enhanced Biotherapy of Skin Wound Healing.	Adv Healthc Mater	2024 May
+38304916	Highly active probiotic hydrogels matrixed on bacterial EPS accelerate wound healing via maintaining stable skin microbiota and reducing inflammation.	Bioact Mater	2024 May
+38299437	Dissolvable Immunomodulatory Microneedles for Treatment of Skin Wounds.	Adv Healthc Mater	2024 Jun
+38298888	Cadherin-responsive hydrogel combined with dental pulp stem cells and fibroblast growth factor 21 promotes diabetic scald repair via regulating epithelial-mesenchymal transition and necroptosis.	Mater Today Bio	2024 Feb
+38296937	Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing.	Nat Commun	2024 Feb 1
+38296236	[Preparation of chitin/hyaluronic acid/collagen hydrogel loaded with mouse adipose-derived stem cells and its effects on wound healing of full-thickness skin defects in rats].	Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi	2024 Jan 20
+38296235	[Properties of gelatin-polyethylene glycol hydrogel loaded with silver nanoparticle Chlorella and its effects on healing of infected full-thickness skin defect wounds in mice].	Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi	2024 Jan 20
+38296139	Gelatin/carboxymethyl chitosan/aloe juice hydrogels with skin-like endurance and quick recovery: Preparation, characterization, and properties.	Int J Biol Macromol	2024 Mar
+38296135	"Mussel-inspired ""all-in-one"" sodium alginate/carboxymethyl chitosan hydrogel patch promotes healing of infected wound."	Int J Biol Macromol	2024 Mar
+38292600	Single-Cell Analysis Reveals Cxcl14(+) Fibroblast Accumulation in Regenerating Diabetic Wounds Treated by Hydrogel-Delivering Carbon Monoxide.	ACS Cent Sci	2024 Jan 24
+38290478	Tilapia-Derived Granular Hydrogel as a 3D Scaffold Promoting Rapid Wound Healing.	Biomacromolecules	2024 Feb 12
+38288789	Anti-Inflammatory Peptide-Conjugated Silk Fibroin/Cryogel Hybrid Dual Fiber Scaffold with Hierarchical Structure Promotes Healing of Chronic Wounds.	Adv Mater	2024 Apr
+38286650	MiR-17-5p-engineered sEVs Encapsulated in GelMA Hydrogel Facilitated Diabetic Wound Healing by Targeting PTEN and p21.	Adv Sci (Weinh)	2024 Apr
+38286563	Cellulose nanofibers embedded chitosan/tannin hydrogel with high antibacterial activity and hemostatic ability for drug-resistant bacterial infected wound healing.	Carbohydr Polym	2024 Apr 1
+38286553	Towards promoting wound healing: A near-infrared light-triggered persistently antibacterial, synergistically hemostatic nanoarchitecture-integrated chitosan hydrogel.	Carbohydr Polym	2024 Apr 1
+38286381	Research on triamcinolone-loaded thermosensitive chitosan hydrogels for preventing esophageal stricture induced by endoscopic submucosal dissection.	Int J Biol Macromol	2024 Mar
+38285989	Enhanced Diabetic Rat Wound Healing by Platelet-Rich Plasma Adhesion Zwitterionic Hydrogel.	Ann Plast Surg	2024 Jan 1
+38284157	Immunomodulatory hydrogels for skin wound healing: cellular targets and design strategy.	J Mater Chem B	2024 Mar 6
+38281530	Multifunctional self-healing peptide hydrogel for wound healing.	Int J Biol Macromol	2024 Mar
+38281529	Bioinspired adhesive hydrogel based on serotonin-modified gelatin and oxidized hyaluronic acid for rapid hemostasis and wound healing.	Int J Biol Macromol	2024 Mar
+38281321	Laminin mimetic angiogenic and collagen peptide hydrogel for enhance dermal wound healing.	Biomater Adv	2024 Apr
+38281086	Injectable-Hydrogel-Based Tissue Sealant for Hemostasis, Bacteria Inhibition, and Pro-Angiogenesis in Organ Bleeding Wounds and Therapeutic Outcome Monitoring Via NIR-II Optical Imaging.	Adv Healthc Mater	2024 May
+38280702	A controlled light-induced gas-foaming porous hydrogel with adhesion property for infected wound healing.	Int J Biol Macromol	2024 Mar
+38277902	Hybrid gelatin-ascorbyl phosphate scaffolds accelerate diabetic wound healing via ROS scavenging, angiogenesis and collagen remodeling.	Biomater Adv	2024 Apr
+38275859	The Development and Characterisation of a P(3HB-co-4HB)-Bioactive Glass-Graphene Hydrogel as a Potential Formulation for Biomedical and Therapeutical Translation.	Gels	2024 Jan 22
+38275841	In Situ Hydrogel Formulation for Advanced Wound Dressing: Influence of Co-Solvents and Functional Excipient on Tailored Alginate-Pectin-Chitosan Blend Gelation Kinetics, Adhesiveness, and Performance.	Gels	2023 Dec 20
+38275123	Omentum Extracellular Matrix-Silk Fibroin Hydroscaffold Promotes Wound Healing through Vascularization and Tissue Remodeling in the Diabetic Rat Model.	ACS Biomater Sci Eng	2024 Feb 12
+38275087	Multifunctional Wound Curation Dressing Material FemuFrost─An Antioxidant-Loaded Nanoemulsion Frosted Patch of Poly(vinyl alcohol) and Hyaluronic Acid.	ACS Appl Bio Mater	2024 Feb 19
+38272431	Bilirubin/morin self-assembled nanoparticle-engulfed collagen/polyvinyl alcohol hydrogel accelerates chronic diabetic wound healing by modulating inflammation and ameliorating oxidative stress.	Int J Biol Macromol	2024 Mar
+38272418	Electrospinning/3D printing drug-loaded antibacterial polycaprolactone nanofiber/sodium alginate-gelatin hydrogel bilayer scaffold for skin wound repair.	Int J Biol Macromol	2024 Aug
+38272410	Engineered keratin/bFGF hydrogel to promote diabetic wound healing in rats.	Int J Biol Macromol	2024 Mar
+38270241	Hydrogel foam dressings with angiogenic and immunomodulatory factors from mesenchymal stem cells.	J Biomed Mater Res A	2024 Sep
+38268973	The Development of an Advanced Model for Multilayer Human Skin Reconstruction In Vivo.	Bio Protoc	2024 Jan 20
+38266851	Ganoderma lucidum polysaccharide hydrogel accelerates diabetic wound healing by regulating macrophage polarization.	Int J Biol Macromol	2024 Mar
+38266849	Promising cellulose-based functional gels for advanced biomedical applications: A review.	Int J Biol Macromol	2024 Mar
+38265971	Dehydration-Toughing Dual-Solvent Gels with Viscoelastic Transition for Infectious Wound Treatment.	Adv Healthc Mater	2024 Jun
+38261910	A bioactive composite hydrogel dressing that promotes healing of both acute and chronic diabetic skin wounds.	Bioact Mater	2024 Apr
+38254694	Development of a Novel Covalently Bonded Conjugate of Caprylic Acid Tripeptide (Isoleucine-Leucine-Aspartic Acid) for Wound-Compatible and Injectable Hydrogel to Accelerate Healing.	Biomolecules	2024 Jan 11
+38253524	Hemostatic Tranexamic Acid-Induced Fast Gelation and Mechanical Reinforcement of Polydimethylacrylamide/Carboxymethyl Chitosan Hydrogel for Hemostasis and Wound Healing.	Biomacromolecules	2024 Feb 12
+38253143	Gelatin-based dynamic response antioxidant, anti-inflammatory multifunctional hydrogel for enhanced diabetic wound repair.	Int J Biol Macromol	2024 Mar
+38247781	Impact of the Preparation Method on the Formulation Properties of Allantoin Hydrogels: Evaluation Using Semi-Solid Control Diagram (SSCD) Principles.	Gels	2024 Jan 12
+38247768	Novel Therapeutic Hybrid Systems Using Hydrogels and Nanotechnology: A Focus on Nanoemulgels for the Treatment of Skin Diseases.	Gels	2024 Jan 6
+38247348	Multifunctional On-Demand Removability Hydrogel Dressing Based on in Situ Formed AgNPs, Silk Microfibers and Hydrazide Hyaluronic Acid for Burn Wound Healing.	Adv Healthc Mater	2024 Mar
+38247194	Relieving Macrophage Dysfunction by Inhibiting SREBP2 Activity: A Hypoxic Mesenchymal Stem Cells-Derived Exosomes Loaded Multifunctional Hydrogel for Accelerated Diabetic Wound Healing.	Small	2024 Jun
+38246452	Development of a highly porous bioscaffold by the combination of bubble entrapping and freezing-thawing techniques to fabricate hyaluronic acid/gelatin tri-layer wound dressing.	Int J Biol Macromol	2024 Mar
+38245537	Connective tissue inspired elastomer-based hydrogel for artificial skin via radiation-indued penetrating polymerization.	Nat Commun	2024 Jan 20
+38244736	A multifunctional composite nanoparticle with antibacterial activities, anti-inflammatory, and angiogenesis for diabetic wound healing.	Int J Biol Macromol	2024 Mar
+38242386	Doping proanthocyanidins into gel/zirconium hybrid hydrogel to reshape the microenvironment of diabetic wounds for healing acceleration.	Int J Biol Macromol	2024 Mar
+38242071	Multifunctional chitosan-based hydrogel wound dressing loaded with Acanthopanax senticosus and Osmundastrum cinnamomeum: Preparation, characterization and coagulation mechanism.	J Mech Behav Biomed Mater	2024 Mar
+38240342	Wound microenvironment regulatory poly(L-glutamic acid) composite hydrogels containing metal ion-coordinated nanoparticles for effective hemostasis and wound healing.	Biomater Sci	2024 Feb 27
+38237945	Sprayable Zwitterionic Antibacterial Hydrogel With High Mechanical Resilience and Robust Adhesion for Joint Wound Treatment.	Macromol Rapid Commun	2024 Apr
+38235663	Nanoapatite-Loaded κ-Carrageenan/Poly(vinyl alcohol)-Based Injectable Cryogel for Hemostasis and Wound Healing.	Biomacromolecules	2024 Feb 12
+38234872	Injectable hydrogels doped with PDA nanoparticles for photothermal bacterial inhibition and rapid wound healing in vitro.	RSC Adv	2024 Jan 10
+38228200	Tuning thermoresponsive properties of carboxymethyl cellulose (CMC)-agarose composite bioinks to fabricate complex 3D constructs for regenerative medicine.	Int J Biol Macromol	2024 Mar
+38227989	Co-release of nitric oxide and L-arginine from poly (β-amino ester)-based adhesive reprogram macrophages for accelerated wound healing and angiogenesis in vitro and in vivo.	Biomater Adv	2024 Apr
+38227490	Hydrogel-Functionalized Bandages with Janus Wettability for Efficient Unidirectional Drug Delivery and Wound Care.	ACS Nano	2024 Jan 30
+38225741	Cocktail Cell-Reprogrammed Hydrogel Microspheres Achieving Scarless Hair Follicle Regeneration.	Adv Sci (Weinh)	2024 Mar
+38223881	A TA/Cu(2+) Nanoparticle Enhanced Carboxymethyl Chitosan-Based Hydrogel Dressing with Antioxidant Properties and Promoting Wound Healing.	Int J Nanomedicine	2024
+38223459	Advanced function, design and application of skin substitutes for skin regeneration.	Mater Today Bio	2024 Feb
+38219934	Development of carrageenan-immobilized lytic coliphage vB_Eco2571-YU1 hydrogel for topical delivery of bacteriophages in wound dressing applications.	Int J Biol Macromol	2024 Feb
+38218581	Hierarchical double-layer microneedles accomplish multicenter skin regeneration in diabetic full-thickness wounds.	J Adv Res	2024 Jan 11
+38218300	Multifunctional hydrogel bioscaffolds based on polysaccharide to promote wound healing: A review.	Int J Biol Macromol	2024 Feb
+38217256	Nanosponge hydrogel of octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl) propanoate of Alcaligenes faecalis.	Appl Microbiol Biotechnol	2024 Dec
+38216121	Using halofuginone-silver thermosensitive nanohydrogels with antibacterial and anti-inflammatory properties for healing wounds infected with Staphylococcus aureus.	Life Sci	2024 Feb 15
+38216019	A hydrogen-bonded curdlan-chitosan/polyvinyl alcohol edible dual functional hydrogel bandage against MRSA promotes wound healing.	Int J Biol Macromol	2024 Feb
+38199189	Glucose oxidase and ruthenium nanorods-embedded self-healing polyvinyl alcohol/polyethylene imine hydrogel for simultaneous photothermal/photodynamic/starvation therapy and skin reconstruction.	Colloids Surf B Biointerfaces	2024 Feb
+38198289	Smart Nanofibrous Hydrogel Wound Dressings for Dynamic Infection Diagnosis and Control: Soft but Functionally Rigid.	ACS Appl Bio Mater	2024 Feb 19
+38198288	Antimicrobial polyacrylic acid/tannic acid hydrogel wound dressing facilitating full-thickness skin healing.	J Biomater Sci Polym Ed	2024 Apr
+38191113	Drug-free and multifunctional sodium bicarbonate/hyaluronic acid hybrid dressing for synergistic healing of infected wounds.	Int J Biol Macromol	2024 Feb
+38188643	The transformation of multifunctional bio-patch to hydrogel on skin wounds for efficient scarless wound healing.	Mater Today Bio	2024 Feb
+38185308	Phosvitin-based hydrogels prepared in AmimCl under magnetic field treatment: Structural characteristics, biological functions, and application in skin wound healing.	Int J Biol Macromol	2024 Feb
+38184052	Fabrication of antimicrobial cationic hydrogels driven by physically and chemically crosslinking for wound healing.	Int J Biol Macromol	2024 Feb
+38183872	Hesperidin-loaded cubogel as a novel therapeutic armamentarium for full-thickness wound healing.	Colloids Surf B Biointerfaces	2024 Feb
+38183285	Green Starch-Based Hydrogels with Excellent Injectability, Self-Healing, Adhesion, Photothermal Effect, and Antibacterial Activity for Promoting Wound Healing.	ACS Appl Mater Interfaces	2024 Jan 17
+38179665	A sustainable and self-healable silk fibroin nanocomposite with antibacterial and drug eluting properties for 3D printed wound dressings.	J Mater Chem B	2024 Jan 17
+38179129	Augmented wound healing potential of photosensitive GelMA hydrogel incorporating antimicrobial peptides and MXene nanoparticles.	Front Bioeng Biotechnol	2023
+38176509	A dihydromyricetin-loaded phellinus igniarius polysaccharide/l-arginine modified chitosan-based hydrogel for promoting wound recovery in diabetic mice via JNK and TGF-β/Smad signaling pathway.	Int J Biol Macromol	2024 Feb
+38176505	NIR-triggered bacterial cellulose-based wound dressings for multiple synergistic therapy of infected wound.	Int J Biol Macromol	2024 Feb
+38176495	Curcumin-loaded chitosan-based hydrogels accelerating S. aureus-infected wound healing.	Int J Biol Macromol	2024 Feb
+38173767	ROS-responsive hydrogels with spatiotemporally sequential delivery of antibacterial and anti-inflammatory drugs for the repair of MRSA-infected wounds.	Regen Biomater	2024
+38171686	Recent advances of chitosan as a hemostatic material: Hemostatic mechanism, material design and prospective application.	Carbohydr Polym	2024 Mar 1
+38171654	Multi-crosslinked hydrogel built with hyaluronic acid-tyramine, thiolated glycol chitosan and copper-doped bioglass nanoparticles for expediting wound healing.	Carbohydr Polym	2024 Mar 1
+38171508	Hydrogel loaded with exosomes from Wharton's Jelly-derived mesenchymal stem cells enhances wound healing in mice.	Zhejiang Da Xue Xue Bao Yi Xue Ban	2023 Dec 10
+38171171	An antibacterial and anti-oxidant hydrogel containing hyperbranched poly-l-lysine and tea polyphenols accelerates healing of infected wound.	Biomater Adv	2024 Feb
+38169658	Copper incorporated biomaterial-based technologies for multifunctional wound repair.	Theranostics	2024
+38169465	Bionic artificial skin with a fully implantable wireless tactile sensory system for wound healing and restoring skin tactile function.	Nat Commun	2024 Jan 2
+38163498	Tissue adhesives based on chitosan for skin wound healing: Where do we stand in this era? A review.	Int J Biol Macromol	2024 Feb
+38161023	PDGF-AA loaded photo-crosslinked chitosan-based hydrogel for promoting wound healing.	Int J Biol Macromol	2024 Feb
+38159494	A versatile LTF-GO/gel hydrogel with antibacterial and antioxidative attributes for skin wound healing.	J Mech Behav Biomed Mater	2024 Feb
+38156632	Pluronic F127-Lipoic Acid Adhesive Nanohydrogel Combining with Ce(3+)/Tannic Acid/Ulinastatin Nanoparticles for Promoting Wound Healing.	Biomacromolecules	2024 Feb 12
+38155927	Corrigendum: The fabrication of a gellan gum-based hydrogel loaded with magnesium ions for the synergistic promotion of skin wound healing.	Front Bioeng Biotechnol	2023
+38154708	Development and biological evaluation of smart powder bandage for wound healing and dressing applications.	Int J Biol Macromol	2024 Feb
+38150353	Engineering Single-Component Antibacterial Anti-inflammatory Polyitaconate-Based Hydrogel for Promoting Methicillin-Resistant Staphylococcus aureus-Infected Wound Healing and Skin Regeneration.	ACS Nano	2024 Jan 9
+38150008	Rapid Preparation of Highly Stretchable and Fast Self-Repairing Antibacterial Hydrogels for Promoting Hemostasis and Wound Healing.	ACS Appl Bio Mater	2024 Jan 15
+38145691	ROS/pH dual responsive PRP-loaded multifunctional chitosan hydrogels with controlled release of growth factors for skin wound healing.	Int J Biol Macromol	2024 Feb
+38143070	Guanidinylated bioactive chitosan-based injectable hydrogels with pro-angiogenic and mechanical properties for accelerated wound closure.	Int J Biol Macromol	2024 Feb
+38141693	Enhancing wound healing and adhesion through dopamine-assisted gelatin-silica hybrid dressings.	Int J Biol Macromol	2024 Feb
+38139953	Development of an In Situ Photo-Crosslinking Antimicrobial Collagen Hydrogel for the Treatment of Infected Wounds.	Polymers (Basel)	2023 Dec 13
+38139059	Chitosan-Based Hydrogels for Controlled Delivery of Asiaticoside-Rich Centella asiatica Extracts with Wound Healing Potential.	Int J Mol Sci	2023 Dec 7
+38132551	Advanced Applications of Silk-Based Hydrogels for Tissue Engineering: A Short Review.	Biomimetics (Basel)	2023 Dec 15
+38131973	Wound Microenvironment Self-Adjusting Hydrogels with Thermo-Sensitivity for Promoting Diabetic Wound Healing.	Gels	2023 Dec 17
+38131321	Study of EGCG composite hydrogel for the treatment of radiation-induced skin injuries.	J Appl Biomater Funct Mater	2023 Jan-Dec
+38128842	Tetramethylpyrazine-loaded liposomes surrounded by hydrogel based on sodium alginate and chitosan as a multifunctional drug delivery System for treatment of atopic dermatitis.	Eur J Pharm Sci	2024 Feb 1
+38112719	Flexible Accelerated-Wound-Healing Antibacterial Hydrogel-Nanofiber Scaffold for Intelligent Wearable Health Monitoring.	ACS Appl Mater Interfaces	2024 Feb 7
+38109414	A 4D Printed Adhesive, Thermo-Contractile, and Degradable Hydrogel for Diabetic Wound Healing.	Adv Healthc Mater	2024 Apr
+38107900	Fabrication of an Adhesive Small Intestinal Submucosa Acellular Matrix Hydrogel for Accelerating Diabetic Wound Healing.	ACS Omega	2023 Dec 12
+38103668	A photothermally antibacterial Au@Halloysite nanotubes/lignin composite hydrogel for promoting wound healing.	Int J Biol Macromol	2024 Feb
+38101662	Sodium hyaluronate hydrogel for wound healing and human health monitoring based on deep eutectic solvent.	Int J Biol Macromol	2024 Feb
+38096933	Gellan gum-dopamine mediated in situ synthesis of silver nanoparticles and development of nano/micro-composite injectable hydrogel with antimicrobial activity.	Int J Biol Macromol	2024 Feb
+38094895	Development and evaluation of RADA-PDGF2 self-assembling peptide hydrogel for enhanced skin wound healing.	Front Pharmacol	2023
+38089434	Multifunctional ADM hydrogel containing endothelial cell-exosomes for diabetic wound healing.	Mater Today Bio	2023 Dec
+38086583	Autologous blood products: Leucocyte and Platelets Rich Fibrin (L-PRF) and Platelets Rich Plasma (PRP) gel to promote cutaneous ulcer healing - a systematic review.	BMJ Open	2023 Dec 12
+38081484	Next-generation self-adhesive dressings: Highly stretchable, antibacterial, and UV-shielding properties enabled by tannic acid-coated cellulose nanocrystals.	Int J Biol Macromol	2024 Feb
+38076425	Application of photo-crosslinkable gelatin methacryloyl in wound healing.	Front Bioeng Biotechnol	2023
+38076148	The emerging progress on wound dressings and their application in clinic wound management.	Heliyon	2023 Dec
+38075491	In vitro and in vivo evaluation of alginate hydrogel-based wound dressing loaded with green chemistry cerium oxide nanoparticles.	Front Chem	2023
+38075251	Natural self-healing injectable hydrogels loaded with exosomes and berberine for infected wound healing.	Mater Today Bio	2023 Dec
+38075208	A novel portable in situ printer for hydrogel multi-structure molding and cell printing.	APL Bioeng	2023 Dec
+38072116	Oxygenated Hydrogel Promotes Re-Epithelialization and Reduces Inflammation in a Perturbed Wound Model in Rat.	J Pharm Sci	2024 Apr
+38071945	Chitosan-based multifunctional hydrogel with bio-adhesion and antioxidant properties for efficient wound hemostasis.	Colloids Surf B Biointerfaces	2024 Feb
+38069620	Recent advances on 3D-bioprinted gelatin methacrylate hydrogels for tissue engineering in wound healing: A review of current applications and future prospects.	Int Wound J	2024 Apr
+38065459	Polyphenol-sodium alginate supramolecular injectable hydrogel with antibacterial and anti-inflammatory capabilities for infected wound healing.	Int J Biol Macromol	2024 Feb
+38063374	Multifunctional MXene-doped photothermal microneedles for drug-resistant bacteria-infected wound healing.	Biomater Sci	2024 Jan 30
+38060436	Multi-Enzyme-Based Superabsorbent Hydrogel for Self-Enhanced NIR-II Photothermal-Catalytic Antibacterial Therapy.	Adv Healthc Mater	2024 May
+38056111	Preparation and characterization of 3D bioprinted gelatin methacrylate hydrogel incorporated with curcumin loaded chitosan nanoparticles for in vivo wound healing application.	Biomater Adv	2024 Jan
+38055076	Head and neck cancer patients under radiotherapy undergoing skin application of hydrogel dressing or hyaluronic acid: results from a prospective, randomized study.	Support Care Cancer	2023 Dec 6
+38054634	Injectable and Microporous Microgel-Fiber Granular Hydrogel Loaded with Bioglass and siRNA for Promoting Diabetic Wound Healing.	Small	2024 May
+38048932	Recent progress in polysaccharide and polypeptide based modern moisture-retentive wound dressings.	Int J Biol Macromol	2024 Jan
+38038266	In Vivo Wound Healing in Drosophila melanogaster and Mouse Models: Synergistic Effect of Bovine Serum Albumin and Graphene Quantum Dots.	ACS Appl Bio Mater	2023 Dec 18
+38031512	Biofabrication of Cellulose-based Hydrogels for Advanced Wound Healing: A Special Emphasis on 3D Bioprinting.	Macromol Biosci	2024 May
+38030938	In Vitro and In Vivo Evaluation of Metformin Hydrochloride Hydrogels Developed with Experimental Design in the Treatment of Burns.	AAPS PharmSciTech	2023 Nov 29
+38029897	Multifunctional alginate/polydeoxyribonucleotide hydrogels for promoting diabetic wound healing.	Int J Biol Macromol	2024 Feb
+38026853	Cu(II)@MXene based photothermal hydrogel with antioxidative and antibacterial properties for the infected wounds.	Front Bioeng Biotechnol	2023
+38026535	ApoSEVs-Mediated Modulation of Versatile Target Cells Promotes Diabetic Wound Healing: Unveiling a Promising Strategy.	Int J Nanomedicine	2023
+38023693	Mesenchymal stem cells paracrine proteins from three-dimensional dynamic culture system promoted wound healing in third-degree burn models.	Bioeng Transl Med	2023 Nov
+38017428	Extracellular vesicle-derived silk fibroin nanoparticles loaded with MFGE8 accelerate skin ulcer healing by targeting the vascular endothelial cells.	J Nanobiotechnology	2023 Nov 29
+38015531	The application of nano-hydrogels and hydrogels in wound dressings.	Cell Mol Biol (Noisy-le-grand)	2023 Nov 15
+38011349	Polyelectrolyte Complex Hydrogels from Controlled Kneading and Annealing-Induced Tightly Wound and Highly Entangled Natural Polysaccharides.	Adv Healthc Mater	2024 Mar
+38009036	A novel hydrogel-based moisturizing cream composed of hyaluronic acid for patients with xerosis: An intraindividual comparative analysis.	Skin Res Technol	2023 Nov
+38007021	Exploring the potential of polysaccharide-based hybrid hydrogel systems for their biomedical and therapeutic applications: A review.	Int J Biol Macromol	2024 Jan
+38006784	Antifibrotic properties of hyaluronic acid crosslinked polyisocyanide hydrogels.	Biomater Adv	2024 Jan
+38005058	Applications of Silk Fibroin in Human and Veterinary Medicine.	Materials (Basel)	2023 Nov 11
+38000588	Facile strategy for gelatin-based hydrogel with multifunctionalities to remodel wound microenvironment and accelerate healing of acute and diabetic wounds.	Int J Biol Macromol	2024 Jan
+37992934	A hyaluronic acid / chitosan composite functionalized hydrogel based on enzyme-catalyzed and Schiff base reaction for promoting wound healing.	Int J Biol Macromol	2024 Jan
+37992675	Seconds Timescale Synthesis of Highly Stretchable Antibacterial Hydrogel for Skin Wound Closure and Epidermal Strain Sensor.	Adv Healthc Mater	2024 Mar
+37990627	Antibacterial, antioxidant and injectable hydrogels constructed using CuS and curcumin co-loaded micelles for NIR-enhanced infected wound healing.	J Mater Chem B	2023 Dec 6
+37985115	A highly stretchable, adhesive, and antibacterial hydrogel with chitosan and tobramycin as dynamic cross-linkers for treating the infected diabetic wound.	Carbohydr Polym	2024 Jan 15
+37981675	Ag nanocomposite hydrogels with immune and regenerative microenvironment regulation promote scarless healing of infected wounds.	J Nanobiotechnology	2023 Nov 19
+37979287	An injectable nanocomposite hydrogel prevents postoperative tumor recurrence and wound infection via synergistic photothermal-chemo-therapy.	J Colloid Interface Sci	2024 Feb
+37976446	Advances in Transdermal Delivery of Antimicrobial Peptides for Wound Management: Biomaterial-Based Approaches and Future Perspectives.	ACS Appl Bio Mater	2024 Aug 19
+37972551	An ECM-mimicking assembled gelatin/hyaluronic acid hydrogel with antibacterial and radical scavenging functions for accelerating open wound healing.	Biomed Mater	2023 Dec 7
+37971675	3D-printed wound dressing platform for protein administration based on alginate and zinc oxide tetrapods.	Nano Converg	2023 Nov 16
+37971104	Injectable Self-Expanding/Self-Propelling Hydrogel Adhesive with Procoagulant Activity and Rapid Gelation for Lethal Massive Hemorrhage Management.	Adv Mater	2024 Apr
+37964663	A multifunctional hydrogel dressing with high tensile and adhesive strength for infected skin wound healing in joint regions.	J Mater Chem B	2023 Nov 29
+37956814	Bilayer wound dressing composed of asymmetric polycaprolactone membrane and chitosan-carrageenan hydrogel incorporating storax balsam.	Int J Biol Macromol	2024 Jan
+37953287	Synergistic effect of chitosan-alginate composite hydrogel enriched with ascorbic acid and alpha-tocopherol under hypoxic conditions on the behavior of mesenchymal stem cells for wound healing.	Stem Cell Res Ther	2023 Nov 13
+37952801	Mild hyperthermia-assisted chitosan hydrogel with photothermal antibacterial property and CAT-like activity for infected wound healing.	Int J Biol Macromol	2024 Jan
+37952461	In situ generated hemostatic adhesives: From mechanisms of action to recent advances and applications.	Biomater Adv	2023 Dec
+37950711	Thirty Years of Tissue Engineering.	Tissue Eng Part A	2024 Jan
+37950669	MMP-Responsive Nanoparticle-Loaded, Injectable, Adhesive, Self-Healing Hydrogel Wound Dressing Based on Dynamic Covalent Bonds.	Biomacromolecules	2023 Dec 11
+37950552	Stimuli-Responsive 3D Printable Conductive Hydrogel: A Step toward Regulating Macrophage Polarization and Wound Healing.	Adv Healthc Mater	2024 Feb
+37948613	Sprayable Multifunctional Black Phosphorus Hydrogel with On-Demand Removability for Joint Skin Wound Healing.	Adv Healthc Mater	2024 Feb
+37948238	Antibacterial Efficacy of a Chitosan-Based Hydrogel Modified With Epsilon-Poly-l-Lysine Against Pseudomonas aeruginosa in a Murine-Infected Burn Wound Model.	Mil Med	2023 Nov 8
+37946589	Sprayable self-assembly multifunctional bioactive poly(ferulic acid) hydrogel for rapid MRSA infected wound repair.	J Biomed Mater Res A	2024 Mar
+37944721	Low-adhesion and low-swelling hydrogel based on alginate and carbonated water to prevent temporary dilation of wound sites.	Int J Biol Macromol	2024 Jan
+37942693	Chitosan-sodium percarbonate-based hydrogels with sustained oxygen release potential stimulated angiogenesis and accelerated wound healing.	J Biomed Mater Res B Appl Biomater	2024 Jan
+37940271	Supramolecular chitin-based hydrogels with self-adapting and fast-degradation properties for enhancing wound healing.	Carbohydr Polym	2024 Jan 1
+37938542	Multifunctionalised skin substitute of hybrid gelatin-polyvinyl alcohol bioinks for chronic wound: injectable vs. 3D bioprinting.	Drug Deliv Transl Res	2024 Apr
+37937608	A thermosensitive hydrogel formulation of phage and colistin combination for the management of multidrug-resistant Acinetobacter baumannii wound infections.	Biomater Sci	2023 Dec 19
+37937417	Injectable spontaneously formed asymmetric adhesive hydrogel with controllable removal for wound healing.	J Mater Chem B	2023 Nov 22
+37934769	Neuro-Inspired Biomimetic Microreactor for Sensory Recovery and Hair Follicle Neogenesis under Skin Burns.	ACS Nano	2023 Nov 28
+37933815	Cell Therapy and Investigation of the Angiogenesis of Fibroblasts with Collagen Hydrogel on the Healing of Diabetic Wounds.	Turk J Pharm Sci	2023 Nov 7
+37931928	Zirconium-Based Metal-Organic Framework Capable of Binding Proinflammatory Mediators in Hydrogel Form Promotes Wound Healing Process through a Multiscale Adsorption Mechanism.	Adv Healthc Mater	2024 Mar
+37928051	Sprayable ciprofloxacin-loaded poloxamer hydrogels for wound infection treatment.	J Drug Deliv Sci Technol	2023 Nov
+37926176	Injectable thermogel incorporating reactive oxygen species scavenger and nitric oxide donor to accelerate the healing process of diabetic wounds.	Int J Pharm	2023 Dec 15
+37924323	Photosynthetic and Self-Draining Biohybrid Dressing for Accelerating Healing of Diabetic Wound.	Adv Healthc Mater	2024 Jan
+37908563	In vitro comparison of human plasma-based and self-assembled tissue-engineered skin substitutes: two different manufacturing processes for the treatment of deep and difficult to heal injuries.	Burns Trauma	2023
+37908193	Potential mechanism of the AgNCs-hydrogel in promoting the regeneration of diabetic infectious wounds.	Analyst	2023 Nov 20
+37906182	Tunable Hydrogel Electronics for Diagnosis of Peripheral Neuropathy.	Adv Mater	2024 May
+37905500	Split-Thickness Skin and Dermal Pixel Grafts Can Be Expanded up to 500 Times to Re-Epithelialize a Full-Thickness Burn Wound.	Adv Wound Care (New Rochelle)	2024 Apr
+37904513	Simvastatin-Releasing Nanofibrous Peptide Hydrogels for Accelerated Healing of Diabetic Wounds.	ACS Appl Bio Mater	2023 Nov 20
+37904231	Mesenchymal stem cell-derived secretomes-enriched alginate/ extracellular matrix hydrogel patch accelerates skin wound healing.	Biomater Res	2023 Oct 31
+37903562	An Electroconductive and Antibacterial Adhesive Nanocomposite Hydrogel for High-Performance Skin Wound Healing.	Adv Healthc Mater	2024 Mar
+37902250	Development of an Antiswelling Hydrogel System Incorporating M2-Exosomes and Photothermal Effect for Diabetic Wound Healing.	ACS Nano	2023 Nov 14
+37901557	Development of Novel Multifunctional Electroactive, Self-Healing, and Tissue Adhesive Scaffold To Accelerate Cutaneous Wound Healing and Hemostatic Materials.	ACS Omega	2023 Oct 24
+37892878	Fabrication, Characterization, and In Vitro Cytotoxicity Assessment of Tri-Layered Multifunctional Scaffold for Effective Chronic Wound Healing.	Bioengineering (Basel)	2023 Sep 30
+37890748	Preparation and evaluation of oxidized-dextran based on antibacterial hydrogel for synergistic photodynamic therapy.	Int J Biol Macromol	2023 Dec 31
+37890086	Antibacterial-Antioxidative Thiolated Gelatin/Methacrylated Silk Fibroin Hydrogels with Nitric Oxide Release Catalyzed by Metal-Polyphenol Nanoparticles for MRSA-Infected Wound Healing.	Biomacromolecules	2023 Nov 13
+37889121	Double-Layer Hydrogel with Glucose-Activated Two-Stage ROS Regulating Properties for Programmed Diabetic Wound Healing.	ACS Appl Mater Interfaces	2023 Oct 27
+37888384	The Effects of Pectin-Honey Hydrogel in a Contaminated Chronic Hernia Model in Rats.	Gels	2023 Oct 11
+37888353	Employing of Curcumin-Silver Nanoparticle-Incorporated Sodium Alginate-Co-Acacia Gum Film Hydrogels for Wound Dressing.	Gels	2023 Sep 25
+37876343	Bioprinted dermis with human adipose tissue-derived microvascular fragments promotes wound healing.	Biotechnol Bioeng	2024 Apr
+37871725	Self-healing hydrogels based on biological macromolecules in wound healing: A review.	Int J Biol Macromol	2023 Dec 31
+37871154	Enhancing Robustness of Adhesive Hydrogels through PEG-NHS Incorporation.	ACS Appl Mater Interfaces	2023 Nov 1
+37870548	Dynamic Microenvironment-Adaptable Hydrogel with Photothermal Performance and ROS Scavenging for Management of Diabetic Ulcer.	ACS Appl Mater Interfaces	2023 Nov 1
+37869725	Copper ion/gallic acid MOFs-laden adhesive pomelo peel sponge effectively treats biofilm-infected skin wounds and improves healing quality.	Bioact Mater	2024 Feb
+37865132	Development and characterization of a poloxamer hydrogel composed of human mesenchymal stromal cells (hMSCs) for reepithelization of skin injuries.	Int J Pharm	2023 Nov 25
+37864581	Antibacterial Hydrogel as a Self-Drug-Delivery System Derived from Zn(II)-bis-imidazole/NSAID-Based Organic-Inorganic Hybrids.	ACS Appl Bio Mater	2023 Nov 20
+37864028	Formulation and evaluation of simvastatin cubosomal nanoparticles for assessing its wound healing effect.	Sci Rep	2023 Oct 20
+37862553	Injectable Antiswelling and High-Strength Bioactive Hydrogels with a Wet Adhesion and Rapid Gelling Process to Promote Sutureless Wound Closure and Scar-free Repair of Infectious Wounds.	ACS Nano	2023 Nov 14
+37856675	Andrias Davidianus Mucus-Based Bioadhesive with Enhanced Adhesion and Wound Healing Properties.	ACS Appl Mater Interfaces	2023 Nov 1
+37852098	LC-MS based metabolic profiling and wound healing activity of a chitosan nanoparticle-loaded formula of Teucrium polium in diabetic rats.	Biomed Pharmacother	2023 Dec
+37843040	Encapsulation of Sericin-Decorated Efficient Agents in Silk Hydrogels for Wound Dressings.	ACS Appl Mater Interfaces	2023 Oct 25
+37842887	Cellulose Acetate-Based Wound Dressings Loaded with Bioactive Agents: Potential Scaffolds for Wound Dressing and Skin Regeneration.	Curr Drug Deliv	2024
+37840848	Double-crosslinked PNIPAM-based hydrogel dressings with adjustable adhesion and contractility.	Regen Biomater	2023
+37839832	A multi-functional double cross-linked chitosan hydrogel with tunable mechanical and antibacterial properties for skin wound dressing.	Carbohydr Polym	2023 Dec 15
+37836631	A Photocurable Polysaccharide-Based Hydrogel Delivery of Polydeoxyribonucleotide-Loaded Vectors for Wound Treatment.	Molecules	2023 Sep 24
+37835967	Biological Macromolecule Hydrogel Based on Recombinant Type I Collagen/Chitosan Scaffold to Accelerate Full-Thickness Healing of Skin Wounds.	Polymers (Basel)	2023 Sep 28
+37831962	Signaling Pathways Triggering Therapeutic Hydrogels in Promoting Chronic Wound Healing.	Macromol Biosci	2024 Mar
+37828852	The Therapeutic Efficacy of Freeze-Dried Human Amniotic Membrane Allograft Gel for Diabetic Foot Ulcers: A Phase-1 Clinical Trial.	Int J Low Extrem Wounds	2023 Oct 13
+37827713	Stimuli-Responsive Hydrogel Adhesives for Wound Closure and Tissue Regeneration.	Macromol Biosci	2024 Mar
+37827409	Engineering pH responsive carboxyethyl chitosan and oxidized pectin -based hydrogels with self-healing, biodegradable and antibacterial properties for wound healing.	Int J Biol Macromol	2023 Dec 31
+37827405	Fabrication of flexible accelerated-wound-healing chitosan/dopamine-based bilayer hydrogels for strain sensors.	Int J Biol Macromol	2023 Dec 31
+37826964	Layer-by-layer microneedle patch with antibacterial and antioxidant dual activities for accelerating bacterial-infected wound healing.	Colloids Surf B Biointerfaces	2023 Nov
+37817573	Conductive and antibacterial dual-network hydrogel for soft bioelectronics.	Mater Horiz	2023 Nov 27
+37813221	Superporous soy protein isolate matrices as superabsorbent dressings for successful management of highly exuding wounds: In vitro and in vivo characterization.	Int J Biol Macromol	2023 Dec 31
+37813210	Composites based on alginate containing formylphosphazene-crosslinked chitosan and its Cu(II) complex as an antibiotic-free antibacterial hydrogel dressing with enhanced cytocompatibility.	Int J Biol Macromol	2023 Dec 31
+37810750	Photopolymerized keratin-PGLa hydrogels for antibiotic resistance reversal and enhancement of infectious wound healing.	Mater Today Bio	2023 Dec
+37807417	Current Trends on Innovative Technologies in Topical Wound Care for Advanced Healing and Management.	Curr Drug Res Rev	2024
+37805744	[Research advances on the role and mechanism of chitosan-based wound dressing in wound healing].	Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi	2023 Apr 20
+37804684	Fiber-reinforced gelatin/β-cyclodextrin hydrogels loaded with platelet-rich plasma-derived exosomes for diabetic wound healing.	Biomater Adv	2023 Nov
+37803944	An Immunomodulatory Hydrogel by Hyperthermia-Assisted Self-Cascade Glucose Depletion and ROS Scavenging for Diabetic Foot Ulcer Wound Therapeutics.	Adv Mater	2023 Nov
+37802452	An injectable and light curable hyaluronic acid composite gel with anti-biofilm, anti-inflammatory and pro-healing characteristics for accelerating infected wound healing.	Int J Biol Macromol	2023 Dec 31
+37801393	Bioinspired Adhesive Antibacterial Hydrogel with Self-Healing and On-Demand Removability for Enhanced Full-Thickness Skin Wound Repair.	Biomacromolecules	2023 Nov 13
+37799395	An injectable bioactive dressing based on platelet-rich plasma and nanoclay: Sustained release of deferoxamine to accelerate chronic wound healing.	Acta Pharm Sin B	2023 Oct
+37793511	A temperature and pH dual-responsive injectable self-healing hydrogel prepared by chitosan oligosaccharide and aldehyde hyaluronic acid for promoting diabetic foot ulcer healing.	Int J Biol Macromol	2023 Dec 31
+37790967	Design and fabrication of gelatin-based hydrogel loaded with modified amniotic extracellular matrix for enhanced wound healing.	Heliyon	2023 Oct
+37783245	A self-healing hydrogel wound dressing based on oxidized Bletilla striata polysaccharide and cationic gelatin for skin trauma treatment.	Int J Biol Macromol	2023 Dec 31
+37782070	Near-Infrared-Induced NO-Releasing Photothermal Adhesive Hydrogel with Enhanced Antibacterial Properties.	ACS Appl Bio Mater	2023 Oct 16
+37765254	Recent Advances in Electrospun Nanofiber-Based Strategies for Diabetic Wound Healing Application.	Pharmaceutics	2023 Sep 5
+37765209	Influence of ZnO Nanoparticles on the Properties of Ibuprofen-Loaded Alginate-Based Biocomposite Hydrogels with Potential Antimicrobial and Anti-Inflammatory Effects.	Pharmaceutics	2023 Aug 30
+37762247	Methacrylated Gelatin as a Scaffold for Mechanically Isolated Stromal Vascular Fraction for Cutaneous Wound Repair.	Int J Mol Sci	2023 Sep 11
+37754873	Fibrinogen-Based Bioink for Application in Skin Equivalent 3D Bioprinting.	J Funct Biomater	2023 Sep 5
+37754429	Design and Evaluation of Liposomal Sulforaphane-Loaded Polyvinyl Alcohol/Polyethylene Glycol (PVA/PEG) Hydrogels as a Novel Drug Delivery System for Wound Healing.	Gels	2023 Sep 14
+37754425	Tissue Regeneration with Gelatine/Polysaccharide Derived Hydrogel Scaffolds: From Formulation to In Vivo Efficacy.	Gels	2023 Sep 13
+37754412	In Situ Forming Bioartificial Hydrogels with ROS Scavenging Capability Induced by Gallic Acid Release with Potential in Chronic Skin Wound Treatment.	Gels	2023 Sep 9
+37751750	Bioinspired 3D-printed scaffold embedding DDAB-nano ZnO/nanofibrous microspheres for regenerative diabetic wound healing.	Biofabrication	2023 Oct 10
+37748707	Accelerating Full-Thickness Wound Healing with Bacterial Cellulose-Based Multilayer Composites.	J Pharm Sci	2024 Mar
+37748589	Fabrication and characterization of an antibacterial chitosan-coated allantoin-loaded NaCMC/SA skin scaffold for wound healing applications.	Int J Biol Macromol	2023 Dec 31
+37748138	One-Pot Preparation of Skin-Inspired Multifunctional Hybrid Hydrogel with Robust Wound Healing Capacity.	ACS Biomater Sci Eng	2023 Oct 9
+37742896	A multifunctional and self-adaptive double-layer hydrogel dressing based on chitosan for deep wound repair.	Int J Biol Macromol	2023 Dec 31
+37740829	Hypoxic Microenvironment Reconstruction with Synergistic Biofunctional Ions Promotes Diabetic Wound Healing.	Adv Healthc Mater	2023 Dec
+37739520	Mechanical properties and wound healing potential of bacterial cellulose-xyloglucan-dextran hydrogels.	Carbohydr Polym	2023 Dec 1
+37739486	Alginate/gum arabic-based biomimetic hydrogel enriched with immobilized nerve growth factor and carnosine improves diabetic wound regeneration.	Carbohydr Polym	2023 Dec 1
+37734002	Development of Thiol-Ene Reaction-Based HA Hydrogel with Sustained Release of EGF for Enhanced Skin Wound Healing.	Biomacromolecules	2023 Nov 13
+37733382	Robust but On-Demand Detachable Wet Tissue Adhesive Hydrogel Enhanced with Modified Tannic Acid.	ACS Appl Mater Interfaces	2023 Oct 4
+37733024	Co-assembled Supramolecular Hydrogel of Salvianolic Acid B and a Phosphopeptide for Enhanced Wound Healing.	ACS Appl Mater Interfaces	2023 Oct 4
+37729986	PMN-incorporated multifunctional chitosan hydrogel for postoperative synergistic photothermal melanoma therapy and skin regeneration.	Int J Biol Macromol	2023 Dec 31
+37723937	Multifunctional PtCuTe Nanosheets with Strong ROS Scavenging and ROS-Independent Antibacterial Properties Promote Diabetic Wound Healing.	Adv Mater	2024 Feb
+37721722	Exploring the Role of Spatial Confinement in Immune Cell Recruitment and Regeneration of Skin Wounds.	Adv Mater	2023 Dec
+37720596	Composite Hydrogel Dressings with Enhanced Mechanical Properties and Anti-Inflammatory Ability for Effectively Promoting Wound Repair.	Int J Nanomedicine	2023
+37717877	A novel multifunctional chitosan-gelatin/carboxymethyl cellulose-alginate bilayer hydrogel containing human placenta extract for accelerating full-thickness wound healing.	Int J Biol Macromol	2023 Dec 31
+37716390	Multifunctional and theranostic hydrogels for wound healing acceleration: An emphasis on diabetic-related chronic wounds.	Environ Res	2023 Dec 1
+37715569	Characterization and biological evaluation of a novel flavonoid-collagen antioxidant hydrogel with cytoprotective properties.	J Biomed Mater Res B Appl Biomater	2024 Jan
+37715259	Thermosensitive black phosphorus hydrogel loaded with silver sulfadiazine promotes skin wound healing.	J Nanobiotechnology	2023 Sep 15
+37712174	Adipose-Derived Mesenchymal Stem Cell-Derived Exosomes Biopotentiated Extracellular Matrix Hydrogels Accelerate Diabetic Wound Healing and Skin Regeneration.	Adv Sci (Weinh)	2023 Oct
+37709235	Synergistic amalgamation of shellac with self-antibacterial hydroxyapatite and carboxymethyl cellulose: An interactive wound dressing for ensuring safety and efficacy in preliminary in vivo studies.	Int J Biol Macromol	2023 Dec 31
+37705764	A Cu@ZIF-8 encapsulated antibacterial and angiogenic microneedle array for promoting wound healing.	Nanoscale Adv	2023 Sep 12
+37699465	Body temperature-induced adhesive hyaluronate/gelatin-based hybrid hydrogel dressing for promoting skin regeneration.	Int J Biol Macromol	2023 Dec 31
+37695676	Development of a Stretchable and Water-Resistant Hydrogel with Antibacterial and Antioxidant Dual Functions for Wound Healing in Movable Parts.	ACS Appl Mater Interfaces	2023 Sep 20
+37693044	"Erratum to ""Cell loaded hydrogel containing Ag-doped bioactive glass-ceramic nanoparticles as skin substitute: Antibacterial properties, immune response, and scarless cutaneous wound regeneration""."	Bioeng Transl Med	2023 Sep
+37692912	Combination of biodegradable hydrogel and antioxidant bioadhesive for treatment of breast cancer recurrence and radiation skin injury.	Bioact Mater	2024 Jan
+37692226	Characterization and Evaluation of Silk Sericin-Based Hydrogel: A Promising Biomaterial for Efficient Healing of Acute Wounds.	ACS Omega	2023 Sep 5
+37688988	Temperature-sensitive hydrogel dressing loaded with nicotinamide mononucleotide accelerating wound healing in diabetic mice.	Biomed Pharmacother	2023 Nov
+37688679	The physiological phenomenon and regulation of macrophage polarization in diabetic wound.	Mol Biol Rep	2023 Nov
+37688265	Hydrogel Formulations for Topical Insulin Application: Preparation, Characterization and In Vitro Permeation across the Strat-M(®) Membrane.	Polymers (Basel)	2023 Sep 4
+37686133	Comparative Study of the Efficacy of EHO-85, a Hydrogel Containing Olive Tree (Olea europaea) Leaf Extract, in Skin Wound Healing.	Int J Mol Sci	2023 Aug 28
+37685860	Double Network Physical Crosslinked Hydrogel for Healing Skin Wounds: New Formulation Based on Polysaccharides and Zn(2).	Int J Mol Sci	2023 Aug 22
+37683733	An additive-free multifunctional β-glucan-peptide hydrogel participates in the whole process of bacterial-infected wound healing.	J Control Release	2023 Oct
+37683592	Application of 3D- printed hydrogels in wound healing and regenerative medicine.	Biomed Pharmacother	2023 Nov
+37681479	An Injectable Composite Hydrogel of Verteporfin-Bonded Carboxymethyl Chitosan and Oxidized Sodium Alginate Facilitates Scarless Full-Thickness Skin Regeneration.	Macromol Biosci	2024 Feb
+37681325	Mechano-Activated Cell Therapy for Accelerated Diabetic Wound Healing.	Adv Mater	2023 Nov
+37677087	Preparation of a Dual-Functional Sulfated Galactofucan Polysaccharide/Poly(vinyl alcohol) Hydrogel to Promote Macrophage Recruitment and Angiogenic Potential in Diabetic Wound Healing.	Biomacromolecules	2023 Nov 13
+37673145	Preparation and characterization of wound healing hydrogel based on fish skin collagen and chitosan cross-linked by dialdehyde starch.	Int J Biol Macromol	2023 Dec 31
+37666183	Investigation on repairing diabetic foot ulcer based on 3D bio-printing Gel/dECM/Qcs composite scaffolds.	Tissue Cell	2023 Dec
+37663591	Neem (Azadirachta Indica) and silk fibroin associated hydrogel: Boon for wound healing treatment regimen.	Saudi Pharm J	2023 Oct
+37660257	Antioxidant-Engineered Milk-Derived Extracellular Vesicles for Accelerating Wound Healing via Regulation of the PI3K-AKT Signaling Pathway.	Adv Healthc Mater	2023 Dec
+37659820	Adhesive injectable cellulose-based hydrogels with rapid self-healing and sustained drug release capability for promoting wound healing.	Carbohydr Polym	2023 Nov 15
+37659303	All natural mussel-inspired bioadhesives from soy proteins and plant derived polyphenols with marked water-resistance and favourable antibacterial profile for wound treatment applications.	J Colloid Interface Sci	2023 Dec 15
+37657957	Incidence of radiodermatitis and factors associated with its severity in women with breast cancer: a cohort study.	An Bras Dermatol	2024 Jan-Feb
+37657662	Engineered dermis loaded with confining forces promotes full-thickness wound healing by enhancing vascularisation and epithelialisation.	Acta Biomater	2023 Oct 15
+37657086	Versatile Hydrogel Dressings That Dynamically Regulate the Healing of Infected Deep Burn Wounds.	Adv Healthc Mater	2023 Dec
+37651758	Molecularly engineered dual-network photothermal hydrogel delivery system with enhanced mechanical properties, antibacterial ability and angiogenic effect for accelerating wound healing.	J Mech Behav Biomed Mater	2023 Oct
+37647580	Highly Stretchable, Transparent, and Adhesive Double-Network Hydrogel Dressings Tailored with Fish Gelatin and Glycyrrhizic Acid for Wound Healing.	ACS Appl Mater Interfaces	2023 Sep 13
+37639051	Enhanced therapeutic effects of mesenchymal stem cell-derived extracellular vesicles within chitosan hydrogel in the treatment of diabetic foot ulcers.	J Mater Sci Mater Med	2023 Aug 28
+37636986	Hydrogel degradation promotes angiogenic and regenerative potential of cell spheroids for wound healing.	Mater Today Bio	2023 Oct
+37623667	Composite Hydrogels of Ultrasound-Assisted-Digested Formic Acid-Decellularized Extracellular Matrix and Sacchachitin Nanofibers Incorporated with Platelet-Rich Plasma for Diabetic Wound Treatment.	J Funct Biomater	2023 Aug 11
+37623111	Polydopamine-Functionalized Bacterial Cellulose as Hydrogel Scaffolds for Skin Tissue Engineering.	Gels	2023 Aug 14
+37623109	Composite Hydrogels with Embedded Silver Nanoparticles and Ibuprofen as Wound Dressing.	Gels	2023 Aug 14
+37623080	Immobilization of Bacteriophages in Ex Tempore Hydrogel for the Treatment of Burn Wound Infection.	Gels	2023 Aug 3
+37612710	Human Parathyroid Hormone Analog (3-34/29-34) promotes wound re-epithelialization through inducing keratinocyte migration and epithelial-mesenchymal transition via PTHR1-PI3K/AKT activation.	Cell Commun Signal	2023 Aug 23
+37601988	Prophylactic Use of Mepitel® Film to Prevent Radiation-Induced Moist Desquamation in Cancer Patients.	Cureus	2023 Jul
+37601810	Promoting angiogenesis and diabetic wound healing through delivery of protein transduction domain-BMP2 formulated nanoparticles with hydrogel.	J Tissue Eng	2023 Jan-Dec
+37600316	Functional drug-delivery hydrogels for oral and maxillofacial wound healing.	Front Bioeng Biotechnol	2023
+37596956	Collagen-Hyaluronic Acid Composite Hydrogels with Applications for Chronic Diabetic Wound Repair.	ACS Biomater Sci Eng	2023 Sep 11
+37590124	Antibacterial Broad-Spectrum Dendritic/Gellan Gum Hybrid Hydrogels with Rapid Shape-Forming and Self-Healing for Wound Healing Application.	Macromol Biosci	2023 Dec
+37585520	Injectable, self-healing hydrogel adhesives with firm tissue adhesion and on-demand biodegradation for sutureless wound closure.	Sci Adv	2023 Aug 18
+37584354	Polymeric Gel Scaffolds and Biomimetic Environments for Wound Healing.	Curr Pharm Des	2023
+37584338	Hydrogel dressings for donor sites of split-thickness skin grafts.	Cochrane Database Syst Rev	2023 Aug 16
+37579244	Photocuring and Gelatin-Based Antibacterial Hydrogel for Skin Care.	Biomacromolecules	2023 Sep 11
+37567532	Effects including photobiomodulation of galactomannan gel from Cassia grandis seeds in the healing process of second-degree burns.	Int J Biol Macromol	2023 Nov 1
+37566735	Dual-Cross-Linked Chitosan-Based Antibacterial Hydrogels with Tough and Adhesive Properties for Wound Dressing.	Macromol Rapid Commun	2023 Dec
+37565814	Black Phosphorus-Based Conductive Hydrogels Assisted by Electrical Stimulus for Skin Tissue Engineering.	Adv Healthc Mater	2023 Nov
+37560332	Rational multivalency construction enables bactericidal effect amplification and dynamic biomaterial design.	Innovation (Camb)	2023 Sep 11
+37558025	Oxygen releasing patches based on carbohydrate polymer and protein hydrogels for diabetic wound healing: A review.	Int J Biol Macromol	2023 Oct 1
+37556881	Bioinspired poly(aspartic acid) based hydrogel with ROS scavenging ability as mEGF carrier for wound repairing applications.	Colloids Surf B Biointerfaces	2023 Oct
+37554541	Antibacterial conductive self-healing hydrogel wound dressing with dual dynamic bonds promotes infected wound healing.	Bioact Mater	2023 Dec
+37544909	Tailoring the Swelling-Shrinkable Behavior of Hydrogels for Biomedical Applications.	Adv Sci (Weinh)	2023 Oct
+37541461	A Janus supramolecular hydrogel prepared by one-pot method for wound dressing.	Int J Biol Macromol	2023 Sep 30
+37540939	Tissue engineered skin substitutes: A comprehensive review of basic design, fabrication using 3D printing, recent advances and challenges.	Biomater Adv	2023 Oct
+37535406	Copper-Epigallocatechin Gallate Enhances Therapeutic Effects of 3D-Printed Dermal Scaffolds in Mitigating Diabetic Wound Scarring.	ACS Appl Mater Interfaces	2023 Aug 16
+37534456	Effective Scald Wound Functional Recovery Patch Achieved by Molecularly Intertwined Electrical and Chemical Message in Self-Adhesive Assemblies.	ACS Appl Mater Interfaces	2023 Aug 16
+37533477	Macrophage metabolism reprogramming EGCG-Cu coordination capsules delivered in polyzwitterionic hydrogel for burn wound healing and regeneration.	Bioact Mater	2023 Nov
+37533401	Tough and On-Demand Detachable Wet Tissue Adhesive Hydrogel Made from Catechol Derivatives with a Long Aliphatic Side Chain.	Adv Healthc Mater	2023 Nov
+37531784	Annexin A1(2-26) hydrogel improves healing properties in an experimental skin lesion after induction of type 1 diabetes.	Biomed Pharmacother	2023 Sep
+37531776	Injectable antibacterial tissue-adhesive hydrogel based on biocompatible o-phthalaldehyde/amine crosslinking for efficient treatment of infected wounds.	Biomaterials	2023 Oct
+37531599	A 0D-2D Heterojunction Bismuth Molybdate-Anchored Multifunctional Hydrogel for Highly Efficient Eradication of Drug-Resistant Bacteria.	ACS Nano	2023 Aug 22
+37524279	A comprehensive review of recent advances in silk sericin: Extraction approaches, structure, biochemical characterization, and biomedical applications.	Int J Biol Macromol	2023 Oct 1
+37521524	Oriented artificial niche provides physical-biochemical stimulations for rapid nerve regeneration.	Mater Today Bio	2023 Oct
+37520303	Angiogenesis, hemocompatibility and bactericidal effect of bioactive natural polymer-based bilayer adhesive skin substitute for infected burned wound healing.	Bioact Mater	2023 Nov
+37519924	One-step fabrication of cell sheet-laden hydrogel for accelerated wound healing.	Bioact Mater	2023 Oct
+37519882	A novel hydrogel containing 4-methylcatechol for skin regeneration: in vitro and in vivo study.	Biomed Eng Lett	2023 Aug
+37519642	Fumaria officinalis-loaded chitosan nanoparticles dispersed in an alginate hydrogel promote diabetic wounds healing by upregulating VEGF, TGF-β, and b-FGF genes: A preclinical investigation.	Heliyon	2023 Jul
+37517778	Polysaccharide hydrogel platforms as suitable carriers of liposomes and extracellular vesicles for dermal applications.	Adv Drug Deliv Rev	2023 Sep
+37517765	A phellinus igniarius polysaccharide/chitosan-arginine hydrogel for promoting diabetic wound healing.	Int J Biol Macromol	2023 Sep 30
+37517755	Injectable hydrogel based on silk fibroin/carboxymethyl cellulose/agarose containing polydopamine functionalized graphene oxide with conductivity, hemostasis, antibacterial, and anti-oxidant properties for full-thickness burn healing.	Int J Biol Macromol	2023 Sep 30
+37516415	Constructing epidermal rete ridges using a composite hydrogel to enhance multiple signaling pathways for the maintenance of epidermal stem cell niche.	Acta Biomater	2023 Oct 1
+37514157	Pluronic F-127 Hydrogels Containing Copper Oxide Nanoparticles and a Nitric Oxide Donor to Treat Skin Cancer.	Pharmaceutics	2023 Jul 18
+37512989	Hydrogel-Containing Biogenic Silver Nanoparticles: Antibacterial Action, Evaluation of Wound Healing, and Bioaccumulation in Wistar Rats.	Microorganisms	2023 Jul 15
+37511457	The Synergistic Effect of Electrical Stimulation and Dermal Fibroblast Cells-Laden 3D Conductive Hydrogel for Full-Thickness Wound Healing.	Int J Mol Sci	2023 Jul 20
+37511198	Flexible Curcumin-Loaded Zn-MOF Hydrogel for Long-Term Drug Release and Antibacterial Activities.	Int J Mol Sci	2023 Jul 14
+37508200	Rapid Prototyping of 3D-Printed AgNPs- and Nano-TiO(2)-Embedded Hydrogels as Novel Devices with Multiresponsive Antimicrobial Capability in Wound Healing.	Antibiotics (Basel)	2023 Jun 25
+37504446	Flexible Topical Hydrogel Patch Loaded with Antimicrobial Drug for Accelerated Wound Healing.	Gels	2023 Jul 12
+37504430	Amikacin-Loaded Chitosan Hydrogel Film Cross-Linked with Folic Acid for Wound Healing Application.	Gels	2023 Jul 6
+37504405	Hyaluronic Acid-Alginate Homogeneous Structures with Polylactide Coating Applied in Controlled Antibiotic Release.	Gels	2023 Jun 28
+37499726	Exploring the recent developments of alginate silk fibroin material for hydrogel wound dressing: A review.	Int J Biol Macromol	2023 Sep 1
+37494997	Polysaccharide-based hydrogel promotes skin wound repair and research progress on its repair mechanism.	Int J Biol Macromol	2023 Sep 1
+37493659	Plant-Based, Hydrogel-like Microfibers as an Antioxidant Platform for Skin Burn Healing.	ACS Appl Bio Mater	2023 Aug 21
+37488143	Thermosensitive hydrogel coupled with sodium ascorbyl phosphate promotes human umbilical cord-derived mesenchymal stem cell-mediated skin wound healing in mice.	Sci Rep	2023 Jul 24
+37483381	Biomimetic hydrogel derived from decellularized dermal matrix facilitates skin wounds healing.	Mater Today Bio	2023 Aug
+37482933	Engineering a platelet-rich plasma-based multifunctional injectable hydrogel with photothermal, antibacterial, and antioxidant properties for skin regeneration.	Biomater Sci	2023 Aug 22
+37477618	An alginate-Based tube gel delivering 2-deoxy-D-ribose for stimulation of wound healing.	J Biomater Appl	2023 Aug
+37465579	Wound healing strategies based on nanoparticles incorporated in hydrogel wound patches.	RSC Adv	2023 Jul 12
+37463619	Hyaluronic acid/alginate-based biomimetic hydrogel membranes for accelerated diabetic wound repair.	Int J Pharm	2023 Aug 25
+37457928	Silk fibroin-gelatin photo-crosslinked 3D-bioprinted hydrogel with MOF-methylene blue nanoparticles for infected wound healing.	Int J Bioprint	2023
+37451225	Preparation of quaternized N-halamine modified graphene oxide based antibacterial hydrogel and wound healing of bacterial infection.	Colloids Surf B Biointerfaces	2023 Sep
+37450215	Wound Dressing Scaffold with High Anti-biofilm Performance Based on Ciprofloxacin-Loaded Chitosan-Hydrolyzed Starch Nanocomposite: In Vitro and In Vivo Study.	Appl Biochem Biotechnol	2023 Oct
+37449341	Platelet-Rich Plasma Composite Organohydrogel with Water-Locking and Anti-Freezing to Accelerate Wound Healing.	Adv Healthc Mater	2023 Nov
+37447477	Wound Gel with Antimicrobial Effects Based on Polyvinyl Alcohol and Functional Aryloxycyclotriphosphazene.	Polymers (Basel)	2023 Jun 27
+37446725	Polymer-Based Wound Dressings Loaded with Ginsenoside Rg3.	Molecules	2023 Jun 28
+37446215	Electrospun Nanofibrous Mesh Based on PVA, Chitosan, and Usnic Acid for Applications in Wound Healing.	Int J Mol Sci	2023 Jul 3
+37442505	Cascade enzymatic preparation of carboxymethyl chitosan-based multifunctional hydrogels for promoting cutaneous wound healing.	Int J Biol Macromol	2023 Sep 1
+37441958	Combining microfluidics and coaxial 3D-bioprinting for the manufacturing of diabetic wound healing dressings.	Biomater Adv	2023 Oct
+37431576	Glycopolymer-based multifunctional antibacterial hydrogel dressings for accelerating cutaneous wound healing.	J Mater Chem B	2023 Aug 2
+37431285	3D printable, injectable amyloid-based composite hydrogel of bovine serum albumin and aloe vera for rapid diabetic wound healing.	J Mater Chem B	2023 Aug 30
+37431206	Hydrophobic Tetracycline Immobilized in Fibrous Hyaluronan Regulates Adhesive Collagen-Based Hydrogel Stability for Infected Wound Healing.	Small	2023 Nov
+37429607	Human umbilical cord mesenchymal stem cell-derived exosomes combined with gelatin methacryloyl hydrogel to promote fractional laser injury wound healing.	Int Wound J	2023 Dec
+37429345	Highly absorbent bio-sponge based on carboxymethyl chitosan/poly-γ-glutamic acid/platelet-rich plasma for hemostasis and wound healing.	Int J Biol Macromol	2023 Aug 30
+37423445	Fetal milieu-simulating hyaluronic acid-dopamine-chondroitin sulfate hydrogel promoting angiogenesis and hair regeneration for wound healing.	Int J Biol Macromol	2023 Sep 1
+37423009	Preparation and characterization of tannin-maltodextrin-polyvinyl alcohol hydrogel based on hydrogen bonding for wound healing.	J Mech Behav Biomed Mater	2023 Sep
+37422462	Thermosensitive and antioxidant wound dressings capable of adaptively regulating TGFβ pathways promote diabetic wound healing.	NPJ Regen Med	2023 Jul 8
+37410591	Development of chitosan-hyaluronic acid based hydrogel for local delivery of doxycycline hyclate in an ex vivo skin infection model.	J Biomater Sci Polym Ed	2023 Dec
+37409166	Preparation of photothermal responsive, antibacterial hydrogel by using PVA-Alg and silver nanofibers as building blocks.	Front Bioeng Biotechnol	2023
+37403540	Self-crosslinked polyvinyl alcohol/cellulose nanofibril cryogels loaded with synthesized aminophosphonates as antimicrobial wound dressings.	J Mater Chem B	2023 Aug 2
+37399880	A polyphenol and ε-polylysine functionalized bacterial cellulose/PVA multifunctional hydrogel for wound healing.	Int J Biol Macromol	2023 Aug 30
+37399875	Fabrication of dual physically cross-linked polyvinyl alcohol/agar hydrogels with mechanical stability and antibacterial activity for wound healing.	Int J Biol Macromol	2023 Aug 30
+37399243	"A ""Test-to-Treat"" Pad for Real-Time Visual Monitoring of Bacterial Infection and On-Site Performing Smart Therapy Strategies."	ACS Nano	2023 Jul 25
+37394732	Single-Component Self-Healing Antibacterial Anti-Inflammatory Intracellular-Antioxidative Poly(itaconic acid-pluronic) Hydrogel for Rapid Repair of MRSA-Impaired Wound.	ACS Appl Mater Interfaces	2023 Jul 19
+37394156	Nanocurcumin and viable Lactobacillus plantarum based sponge dressing for skin wound healing.	Int J Pharm	2023 Aug 25
+37392909	Chitosan-based double network hydrogel loading herbal small molecule for accelerating wound healing.	Int J Biol Macromol	2023 Aug 15
+37387572	Autophagosomes Defeat Ferroptosis by Decreasing Generation and Increasing Discharge of Free Fe(2+) in Skin Repair Cells to Accelerate Diabetic Wound Healing.	Adv Sci (Weinh)	2023 Sep
+37385317	Tendon-inspired hybrid hydrogel based on polyvinyl alcohol and gallic acid-lysozyme for promoting wound closure and healing.	Int J Biol Macromol	2023 Aug 30
+37385313	Photo-crosslinked enhanced double-network hydrogels based on modified gelatin and oxidized sodium alginate for diabetic wound healing.	Int J Biol Macromol	2023 Aug 1
+37379247	"A Gelatin-Based Composite Hydrogel with a ""One Stone, Two Birds"" Strategy for Photothermal Antibacterial and Vascularization of Infected Wounds."	Biomacromolecules	2023 Jul 10
+37379222	Effective Strategies for Developing Potent, Broad-Spectrum Antibacterial and Wound Healing Promotion from Short-Chain Antimicrobial Peptides.	ACS Appl Mater Interfaces	2023 Jul 12
+37377169	Agar/gelatin hydro-film containing EGF and Aloe vera for effective wound healing.	J Mater Chem B	2023 Jul 26
+37376103	Polymers and Bioactive Compounds with a Macrophage Modulation Effect for the Rational Design of Hydrogels for Skin Regeneration.	Pharmaceutics	2023 Jun 5
+37373441	Do Curdlan Hydrogels Improved with Bioactive Compounds from Hop Exhibit Beneficial Properties for Skin Wound Healing?	Int J Mol Sci	2023 Jun 18
+37371720	The Use of Hydrogel Dressings in Sulfur Mustard-Induced Skin and Ocular Wound Management.	Biomedicines	2023 Jun 2
+37367133	Innovative Wound Healing Hydrogel Containing Chicken Feather Keratin and Soy Isoflavone Genistein: In Vivo Studies.	Gels	2023 Jun 5
+37367122	Recent Advances in Stimuli-Responsive Hydrogel-Based Wound Dressing.	Gels	2023 May 30
+37361387	Preparation of Ultra-Small Copper Nanoparticles-Loaded Self-Healing Hydrogels with Antibacterial, Inflammation-Suppressing and Angiogenesis-Enhancing Properties for Promoting Diabetic Wound Healing.	Int J Nanomedicine	2023
+37356291	A new perspective on quantitative assessment of photodynamic therapy mediated hydrogel nanocomposite in wound healing using objective biospeckle and morphological local-gradient.	Comput Biol Med	2023 Sep
+37354928	Developing hyaluronic acid-proline-ferric ion cross-linked film for efficient wound healing application.	Int J Pharm	2023 Jul 25
+37354008	Spray coverage analysis of topical sprays formed by cold thermoreversible hydrogels.	Drug Dev Ind Pharm	2023 Jul
+37340945	A cooling-driven self-adaptive and removable hydrogel coupled with combined chemo-photothermal sterilization for promoting infected wound healing.	Nanoscale	2023 Jul 6
+37337579	Application of stem cells in regeneration medicine.	MedComm (2020)	2023 Aug
+37335228	First-Aid Hydrogel Wound Dressing with Reliable Hemostatic and Antibacterial Capability for Traumatic Injuries.	Adv Healthc Mater	2023 Oct
+37334269	Antibacterial, injectable, and adhesive hydrogel promotes skin healing.	Front Bioeng Biotechnol	2023
+37332461	Delivery of Porphyrins Through Self-Assembling Peptide Hydrogels for Accelerated Healing of Experimental Skin Defects In Vivo.	Cureus	2023 May
+37327393	Two-Pronged Microbe Delivery of Nitric Oxide and Oxygen for Diabetic Wound Healing.	Nano Lett	2023 Jun 28
+37327023	Panthenol Citrate Biomaterials Accelerate Wound Healing and Restore Tissue Integrity.	Adv Healthc Mater	2023 Dec
+37321753	Chitosan-based mussel-inspired hydrogel for rapid self-healing and high adhesion of tissue adhesion and wound dressings.	Carbohydr Polym	2023 Sep 15
+37321732	Polysaccharide based transdermal patches for chronic wound healing: Recent advances and clinical perspective.	Carbohydr Polym	2023 Sep 15
+37314212	Successful reconstruction of full-thickness skin defects in a swine model using simultaneous split-thickness skin grafting and composite collagen microstructured dermal scaffolds.	Wound Repair Regen	2023 Sep-Oct
+37308100	A Novel Topical Formulation of the Leishmaniasis Drug Glucantime as a Nanostructured Lipid Carrier-Based Hydrogel.	Am J Trop Med Hyg	2023 Aug 2
+37300860	Clinical investigation of use of an antimicrobial peptide hydrogel wound dressing on intact skin.	J Wound Care	2023 Jun 2
+37298865	Antibacterial and Cytocompatible pH-Responsive Peptide Hydrogel.	Molecules	2023 May 27
+37291625	Advances in the application of Mxene nanoparticles in wound healing.	J Biol Eng	2023 Jun 8
+37284440	In situ formed scaffold with royal jelly-derived extracellular vesicles for wound healing.	Theranostics	2023
+37278622	Flexible Bioactive Glass Nanofiber-Based Self-Expanding Cryogels with Superelasticity and Bioadhesion Enabling Hemostasis and Wound Healing.	ACS Nano	2023 Jun 27
+37277053	A glucose-responsive nitric oxide release hydrogel for infected diabetic wounds treatment.	J Control Release	2023 Jul
+37274005	Performance of hybrid gelatin-PVA bioinks integrated with genipin through extrusion-based 3D bioprinting: An in vitro evaluation using human dermal fibroblasts.	Int J Bioprint	2023
+37273796	3D-printed placental-derived bioinks for skin tissue regeneration with improved angiogenesis and wound healing properties.	Mater Today Bio	2023 Jun
+37271512	Sustained release of alginate hydrogel containing antimicrobial peptide Chol-37(F34-R) in vitro and its effect on wound healing in murine model of Pseudomonas aeruginosa infection.	J Vet Sci	2023 May
+37269017	A hydrogel-based first-aid tissue adhesive with effective hemostasis and anti-bacteria for trauma emergency management.	Biomater Res	2023 Jun 2
+37266728	Statistical study of clinical trials with stem cells and their function in skin wound.	Cell Tissue Res	2023 Aug
+37265096	Effect of a New Hyaluronic Acid Hydrogel Dermal Filler Cross-Linked With Lysine Amino Acid for Skin Augmentation and Rejuvenation.	Aesthet Surg J	2023 Dec 14
+37263327	Oxidized carboxymethyl cellulose/gelatin in situ gelling hydrogel for accelerated diabetic wound healing: Synthesis, characterization, and in vivo investigations.	Int J Biol Macromol	2023 Jul 1
+37251563	Advanced phosphocreatine-grafted chitosan hydrogel promote wound healing by macrophage modulation.	Front Bioeng Biotechnol	2023
+37249520	3D Prestress Bioprinting of Directed Tissues.	Adv Healthc Mater	2023 Nov
+37244333	Protocatechualdehyde-ferric iron tricomplex embedded gelatin hydrogel with adhesive, antioxidant and photothermal antibacterial capacities for infected wound healing promotion.	Int J Biol Macromol	2023 Jul 1
+37241772	Rosmarinic Acid-Grafted Dextran/Gelatin Hydrogel as a Wound Dressing with Improved Properties: Strong Tissue Adhesion, Antibacterial, Antioxidant and Anti-Inflammatory.	Molecules	2023 May 11
+37240701	Triticum vulgare Extract and Polyhexanide (Fitostimoline(®) Hydrogel/Fitostimoline(®) Plus Gauze) versus Saline Gauze Dressing in Patients with Diabetic Foot Ulcers: Results of a Randomized Controlled Trial.	J Clin Med	2023 May 22
+37233022	Application of Silk-Fibroin-Based Hydrogels in Tissue Engineering.	Gels	2023 May 22
+37232965	Formulation Development and Evaluation of Indian Propolis Hydrogel for Wound Healing.	Gels	2023 May 1
+37232946	Tissue Adhesive, Biocompatible, Antioxidant, and Antibacterial Hydrogels Based on Tannic Acid and Fungal-Derived Carboxymethyl Chitosan for Wound-Dressing Applications.	Gels	2023 Apr 22
+37230936	Peptide Supramolecular Hydrogels with Sustained Release Ability for Combating Multidrug-Resistant Bacteria.	ACS Appl Mater Interfaces	2023 Jun 7
+37230636	An extracellular matrix-inspired self-healing composite hydrogel for enhanced platelet-rich plasma-mediated chronic diabetic wound treatment.	Carbohydr Polym	2023 Sep 1
+37230435	ROS scavenging and immunoregulative EGCG@Cerium complex loaded in antibacterial polyethylene glycol-chitosan hydrogel dressing for skin wound healing.	Acta Biomater	2023 Aug
+37224450	Assessment of the Efficacy of an LL-37-Encapsulated Keratin Hydrogel for the Treatment of Full-Thickness Wounds.	ACS Appl Bio Mater	2023 Jun 19
+37217043	Formulation development of collagen/chitosan-based porous scaffolds for skin wounds repair and regeneration.	Int J Biol Macromol	2023 Jul 1
+37215513	Application of hydrogel wound dressings in cell therapy-approaches to assessment in vitro.	Int J Burns Trauma	2023
+37213227	Hydrogel with ROS scavenging effect encapsulates BR@Zn-BTB nanoparticles for accelerating diabetic mice wound healing via multimodal therapy.	iScience	2023 Jun 16
+37211601	Multifunctional antibacterial bioactive nanoglass hydrogel for normal and MRSA infected wound repair.	J Nanobiotechnology	2023 May 21
+37207757	Alginate-modulated continuous assembly of iron/tannic acid composites as photothermally responsive wound dressings for hemostasis and drug resistant bacteria eradication.	Int J Biol Macromol	2023 Jul 1
+37207743	Ultra-stretchable, tissue-adhesive, shape-adaptive, self-healing, on-demand removable hydrogel dressings with multiple functions for infected wound healing in regions of high mobility.	Acta Biomater	2023 Aug
+37206880	Colorimetric pH-responsive and hemostatic hydrogel-based bioadhesives containing functionalized silver nanoparticles.	Mater Today Bio	2023 Jun
+37201448	Tannic acid-based dual-network homogeneous hydrogel with antimicrobial and pro-healing properties for infected wound healing.	Colloids Surf B Biointerfaces	2023 Jul
+37194321	A hybrid hydrogel constructed using drug loaded mesoporous silica and multiple response copolymer as an intelligent dressing for wound healing of diabetic foot ulcers.	J Mater Chem B	2023 Jun 7
+37182937	Injectable chitosan/xyloglucan composite hydrogel with mechanical adaptivity and endogenous bioactivity for skin repair.	Carbohydr Polym	2023 Aug 1
+37182205	Protocol for preparation of a photo-triggering double cross-linked adhesive, antibacterial, and biocompatible hydrogel for wound healing.	STAR Protoc	2023 May 13
+37179612	Role of Graphene Oxide in Bacterial Cellulose-Gelatin Hydrogels for Wound Dressing Applications.	ACS Omega	2023 May 9
+37173819	An Adhesive/Anti-Adhesive Janus Tissue Patch for Efficient Closure of Bleeding Tissue with Inhibited Postoperative Adhesion.	Adv Sci (Weinh)	2023 Jul
+37173046	Oligochitosan and oxidized nucleoside-based bioderived hydrogels for wound healing.	Carbohydr Polym	2023 Aug 15
+37173039	NIR- and pH-responsive injectable nanocomposite alginate-graft-dopamine hydrogel for melanoma suppression and wound repair.	Carbohydr Polym	2023 Aug 15
