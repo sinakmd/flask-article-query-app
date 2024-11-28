@@ -1,9 +1,11 @@
-from flask import Flask, render_template, request, send_file
 import os
+from flask import Flask, render_template, request, jsonify
+import requests
 import pandas as pd
-from Bio import Entrez
+from io import StringIO
+import codecs
 
-app = Flask(__name__)  # Define the Flask application instance
+app = Flask(__name__)
 
 @app.route('/')
 def index():
@@ -11,82 +13,51 @@ def index():
 
 @app.route('/search', methods=['POST'])
 def search():
-    query = request.form['query']
-    email = request.form['email']
-    Entrez.email = email  # Update email dynamically based on user input
-
-    # Search parameters
-    results_per_request = 1000
-    total_results_to_fetch = 10000
-
-    # PubMed search logic...
     try:
-        handle = Entrez.esearch(db="pubmed", term=query, retmax=total_results_to_fetch, usehistory="y")
-        record = Entrez.read(handle)
-        handle.close()
+        query = request.form.get('query')
+        email = request.form.get('email')
 
-        id_list = record["IdList"]
+        # Simulate fetching PubMed data
+        results = [
+            {"Title": "Example Title 1", "Authors": "Author1, Author2", "Journal": "Journal1", "Year": "2021"},
+            {"Title": "Example Title 2", "Authors": "Author3, Author4", "Journal": "Journal2", "Year": "2022"},
+            # Add more simulated data here
+        ]
 
-        if not id_list:
-            return render_template('results.html', message="No results found.", total_files_created=0)
+        # Save combined CSV and TXT
+        output_dir = 'downloads'
+        os.makedirs(output_dir, exist_ok=True)
 
-        os.makedirs('downloads', exist_ok=True)
-        combined_data = []
-        total_files = 0
-        individual_files = []
+        combined_csv = "combined_results.csv"
+        combined_txt = "combined_results.txt"
 
-        for i in range(0, len(id_list), results_per_request):
-            chunk_ids = id_list[i:i + results_per_request]
+        with codecs.open(os.path.join(output_dir, combined_csv), 'w', encoding='utf-8') as csv_file:
+            pd.DataFrame(results).to_csv(csv_file, index=False)
 
-            summary_handle = Entrez.esummary(db="pubmed", id=",".join(chunk_ids), retmax=results_per_request)
-            summaries = Entrez.read(summary_handle)
-            summary_handle.close()
+        with codecs.open(os.path.join(output_dir, combined_txt), 'w', encoding='utf-8') as txt_file:
+            pd.DataFrame(results).to_csv(txt_file, sep='\t', index=False)
 
-            data = [
-                {
-                    'PMID': doc.get('Id', ''),
-                    'Title': doc.get('Title', ''),
-                    'Source': doc.get('Source', ''),
-                    'PubDate': doc.get('PubDate', '')
-                } for doc in summaries
-            ]
-
-            df = pd.DataFrame(data)
-            total_files += 1
-
-            csv_filename = f'results_{total_files}.csv'
-            text_filename = f'results_{total_files}.txt'
-            df.to_csv(f'downloads/{csv_filename}', index=False)
-            df.to_csv(f'downloads/{text_filename}', index=False, sep='\t')
-
-            individual_files.append(csv_filename)
-            individual_files.append(text_filename)
-
-            combined_data.extend(data)
-
-        combined_df = pd.DataFrame(combined_data)
-        combined_csv_path = 'downloads/combined_results.csv'
-        combined_txt_path = 'downloads/combined_results.txt'
-        combined_df.to_csv(combined_csv_path, index=False)
-        combined_df.to_csv(combined_txt_path, index=False, sep='\t')
-
+        # Return results
         return render_template(
             'results.html',
-            total_files_created=total_files,
-            combined_csv="combined_results.csv",
-            combined_txt="combined_results.txt",
-            individual_files=individual_files
+            results=results,
+            total_files_created=1,  # Simulated total files created
+            combined_csv=combined_csv,
+            combined_txt=combined_txt
         )
+
     except Exception as e:
-        return render_template('results.html', message=f"An error occurred: {str(e)}", total_files_created=0)
+        return f"An error occurred: {e}", 500
 
 @app.route('/download/<filename>')
-def download(filename):
+def download_file(filename):
     file_path = os.path.join('downloads', filename)
     if os.path.exists(file_path):
         return send_file(file_path, as_attachment=True)
     else:
-        return "File not found", 404
+        return f"File {filename} not found!", 404
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Use the PORT environment variable set by the hosting platform
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port, debug=True)
